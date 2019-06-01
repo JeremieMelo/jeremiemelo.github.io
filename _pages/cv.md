@@ -11,7 +11,7 @@ redirect_from:
 
 [PDF](/files/resume.pdf){: .btn}
 
-## WEI YE
+## JIAQI GU
 {: .text-center}
 Ph.D. Student,  Department of Electrical and Computer Engineering
 {: .text-center}
