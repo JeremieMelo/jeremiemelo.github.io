@@ -34,3 +34,17 @@ author_profile: true
   * Scheduled user access to on-chip FPGA resources by adopting distributed task queue 
   * Wrote paper on research that was published in IEEE 12th International Conference on ASIC, 2017
 
+---
+layout: archive
+title: "Awards and Honors"
+permalink: /experience/
+author_profile: true
+---
+
+{% include base_path %}
+
+* 4th Place in 2019 DAC System Design Contest on Low Power Object Detection, May 2019
+* First Prize Scholarship, Fudan University, 2017 - 2018
+* Top 5, 2018 FUTURELAB AI Contest (CV Group), 2018
+* Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide), 2017
+
