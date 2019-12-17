@@ -1,9 +1,3 @@
-<!--
- * @Author: Jake Gu
- * @Date: 2019-12-16 22:00:35
- * @LastEditors: Jake Gu
- * @LastEditTime: 2019-12-16 22:03:38
- -->
 ---
 layout: archive
 title: "Publications"

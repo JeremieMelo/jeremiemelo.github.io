@@ -1,9 +1,3 @@
-<!--
- * @Author: Jake Gu
- * @Date: 2019-12-16 22:11:07
- * @LastEditors: Jake Gu
- * @LastEditTime: 2019-12-16 22:13:09
- -->
 ---
 layout: archive
 title: "CV"

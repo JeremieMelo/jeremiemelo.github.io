@@ -1,9 +1,3 @@
-<!--
- * @Author: Jake Gu
- * @Date: 2019-12-16 22:08:27
- * @LastEditors: Jake Gu
- * @LastEditTime: 2019-12-16 22:08:27
- -->
 ---
 permalink: /
 title: "About"

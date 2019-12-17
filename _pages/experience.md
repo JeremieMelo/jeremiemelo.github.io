@@ -1,9 +1,3 @@
-<!--
- * @Author: Jake Gu
- * @Date: 2019-12-16 22:07:12
- * @LastEditors: Jake Gu
- * @LastEditTime: 2019-12-16 22:07:12
- -->
 ---
 layout: archive
 title: "Work Experience"
