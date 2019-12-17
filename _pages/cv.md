@@ -1,3 +1,9 @@
+<!--
+ * @Author: Jake Gu
+ * @Date: 2019-12-16 22:11:07
+ * @LastEditors: Jake Gu
+ * @LastEditTime: 2019-12-16 22:11:44
+ -->
 ---
 layout: archive
 title: "CV"
@@ -26,32 +32,34 @@ Education
 
 Work experience
 ------
-* University of Texas at Austin (Aug 2018 - Present) 
+* University of Texas at Austin (Aug 2018 - Present)
   * University of Texas at Austin, Austin, TX
 
 
 Skills
 ------
 * Programming languages
+  * Python
+  * PyTorch \& Tensorflow
   * C/C++
   * CUDA
-  * Python
-  * Tensorflow \& PyTorch 
   * Verilog \& Chisel
-  
+
 
 Awards and Honors
 ------
 * 4th place in 2019 DAC System Design Contest on Low Power Object Detection, 2019
 
 
-Related Courses 
------- 
+Related Courses
+------
 * EE382N-1: Computer Architecture
-  * Dr. Dam Sunwoo 
-* EE382N-14 High-Speed Computer Arithmetic I:  
-  * Dr. Earl Swartzlander 
+  * Dr. Dam Sunwoo
+* EE382N-14 High-Speed Computer Arithmetic I:
+  * Dr. Earl Swartzlander
 * EE382N-20: Computer Architecture: Parallism/Locality
-  * Dr. Mattan Erez 
-* CS395T: Parallel Algorithm Scientific Computing                   
+  * Dr. Mattan Erez
+* CS395T: Parallel Algorithm Scientific Computing
   * Dr. George Biros
+* CS394R: Reinforcement Learning: Theory and Practice
+  * Dr. Peter Stone and Dr. Scott Niekum
