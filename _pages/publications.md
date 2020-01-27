@@ -1,9 +1,3 @@
-<!--
- * @Author: Jake Gu
- * @Date: 2020-01-26 20:35:47
- * @LastEditors  : Jake Gu
- * @LastEditTime : 2020-01-26 21:13:30
- -->
 ---
 layout: archive
 title: "Publications"
@@ -15,7 +9,6 @@ author_profile: true
 
 Conference Papers
 -------
-
 C6. [Wavelength-division-multiplexing based electronic photonic network for high speed computing]
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
