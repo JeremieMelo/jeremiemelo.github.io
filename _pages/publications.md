@@ -28,7 +28,7 @@ C4. [Wavelength-division-multiplexing based electronic photonic network for high
 C3. [Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture]
    * <a href="/publications/papers/ONN_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen and David Z. Pan
-   * IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Beijing, China, Jan. 13-16, 2020. (Best Paper Award)
+   * IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Beijing, China, Jan. 13-16, 2020. (**Best Paper Award**)
 
 C2. [Design Technology for Scalable and Robust Photonic Integrated Circuits]
    * <a href="/publications/papers/ONN_ICCAD2019_Gu.pdf" style="color:#3793ae">preprint</a>
