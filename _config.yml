@@ -85,8 +85,8 @@ author:
   bio              : "PhD Student at The University of Texas at Austin"
   location         : "Austin, Texas"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            : "jqgu@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
