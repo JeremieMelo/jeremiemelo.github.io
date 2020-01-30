@@ -39,8 +39,8 @@ author_profile: true
   * Wrote a research paper that was published at IEEE 12th International Conference on ASIC, 2017
 
 * **Awards and Honors**
-  * Best paper award on 25th IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan 2020
-  * 4th Place in 2019 DAC System Design Contest on Low Power Object Detection, May 2019
+  * Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan 2020
+  * 4th Place, 2019 DAC System Design Contest on Low Power Object Detection, May 2019
   * First Prize Scholarship, Fudan University, 2017 - 2018
   * Top 5, 2018 FUTURELAB AI Contest (CV Group), 2018
   * Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide), 2017
