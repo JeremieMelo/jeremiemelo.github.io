@@ -1,3 +1,9 @@
+<!--
+ * @Author: Jake Gu
+ * @Date: 2020-02-09 14:04:17
+ * @LastEditors  : Jake Gu
+ * @LastEditTime : 2020-02-09 14:04:17
+ -->
 ---
 layout: archive
 title: "Publications"
@@ -46,7 +52,7 @@ Journal Papers
 C2. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs]
    * <a href="/publications/papers/PD_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Yibo Lin, Wuxi Li, **Jiaqi Gu**, Mark Ren, Brucek Khailany and David Z. Pan
-   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan., 2020. (accepted)
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Feb., 2020.
 
 C1. [Deep Generative Adversarial Networks for Thin-section Infant MR Image Reconstruction](https://doi.org/10.1109/ACCESS.2019.2918926)
    * <a href="/publications/papers/ML_IEEEACCESS2019_Gu.pdf" style="color:#3793ae">preprint</a>
