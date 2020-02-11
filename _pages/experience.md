@@ -9,7 +9,7 @@ author_profile: true
 
 
 * **University of Texas at Austin, USA**
-  * Research Assistant, ECE department, University of Texas at Austin, June 2019 - Present, Austin, TX
+  * Research Assistant, ECE department, University of Texas at Austin, Jan 2019 - Present, Austin, TX
   * Designed novel architecture for area-efficient optical neural network based on Fast Fourier Transformation; achieved 3-4x area reduction than previous ONN architectures; Wrote a research paper that was published at IEEE/ACM ASP-DAC, Jan 2020.
   * Developed noise-aware quantization scheme to enable robust optical neural networks with low-precision voltage controls; achieved better accuracy and robustness to limited control resolution and device-level variations than previous methods; Wrote a research paper that will be published in DATE, Mar 2020.
   * Proposed efficient on-chip learning algorithm for optical neural networks with stochastic zeroth-order optimization algorithms; achieved 3-4x higher ONN forward efficiency and better robustness to thermal variation than previous methods.
