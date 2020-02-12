@@ -9,32 +9,32 @@ author_profile: true
 
 Conference Papers
 -------
-C7. [FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization]
+C7. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (accepted)
 
-C6. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls]
+C6. ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020. (accepted)
 
-C5. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning]
+C5. Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning
    * <a href="/publications/papers/ANALOG_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Mingjie Liu, Keren Zhu, **Jiaqi Gu**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020. (accepted)
 
-C4. [Wavelength-division-multiplexing based electronic photonic network for high speed computing]
+C4. Wavelength-division-multiplexing based electronic photonic network for high speed computing
    * <a href="/publications/papers/ONN_PW2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * SPIE Photonics West, San Francisco, California, United States, Feb. 01-06, 2020.
 
-C3. [Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture]
+C3. Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture
    * <a href="/publications/papers/ONN_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen and David Z. Pan
    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Beijing, China, Jan. 13-16, 2020. (**Best Paper Award**)
 
-C2. [Design Technology for Scalable and Robust Photonic Integrated Circuits]
+C2. [Design Technology for Scalable and Robust Photonic Integrated Circuits](https://doi.org/10.1109/ICCAD45719.2019.8942045)
    * <a href="/publications/papers/ONN_ICCAD2019_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zheng Zhao, **Jiaqi Gu**, Zhoufeng Ying, Chenghao Feng, Ray T. Chen and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov. 4-7, 2019. (invited)
@@ -47,7 +47,7 @@ C1. [Remote Embedded Simulation System for SW/HW Co-design Based On Dynamic Part
 
 Journal Papers
 -------
-C2. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs]
+C2. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)
    * <a href="/publications/papers/PD_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Yibo Lin, Wuxi Li, **Jiaqi Gu**, Mark Ren, Brucek Khailany and David Z. Pan
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Feb., 2020.
