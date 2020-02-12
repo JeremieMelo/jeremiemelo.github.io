@@ -10,7 +10,7 @@ author_profile: true
 Conference Papers
 -------
 C7. [FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization]
-   * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
+   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (accepted)
 
@@ -25,9 +25,9 @@ C5. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction v
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020. (accepted)
 
 C4. [Wavelength-division-multiplexing based electronic photonic network for high speed computing]
-   * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ONN_PW2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * SPIE Photonics West, San Francisco, California, United States, Feb. 01-06, 2020. (accepted)
+   * SPIE Photonics West, San Francisco, California, United States, Feb. 01-06, 2020.
 
 C3. [Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture]
    * <a href="/publications/papers/ONN_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
