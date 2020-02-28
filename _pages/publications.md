@@ -12,12 +12,12 @@ Conference Papers
 C9.  Integrated WDM-based Optical Comparator for High-speed Computing
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * CLEO, San Jose, CA, May. 10-15, 2020. (accepted)
+   * CLEO, San Jose, CA, May 10-15, 2020. (accepted)
 
 C8.  Compact design of On-chip Elman Optical Recurrent Neural Network
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * CLEO, San Jose, CA, May. 10-15, 2020. (accepted)
+   * CLEO, San Jose, CA, May 10-15, 2020. (accepted)
 
 C7. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
