@@ -26,7 +26,7 @@ C7. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stocha
 
 C6. ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
-   * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
+   * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020. (accepted)
 
 C5. Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning
