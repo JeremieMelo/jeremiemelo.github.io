@@ -9,20 +9,20 @@ author_profile: true
 
 Conference Papers
 -------
-C9.  Integrated WDM-based Optical Comparator for High-speed Computing
+C9. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
+   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
+   * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (accepted)
+
+C8. Integrated WDM-based Optical Comparator for High-speed Computing
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * CLEO, San Jose, CA, May 10-15, 2020. (accepted)
 
-C8.  Compact design of On-chip Elman Optical Recurrent Neural Network
+C7. Compact design of On-chip Elman Optical Recurrent Neural Network
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * CLEO, San Jose, CA, May 10-15, 2020. (accepted)
-
-C7. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
-   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
-   * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
-   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (accepted)
 
 C6. ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
@@ -57,6 +57,11 @@ C1. [Remote Embedded Simulation System for SW/HW Co-design Based On Dynamic Part
 
 Journal Papers
 -------
+C3. Electronic-photonic Arithmetic Logic Unit for High-speed Computing
+   <!-- * <a href="/publications/papers/PD_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> -->
+   *  Zhoufeng Ying, Chenghao Feng, Zheng Zhao, Shounak Dhar, Hamed Dalir, **Jiaqi Gu**, Yue Cheng, Richard Soref, David Pan, and Ray Chen
+   * Nature Communications, Apr., 2020. (accepted)
+
 C2. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)
    * <a href="/publications/papers/PD_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Yibo Lin, Wuxi Li, **Jiaqi Gu**, Mark Ren, Brucek Khailany and David Z. Pan
