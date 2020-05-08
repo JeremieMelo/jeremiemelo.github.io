@@ -39,12 +39,12 @@ C5. Towards Decrypting the Art of Analog Layout: Placement Quality Prediction vi
    * Mingjie Liu, Keren Zhu, **Jiaqi Gu**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
 
-C4. Wavelength-division-multiplexing based electronic photonic network for high speed computing
+C4. [Wavelength-division-multiplexing based electronic photonic network for high speed computing](https://doi.org/10.1117/12.2551323)
    * <a href="/publications/papers/ONN_PW2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * SPIE Photonics West, San Francisco, California, United States, Feb. 01-06, 2020.
 
-C3. Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture
+C3. [Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture](https://doi.org/10.1109/ASP-DAC47756.2020.9045156)
    * <a href="/publications/papers/ONN_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen and David Z. Pan
    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Beijing, China, Jan. 13-16, 2020. (**Best Paper Award**)
@@ -62,10 +62,10 @@ C1. [Remote Embedded Simulation System for SW/HW Co-design Based On Dynamic Part
 
 Journal Papers
 -------
-C3. Electronic-photonic Arithmetic Logic Unit for High-speed Computing
-   <!-- * <a href="/publications/papers/PD_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> -->
+C3. [Electronic-photonic Arithmetic Logic Unit for High-speed Computing](https://doi.org/10.1038/s41467-020-16057-3)
+   * <a href="/publications/papers/ONN_NatureComm2020_Gu.pdf" style="color:#3793ae">preprint</a>
    *  Zhoufeng Ying, Chenghao Feng, Zheng Zhao, Shounak Dhar, Hamed Dalir, **Jiaqi Gu**, Yue Cheng, Richard Soref, David Pan, and Ray Chen
-   * Nature Communications, Apr., 2020. (accepted)
+   * Nature Communications, Apr., 2020.
 
 C2. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)
    * <a href="/publications/papers/PD_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
