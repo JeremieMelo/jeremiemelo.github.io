@@ -9,30 +9,35 @@ author_profile: true
 
 Conference Papers
 -------
-C9. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
+C10. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (accepted)
 
+C9. Million-channel parallelism Fourier-optic convolutional filter and neural network processor
+   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
+   * Mario Miscuglio, Zibo Hu, Shurui Li, **Jiaqi Gu**, Aydin Babakhani, Puneet Gupta, Chee-Wei Wong, David Pan, Seth Bank, Hamed Dalir and Volker J. Sorger
+   * CLEO, San Jose, CA, May 10-15, 2020.
+
 C8. Integrated WDM-based Optical Comparator for High-speed Computing
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * CLEO, San Jose, CA, May 10-15, 2020. (accepted)
+   * CLEO, San Jose, CA, May 10-15, 2020.
 
 C7. Compact design of On-chip Elman Optical Recurrent Neural Network
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * CLEO, San Jose, CA, May 10-15, 2020. (accepted)
+   * CLEO, San Jose, CA, May 10-15, 2020.
 
 C6. ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Ray T. Chen and David Z. Pan
-   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020. (accepted)
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
 
 C5. Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning
    * <a href="/publications/papers/ANALOG_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Mingjie Liu, Keren Zhu, **Jiaqi Gu**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
-   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020. (accepted)
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
 
 C4. Wavelength-division-multiplexing based electronic photonic network for high speed computing
    * <a href="/publications/papers/ONN_PW2020_Gu.pdf" style="color:#3793ae">preprint</a>
