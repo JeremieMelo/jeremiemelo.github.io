@@ -29,14 +29,14 @@ author_profile: true
   * Research is developing brand new method to improve reconstruction performance by fusing multi-planar MR images, and improving PSNR, SSIM, and NMI by 26.2%, 93.4%, and 25.3% respectively compared to bicubic interpolation
   * Wrote a research paper on proposed reconstruction method that was published at IEEE Access, May 2019.
 
-* **Fudan University, Shanghai, China**
+<!-- * **Fudan University, Shanghai, China**
   * Research Assistant, Microelectronics department, Fudan University, Sep 2016 - July 2017, Shanghai, China
   * Developed embedded simulation system on Xilinx Zynq-7000 AP SoC with partial reconfiguration techniques; system allows for end-to-end software/hardware co-design project simulation
   * Achieved convenient Wi-Fi connection, flexible development environment, and no network downloading latency
   * Designed embedded server and client PC application that could manage simulation requests from multiple users
   * Designed FPGA circuits using dynamic partial reconfiguration technique to decouple user logic from simulation system’s static logic
   * Scheduled user access to on-chip FPGA resources by adopting distributed task queue
-  * Wrote a research paper that was published at IEEE 12th International Conference on ASIC, 2017
+  * Wrote a research paper that was published at IEEE 12th International Conference on ASIC, 2017 -->
 
 * **Awards and Honors**
   * Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan 2020
