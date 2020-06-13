@@ -42,7 +42,13 @@ Skills
 
 Awards and Honors
 ------
-* 4th place in 2019 DAC System Design Contest on Low Power Object Detection, 2019
+* Young Student Fellow, 57th IEEE/ACM Design Automation Conference (DAC)
+* Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC)
+* 4th Place, 2019 DAC System Design Contest on Low Power Object Detection
+* First Prize Scholarship, Fudan University
+* Top 5, 2018 HUAWEI & FUTURELAB AI Contest (CV Group)
+* Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide)
+* 2nd & 3rd Prize, National Mathematical Contest in Modeling
 
 
 Related Courses
