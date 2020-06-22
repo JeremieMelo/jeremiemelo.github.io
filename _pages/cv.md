@@ -62,3 +62,8 @@ Related Courses
   * Dr. George Biros
 * CS394R: Reinforcement Learning: Theory and Practice
   * Dr. Peter Stone and Dr. Scott Niekum
+* EE382M: VLSI Physical Design Automation
+  * Dr. David Z. Pan
+* EE382V: Cross-layer Machine Learning Algorithm/Hardware Co-design
+  * Dr. Mattan Erez and Dr. Michael Orshansky
+

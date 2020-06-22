@@ -29,12 +29,12 @@ C7. Compact design of On-chip Elman Optical Recurrent Neural Network
    * Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * CLEO, San Jose, CA, May 10-15, 2020.
 
-C6. ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls
+C6. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls](https://doi.org/10.23919/DATE48585.2020.9116521)
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
 
-C5. Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning
+C5. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://doi.org/10.23919/DATE48585.2020.9116330)
    * <a href="/publications/papers/ANALOG_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Mingjie Liu, Keren Zhu, **Jiaqi Gu**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
