@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a> and <a href="{{author.researchgate}}">my ResearchGate profile</a>.
+{: .notice--info}
 
 Conference Papers
 -------

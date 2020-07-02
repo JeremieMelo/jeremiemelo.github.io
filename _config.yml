@@ -86,9 +86,9 @@ author:
   location         : "Austin, Texas"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=FeIV12MAAAAJ&hl=en&authuser=1"
   email            : "jqgu@utexas.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jiaqi_Gu12"
   uri              :
   bitbucket        :
   codepen          :
