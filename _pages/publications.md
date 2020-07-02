@@ -11,7 +11,7 @@ Conference Papers
 -------
 C11. An Efficient Training Framework for Reversible Neural Architectures
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
-   * Zixuan Jiang, Mingjie Liu, **Jiaqi Gu**, Keren Zhu and David Z. Pan
+   * Zixuan Jiang, Keren Zhu, Mingjie Liu, **Jiaqi Gu** and David Z. Pan
    * European Conference on Computer Vision (ECCV), Aug. 23-28, 2020. (accepted)
 
 C10. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
