@@ -74,7 +74,7 @@ Conference Papers
   ### C1. [Remote Embedded Simulation System for SW/HW Co-design Based On Dynamic Partial Reconfiguration](https://doi.org/10.1109/ASICON.2017.8252498)
    * <a href="/publications/papers/FPGA_ASICON2017_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Ruoyao Wang, Jian Wang, Jinmei Lai and Qinghua Duan
-   * IEEE International Conference on ASIC (ASICON), Oct., 25-28, 2017.
+   * IEEE International Conference on ASIC (ASICON), Oct. 25-28, 2017.
 
 
 Journal Papers
