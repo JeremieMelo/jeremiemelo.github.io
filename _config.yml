@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JIAQI GU'S SITE"
+title                    : "JIAQI GU"
 title_separator          : "-"
 name                     : &name "Jiaqi Gu"
 description              : &description "PhD Student at The University of Texas at Austin"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiaqi Gu"
   avatar           : "profile-crop.jpg"
-  bio              : "PhD Student at The University of Texas at Austin"
+  bio              : "PhD Student at <a href='https://www.cerc.utexas.edu/utda/'>UTDA, the University of Texas at Austin</a>"
   location         : "Austin, Texas"
   employer         :
   pubmed           :
