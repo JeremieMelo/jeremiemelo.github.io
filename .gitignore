@@ -1,2 +1,12 @@
-_site/
-
+*.aux
+*.log
+*.out
+*.DS_Store
+tmp.jemdoc
+cv_yibo/cv_yibo_*.pdf
+cv_yibo/doc/publication.tex
+publications.jemdoc
+vendor
+_site
+Gemfile.lock
+.bundle
