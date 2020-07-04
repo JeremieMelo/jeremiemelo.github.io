@@ -23,7 +23,7 @@ News
 
 * 06/2020: Our recent work, _FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization_, is accepted by DAC 2020. Cheers!
 
-* 04/2020: One co-authored paper, _Electronic-photonic Arithmetic Logic Unit for High-speed Computing_, is accepted by Nature Communication (IF: 13.8). Please checkout the [PDF](https://doi.org/10.1038/s41467-020-16057-3). Cheers!
+* 04/2020: One co-authored paper, _Electronic-photonic Arithmetic Logic Unit for High-speed Computing_, is accepted by Nature Communications (IF: 13.8). Please checkout the [PDF](https://doi.org/10.1038/s41467-020-16057-3). Cheers!
 
 * 03/2020: Our recent work, _ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls_, is accepted by DATE 2020. Please checkout the [PDF](https://doi.org/10.23919/DATE48585.2020.9116521). Cheers!
 
