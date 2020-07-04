@@ -4,16 +4,10 @@ main:
     url: /publications/
 
   - title: "Experience"
-    url: /experience/    
-    
-  - title: "Softwares"
-    url: /softwares/
-    
+    url: /experience/
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Students"
-    url: /students/
-    
-  - title: "CECA"
-    url: http://ceca.pku.edu.cn/en/home/index.htm
+
+  - title: "UTDA"
+    url: https://www.cerc.utexas.edu/utda/
