@@ -15,7 +15,10 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 ======
 * 2020
-
+  ### C12. Multi-Electrostatics Based Robust VLSI Placement with Region Constraints
+   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
+   * **Jiaqi Gu**, Zixuan Jiang, Yibo Lin and David Z. Pan
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 02-05, 2020. (accepted)
 
   ### C11. An Efficient Training Framework for Reversible Neural Architectures
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->

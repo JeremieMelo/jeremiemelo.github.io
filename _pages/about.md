@@ -16,6 +16,7 @@ My current research interests include machine learning, algorithm and architectu
 
 News
 ======
+* 07/2020: Our recent work, _Multi-Electrostatics Based Robust VLSI Placement with Region Constraints_, is accepted by ICCAD 2020. Cheers!
 
 * 07/2020: One co-authored paper, _An Efficient Training Framework for Reversible Neural Architectures_, is accepted by ECCV 2020. Cheers!
 
