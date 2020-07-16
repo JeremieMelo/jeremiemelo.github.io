@@ -10,12 +10,14 @@ author_profile: true
 
 * **University of Texas at Austin, USA**
   * Research Assistant, ECE department, University of Texas at Austin, Jan 2019 - Present, Austin, TX
-  * Designed novel architecture for area-efficient optical neural network based on Fast Fourier Transformation; achieved 3-4x area reduction than previous ONN architectures; Wrote a research paper that was published at IEEE/ACM ASP-DAC, Jan 2020.
-  * Developed noise-aware quantization scheme to enable robust optical neural networks with low-precision voltage controls; achieved better accuracy and robustness to limited control resolution and device-level variations than previous methods; Wrote a research paper that will be published in DATE, Mar 2020.
-  * Proposed efficient on-chip learning algorithm for optical neural networks with stochastic zeroth-order optimization algorithms; achieved 3-4x higher ONN forward efficiency and better robustness to thermal variation than previous methods.
-  * Worked on photonic chip tapeout for novel ONN architectures with Synopsys optodesigner.
-  * Collaborated on the design of photonic recurrent neural networks.
-  * Helped develop high-performance CUDA kernels for ASIC global and detailed placement acceleration with GPUs.
+  * Designed novel architecture for area-efficient optical neural network based on Fast Fourier Transformation and structured pruning; achieved 3-4x area reduction compared with previous ONN architectures
+  * Developed noise-aware quantization scheme to enable robust optical neural networks with low-precision voltage controls; achieved better accuracy and robustness with limited control resolution and device-level variations than previous methods
+  * Proposed efficient on-chip learning algorithm for optical neural networks with stochastic zeroth-order optimization algorithms; achieved 3-4x higher ONN forward efficiency and better robustness to thermal variations than previous methods
+  * Worked on photonic chip tapeout for novel ONN architectures with AMF PDKs using Synopsys optodesigner and Lumerical toolkits.
+  * Collaborated on the design, validation, and tapeout of photonic recurrent neural networks using PyTorch, Lumerical toolkits, and Synopsys optodesigner
+  * Collaborated on developing GPU-accelerated concurrent VLSI detailed placement with CUDA; implemented and optimized global swap and parallel auction algorithm for batched-based independent-set-matching; achieved >10x speedup than sequential implementations without quality degradation
+  * Collaborated on high-performance VLSI analytical global placement acceleration with CUDA on GPUs; optimized wirelength and density computation operators with CUDA; developed parallel RUDY/RISA congestion map for routability optimization; achieved 40x speedup in global placement
+  * Developed multi-electrostatics-based robust VLSI placement algorithm with PyTorch/C++/CUDA; proposed multi-electrostatic system for optimization under fence region constraints; developed divergence-aware optimizer for robust nonlinear global placement; achieved >13% HPWL improvement and >11% top5 overflow reduction compared with ISPD2015 contest winners
 
 * **University of Texas at Austin, USA**
   * Research Assistant, ECE department, University of Texas at Austin, Sep 2018 - Jan 2019, Austin, TX
@@ -39,6 +41,7 @@ author_profile: true
   * Wrote a research paper that was published at IEEE 12th International Conference on ASIC, 2017 -->
 
 * **Awards and Honors**
+  * DAC Young Fellow, 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
   * Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan 2020
   * 4th Place, 2019 DAC System Design Contest on Low Power Object Detection, May 2019
   * First Prize Scholarship, Fudan University, 2017 - 2018
