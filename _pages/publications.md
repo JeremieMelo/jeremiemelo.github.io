@@ -26,7 +26,7 @@ Conference Papers
    * European Conference on Computer Vision (ECCV), Aug. 23-28, 2020. (accepted)
 
   ### C10. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
-   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
+   * <a href="/publications/papers/ONN_DAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (accepted)
 
