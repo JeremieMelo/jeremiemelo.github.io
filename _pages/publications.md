@@ -32,22 +32,25 @@ Conference Papers
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (**Best Paper Candidate**)
 
   ### C9. Million-channel parallelism Fourier-optic convolutional filter and neural network processor
-   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
+   * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a>
    * Mario Miscuglio, Zibo Hu, Shurui Li, **Jiaqi Gu**, Aydin Babakhani, Puneet Gupta, Chee-Wei Wong, David Pan, Seth Bank, Hamed Dalir and Volker J. Sorger
-   * CLEO, San Jose, CA, May 10-15, 2020.
+   * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.
 
   ### C8. Integrated WDM-based Optical Comparator for High-speed Computing
-   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
+   * <a href="/publications/papers/ONN_CLEO2020_Gu_WDM.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * CLEO, San Jose, CA, May 10-15, 2020.
+   * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.
 
   ### C7. Compact design of On-chip Elman Optical Recurrent Neural Network
-   <!-- * <a href="" style="color:#3793ae">preprint</a> -->
+   * <a href="/publications/papers/ONN_CLEO2020_Gu_ORNN.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ONN_CLEO2020_Gu_ORNN_poster.pdf" style="color:#3793ae">poster</a>
    * Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * CLEO, San Jose, CA, May 10-15, 2020.
+   * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.
 
   ### C6. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls](https://doi.org/10.23919/DATE48585.2020.9116521)
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ONN_DATE2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
+   * <a href="/publications/papers/ONN_DATE2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.
 
@@ -59,10 +62,12 @@ Conference Papers
   ### C4. [Wavelength-division-multiplexing based electronic photonic network for high speed computing](https://doi.org/10.1117/12.2551323)
    * <a href="/publications/papers/ONN_PW2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * SPIE Photonics West, San Francisco, California, United States, Feb. 01-06, 2020.
+   * SPIE Photonics West: Smart Photonic and Optoelectronic Integrated Circuits XXII, San Francisco, California, United States, Feb. 01-06, 2020.
 
   ### C3. [Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture](https://doi.org/10.1109/ASP-DAC47756.2020.9045156)
    * <a href="/publications/papers/ONN_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ONN_ASPDAC2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
+   * <a href="/publications/papers/ONN_ASPDAC2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen and David Z. Pan
    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Beijing, China, Jan. 13-16, 2020. (**Best Paper Award**)
 
