@@ -42,6 +42,7 @@ author_profile: true
 
 * **Awards and Honors**
   * DAC Young Fellow, 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
+  * Best Paper Award Candidate (1 out of 6), 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
   * Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan 2020
   * 4th Place, 2019 DAC System Design Contest on Low Power Object Detection, May 2019
   * First Prize Scholarship, Fudan University, 2017 - 2018
