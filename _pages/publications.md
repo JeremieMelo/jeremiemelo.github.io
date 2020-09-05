@@ -30,7 +30,7 @@ Conference Papers
    * <a href="/publications/papers/ONN_DAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * <a href="/publications/papers/ONN_DAC2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
-   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (**Best Paper Candidate**)
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (**Best Paper Finalist**)
 
   ### C9. Million-channel parallelism Fourier-optic convolutional filter and neural network processor
    * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a>
