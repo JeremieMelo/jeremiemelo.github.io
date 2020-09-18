@@ -32,21 +32,21 @@ Conference Papers
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (**Best Paper Finalist**)
 
-  ### C9. Million-channel parallelism Fourier-optic convolutional filter and neural network processor
+  ### C9. [Million-channel parallelism Fourier-optic convolutional filter and neural network processor](https://doi.org/10.1364/CLEO_AT.2020.JF3A.4)
    * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a>
    * Mario Miscuglio, Zibo Hu, Shurui Li, **Jiaqi Gu**, Aydin Babakhani, Puneet Gupta, Chee-Wei Wong, David Pan, Seth Bank, Hamed Dalir and Volker J. Sorger
    * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.
 
-  ### C8. Integrated WDM-based Optical Comparator for High-speed Computing
+  ### C8. [Integrated WDM-based Optical Comparator for High-speed Computing](https://doi.org/10.1364/CLEO_SI.2020.SM3O.1)
    * <a href="/publications/papers/ONN_CLEO2020_Gu_WDM.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.
 
-  ### C7. Compact design of On-chip Elman Optical Recurrent Neural Network
+  ### C7. [Compact design of On-chip Elman Optical Recurrent Neural Network](https://doi.org/10.1364/CLEO_AT.2020.JTh2B.8)
    * <a href="/publications/papers/ONN_CLEO2020_Gu_ORNN.pdf" style="color:#3793ae">preprint</a>
    * <a href="/publications/papers/ONN_CLEO2020_Gu_ORNN_poster.pdf" style="color:#3793ae">poster</a>
    * Chenghao Feng, Zheng Zhao, Zhoufeng Ying, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.
+   * CLEO: Applications and Technology, San Jose, CA, May 10-15, 2020.
 
   ### C6. [ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls](https://doi.org/10.23919/DATE48585.2020.9116521)
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
