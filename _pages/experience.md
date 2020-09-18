@@ -41,6 +41,7 @@ author_profile: true
   * Wrote a research paper that was published at IEEE 12th International Conference on ASIC, 2017 -->
 
 * **Awards and Honors**
+  * 7th Place, IWLS Programming Contest, Aug 2020.
   * DAC Young Fellow, 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
   * Best Paper Award Finalist (1 out of 6), 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
   * Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan 2020
