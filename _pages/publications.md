@@ -91,10 +91,10 @@ Journal Papers
 ======
 
 * 2020
-  ### J7. Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability
-   <!-- * <a href="/publications/papers/PD_TCAD2020_DREAMPlace_Gu.pdf" style="color:#3793ae">preprint</a> -->
+  ### J7. [Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability](https://doi.org/10.1109/TCAD.2020.3027649)
+   * <a href="/publications/papers/ONN_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
-   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sept., 2020. (Accepted)
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sept., 2020.
 
   ### J6. [Wavelength-division-multiplexing (WDM)-based integrated electronic–photonic switching network (EPSN) for high-speed data processing and transportation](https://doi.org/10.1515/nanoph-2020-0356)
    * <a href="/publications/papers/ONN_Nanophotonics2020_Gu.pdf" style="color:#3793ae">preprint</a>
