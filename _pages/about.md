@@ -16,6 +16,8 @@ My current research interests include machine learning, algorithm and architectu
 
 News
 ======
+* 10/2020: One co-authored paper, _Sequential logic and pipelining in chip-based electronic-photonic digital computing_, is accepted by IEEE Photonics Journal. Cheers!
+
 * 09/2020: Our recent work, _Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability_, is accepted by IEEE TCAD. Cheers!
 
 * 08/2020: One co-authored paper, _Wavelength-division-multiplexing (WDM)-based integrated electronic–photonic switching network (EPSN) for high-speed data processing and transportation_, is accepted by Nanophotonics (IF: 7.5). Cheers!

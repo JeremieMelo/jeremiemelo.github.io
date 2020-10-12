@@ -24,7 +24,7 @@ Conference Papers
    * <a href="/publications/papers/ML_ECCV2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * <a href="/publications/papers/ML_ECCV2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * Zixuan Jiang, Keren Zhu, Mingjie Liu, **Jiaqi Gu** and David Z. Pan
-   * European Conference on Computer Vision (ECCV), Aug. 23-28, 2020. (accepted)
+   * European Conference on Computer Vision (ECCV), Aug. 23-28, 2020.
 
   ### C10. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
    * <a href="/publications/papers/ONN_DAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
@@ -91,6 +91,11 @@ Journal Papers
 ======
 
 * 2020
+  ### J8. Sequential logic and pipelining in chip-based electronic-photonic digital computing
+   <!-- * <a href="/publications/papers/ONN_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> -->
+   * Zhoufeng Ying, Chenghao Feng, Zheng Zhao, **Jiaqi Gu**, Richard Soref, David Z. Pan and Ray T. Chen
+   * IEEE Photonics Journal, Oct., 2020. (accepted)
+
   ### J7. [Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability](https://doi.org/10.1109/TCAD.2020.3027649)
    * <a href="/publications/papers/ONN_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
