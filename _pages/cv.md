@@ -1,3 +1,9 @@
+<!--
+ * @Author: Jake Gu
+ * @Date: 2020-10-13 23:36:47
+ * @LastEditors: Jake Gu
+ * @LastEditTime: 2020-10-13 23:38:16
+-->
 ---
 layout: archive
 title: "CV"
@@ -66,4 +72,8 @@ Related Courses
   * Dr. David Z. Pan
 * EE382V: Cross-layer Machine Learning Algorithm/Hardware Co-design
   * Dr. Mattan Erez and Dr. Michael Orshansky
+* EE382M-26: VLSI CAD and Optimization
+  * Dr. David Z. Pan
+* EE381V: Combinatorial Optimization
+  * Dr. Constantine Caramanis
 

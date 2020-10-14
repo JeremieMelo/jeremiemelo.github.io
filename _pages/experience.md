@@ -17,7 +17,7 @@ author_profile: true
   * Collaborated on the design, validation, and tapeout of photonic recurrent neural networks using PyTorch, Lumerical toolkits, and Synopsys optodesigner
   * Collaborated on developing GPU-accelerated concurrent VLSI detailed placement with CUDA; implemented and optimized global swap and parallel auction algorithm for batched-based independent-set-matching; achieved >10x speedup than sequential implementations without quality degradation
   * Collaborated on high-performance VLSI analytical global placement acceleration with CUDA on GPUs; optimized wirelength and density computation operators with CUDA; developed parallel RUDY/RISA congestion map for routability optimization; achieved 40x speedup in global placement
-  * Developed multi-electrostatics-based robust VLSI placement algorithm with PyTorch/C++/CUDA; proposed multi-electrostatic system for optimization under fence region constraints; developed divergence-aware optimizer for robust nonlinear global placement; achieved >13% HPWL improvement and >11% top5 overflow reduction compared with ISPD2015 contest winners
+  * Developed multi-electrostatics-based robust VLSI placement framework DREAMPlace 3.0 with PyTorch/C++/CUDA; proposed multi-electrostatic system for optimization under fence region constraints; developed divergence-aware optimizer for robust nonlinear global placement; achieved >13% HPWL improvement and >11% top5 overflow reduction compared with ISPD2015 contest winners
 
 * **University of Texas at Austin, USA**
   * Research Assistant, ECE department, University of Texas at Austin, Sep 2018 - Jan 2019, Austin, TX
