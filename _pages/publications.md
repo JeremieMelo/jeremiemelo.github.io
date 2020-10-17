@@ -91,10 +91,10 @@ Journal Papers
 ======
 
 * 2020
-  ### J8. Sequential logic and pipelining in chip-based electronic-photonic digital computing
-   <!-- * <a href="/publications/papers/ONN_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> -->
+  ### J8. [Sequential logic and pipelining in chip-based electronic-photonic digital computing](https://doi.org/10.1109/JPHOT.2020.3031641)
+   * <a href="/publications/papers/ONN_IEEEPJ2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zhoufeng Ying, Chenghao Feng, Zheng Zhao, **Jiaqi Gu**, Richard Soref, David Z. Pan and Ray T. Chen
-   * IEEE Photonics Journal, Oct., 2020. (accepted)
+   * IEEE Photonics Journal, Oct., 2020.
 
   ### J7. [Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability](https://doi.org/10.1109/TCAD.2020.3027649)
    * <a href="/publications/papers/ONN_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
