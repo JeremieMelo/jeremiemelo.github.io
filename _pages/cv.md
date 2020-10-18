@@ -1,9 +1,3 @@
-<!--
- * @Author: Jake Gu
- * @Date: 2020-10-13 23:36:47
- * @LastEditors: Jake Gu
- * @LastEditTime: 2020-10-13 23:38:16
--->
 ---
 layout: archive
 title: "CV"
@@ -34,6 +28,7 @@ Work experience
 ------
 * University of Texas at Austin (Aug 2018 - Present)
   * University of Texas at Austin, Austin, TX
+  * Advisor: David Z. Pan
 
 
 Skills
