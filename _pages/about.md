@@ -16,7 +16,7 @@ My current research interests include machine learning, algorithm and architectu
 
 News
 ======
-* 11/2020: Our research project _Light in Artificial Intelligence: Efficient Neuromorphic Computing with Optical Neural Networks_ won the **1st Place** in ACM SRC@ICCAD 2020. Cheers!
+* 11/2020: Our research project _Light in Artificial Intelligence: Efficient Neuromorphic Computing with Optical Neural Networks_ won the **1st Place** in ACM/SIGDA Student Research Competition 2020. Cheers!
 
 * 10/2020: One co-authored paper, _Sequential logic and pipelining in chip-based electronic-photonic digital computing_, is accepted by IEEE Photonics Journal. Cheers!
 
