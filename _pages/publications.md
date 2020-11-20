@@ -14,7 +14,8 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 
 Conference Papers
 ======
-* 2020
+* 2021
+
   ### C16. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Feb. 01-05, 2021. (accepted)
@@ -22,6 +23,8 @@ Conference Papers
   ### C15. O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Feb. 01-05, 2021. (accepted)
+
+* 2020
 
   ### C14. Scalable fast-Fourier-transform-based (FFT-based) integrated optical neural network for compact and energy-efficient deep learning
    * Chenghao Feng, **Jiaqi Gu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
