@@ -17,22 +17,26 @@ Conference Papers
 * 2021
 
   ### C16. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
+   * accepted
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
-   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Feb. 01-05, 2021. (accepted)
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.
 
   ### C15. O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands
+   * accepted
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, Ray T. Chen and David Z. Pan
-   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Feb. 01-05, 2021. (accepted)
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.
 
 * 2020
 
   ### C14. Scalable fast-Fourier-transform-based (FFT-based) integrated optical neural network for compact and energy-efficient deep learning
+   * accepted
    * Chenghao Feng, **Jiaqi Gu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
-   * SPIE Photonics West, Nov., 2020. (accepted)
+   * SPIE Photonics West, Nov., 2020.
 
   ### C13. Wavelength-division-multiplexing-based electronic-photonic integrated circuits for high-performance data processing and transportation
+   * accepted
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * SPIE Photonics West, Nov., 2020. (accepted)
+   * SPIE Photonics West, Nov., 2020.
 
   ### C12. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)
    * <a href="/publications/papers/PD_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PD_ICCAD2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
@@ -87,9 +91,9 @@ Conference Papers
 * 2019
 
   ### C2. [Design Technology for Scalable and Robust Photonic Integrated Circuits](https://doi.org/10.1109/ICCAD45719.2019.8942045)
-   * <a href="/publications/papers/ONN_ICCAD2019_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ONN_ICCAD2019_Gu.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
    * Zheng Zhao, **Jiaqi Gu**, Zhoufeng Ying, Chenghao Feng, Ray T. Chen and David Z. Pan
-   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov. 4-7, 2019. (invited)
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov. 4-7, 2019.
 
 * 2017
 
