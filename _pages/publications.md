@@ -34,11 +34,11 @@ Conference Papers
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * SPIE Photonics West, Nov., 2020. (accepted)
 
-  ### C12. DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints
+  ### C12. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)
    * <a href="/publications/papers/PD_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * <a href="/publications/papers/PD_ICCAD2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Zixuan Jiang, Yibo Lin and David Z. Pan
-   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 02-05, 2020. (accepted)
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 02-05, 2020.
 
   ### C11. [An Efficient Training Framework for Reversible Neural Architectures](https://doi.org/10.1007/978-3-030-58583-9_17)
    * <a href="/publications/papers/ML_ECCV2020_Gu.pdf" style="color:#3793ae">preprint</a>
