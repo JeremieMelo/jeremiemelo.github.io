@@ -15,6 +15,10 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 ======
 * 2021
+  ### C17. Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization
+   * accepted
+   * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Ray T. Chen and David Z. Pan
+   * Association for the Advancement of Artificial Intelligence (AAAI), Virtual Conference, Feb. 02-09, 2021.
 
   ### C16. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
    * accepted

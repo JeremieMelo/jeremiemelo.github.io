@@ -18,6 +18,7 @@ author_profile: true
   * Collaborated on developing GPU-accelerated concurrent VLSI detailed placement with CUDA; implemented and optimized global swap and parallel auction algorithm for batched-based independent-set-matching; achieved >10x speedup than sequential implementations without quality degradation
   * Collaborated on high-performance VLSI analytical global placement acceleration with CUDA on GPUs; optimized wirelength and density computation operators with CUDA; developed parallel RUDY/RISA congestion map for routability optimization; achieved 40x speedup in global placement
   * Developed multi-electrostatics-based robust VLSI placement framework DREAMPlace 3.0 with PyTorch/C++/CUDA; proposed multi-electrostatic system for optimization under fence region constraints; developed divergence-aware optimizer for robust nonlinear global placement; achieved >13% HPWL improvement and >11% top5 overflow reduction compared with ISPD2015 contest winners
+  * Proposed efficient ONN on-chip learning framework with power-aware mixed-training strategy and two-level algorithmic sparsity; achieved much better training stability, ~10x training efficiency improvement, and ~10x power reduction than prior methods
 
 * **University of Texas at Austin, USA**
   * Research Assistant, ECE department, University of Texas at Austin, Sep 2018 - Jan 2019, Austin, TX

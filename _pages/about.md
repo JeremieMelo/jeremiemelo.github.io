@@ -16,6 +16,8 @@ My current research interests include machine learning, algorithm and architectu
 
 News
 ======
+* 12/2020: Our recent work, _Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization_, is accepted by AAAI 2021. Cheers!
+
 * 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers!
 
 * 11/2020: Our recent work, _O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands_, is accepted by DATE 2021. Cheers!
