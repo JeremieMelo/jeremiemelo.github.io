@@ -20,15 +20,15 @@ University of Texas at Austin,  Austin, TX 78712
 
 Education
 ------
-* Ph.D. in University of Texas at Austin, Texas, US, 2023 (expected)
-* B.E. in Fudan University, Shanghai, China, 2018
+* Ph.D. in University of Texas at Austin (GPA: 4.00/4.00), Texas, US, 2023 (expected)
+* B.E. in Fudan University (Elite Engineering Program, GPA: 3.91/4.00, Rank: 2/71), Shanghai, China, 2018
 
 
 Work experience
 ------
 * University of Texas at Austin (Aug 2018 - Present)
-  * University of Texas at Austin, Austin, TX
-  * Advisor: David Z. Pan
+  * ECE Department, University of Texas at Austin, Austin, TX
+  * Advisors: David Z. Pan and Ray T. Chen
 
 
 Skills
@@ -43,6 +43,8 @@ Skills
 
 Awards and Honors
 ------
+* 1st Place, ACM/SIGDA Student Research Competition, Nov 2020.
+* 7th Place, IWLS Programming Contest: Machine Learning + Logic Synthesis, Aug 2020.
 * Young Student Fellow, 57th IEEE/ACM Design Automation Conference (DAC)
 * Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC)
 * 4th Place, 2019 DAC System Design Contest on Low Power Object Detection
