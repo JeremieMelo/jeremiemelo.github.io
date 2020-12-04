@@ -175,4 +175,4 @@ Journal Papers
    * <a href="/publications/papers/ML_IEEEACCESS2019_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zeju Li, Yuanyuan Wang, Haowei Yang, Zhongwei Qiao and Jinhua Yu
    * IEEE Access, May, 2019.<br>
-   <img src="../images/ML_IEEEAccess2019_Gu_image.png" height="170" width="680">
+   <img src="../images/ML_IEEEAccess2019_Gu_image.png" height="190" width="760">
