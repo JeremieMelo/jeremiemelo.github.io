@@ -100,7 +100,7 @@ Conference Papers
    * <a href="/publications/papers/ONN_PW2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * SPIE Photonics West: Smart Photonic and Optoelectronic Integrated Circuits XXII, San Francisco, California, United States, Feb. 01-06, 2020.<br>
-   <img src="../images/ONN_PW2020_Gu_image.png" height="170" width="550">
+   <img src="../images/ONN_PW2020_Gu_image.png" height="170" width="550"><img src="../images/ONN_PW2020_Gu_image2.png" height="170" width="210">
 
   ### C3. [Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture](https://doi.org/10.1109/ASP-DAC47756.2020.9045156)
    * <a href="/publications/papers/ONN_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_ASPDAC2020_Gu_slides.pdf" style="color:#3793ae">slides</a> \| <a href="/publications/papers/ONN_ASPDAC2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
