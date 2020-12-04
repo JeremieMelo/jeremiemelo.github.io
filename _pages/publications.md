@@ -69,7 +69,7 @@ Conference Papers
    * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a>
    * Mario Miscuglio, Zibo Hu, Shurui Li, **Jiaqi Gu**, Aydin Babakhani, Puneet Gupta, Chee-Wei Wong, David Pan, Seth Bank, Hamed Dalir and Volker J. Sorger
    * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.<br>
-   <img src="../images/ONN_CLEO2020_4F_Gu_image.png" height="170" width="500">
+   <img src="../images/ONN_CLEO2020_4F_Gu_image.png" height="170" width="450"><img src="../images/ONN_CLEO2020_4F_Gu_image2.png" height="170" width="300">
 
 
   ### C8. [Integrated WDM-based Optical Comparator for High-speed Computing](https://doi.org/10.1364/CLEO_SI.2020.SM3O.1)
