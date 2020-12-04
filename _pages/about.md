@@ -22,7 +22,7 @@ News
 
 * 11/2020: Our recent work, _O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands_, is accepted by DATE 2021. Cheers!
 
-* 11/2020: Our research project _Light in Artificial Intelligence: Efficient Neuromorphic Computing with Optical Neural Networks_ won the **1st Place** in ACM/SIGDA Student Research Competition 2020. Cheers!
+* 11/2020: Our research project _Light in Artificial Intelligence: Efficient Neuromorphic Computing with Optical Neural Networks_ won the **1st Place** in ACM/SIGDA Student Research Competition 2020. Cheers! Please check the [UT ECE News](https://www.ece.utexas.edu/news/phd-student-jiaqi-gu-wins-gold-medal-acmsigda-student-research-competition)!
 
 * 10/2020: One co-authored paper, _Sequential logic and pipelining in chip-based electronic-photonic digital computing_, is accepted by IEEE Photonics Journal. Cheers!
 
@@ -46,7 +46,7 @@ News
 
 * 02/2020: One co-authored paper, _ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs_, is accepted by IEEE TCAD. Please checkout the [PDF](https://doi.org/10.1109/TCAD.2020.2971531) and source code [release](https://github.com/limbo018/DREAMPlace). Cheers!
 
-* 01/2020: Our recent work, _Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture_, received the **Best Paper Award** at ASP-DAC 2020. Please checkout the [PDF](https://doi.org/10.1109/ASP-DAC47756.2020.9045156). Cheers and thanks to all the co-authors!
+* 01/2020: Our recent work, _Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture_, received the **Best Paper Award** at ASP-DAC 2020. Please checkout the [PDF](https://doi.org/10.1109/ASP-DAC47756.2020.9045156). Cheers and thanks to all the co-authors! Please check the [UT ECE News](https://www.ece.utexas.edu/news/texas-ece-students-win-best-paper-award-asp-dac-2020)!
 
 * 11/2019: One co-authored paper, _Design Technology for Scalable and Robust Photonic Integrated Circuits_, is accepted by ICCAD 2019. Please checkout the [PDF](https://doi.org/10.1109/ICCAD45719.2019.8942045). Cheers!
 
