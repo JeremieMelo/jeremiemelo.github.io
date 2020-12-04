@@ -49,7 +49,7 @@ Conference Papers
    * <a href="/publications/papers/PD_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PD_ICCAD2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Zixuan Jiang, Yibo Lin and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 02-05, 2020.<br>
-   <img src="../images/PD_ICCAD2020_Gu_image2.png" height="170" width="280"><img src="../images/PD_ICCAD2020_Gu_image.gif" height="170" width="260" rotate="90">
+   <img src="../images/PD_ICCAD2020_Gu_image2.png" height="310" width="500"><img src="../images/PD_ICCAD2020_Gu_image.gif" height="310" width="260">
 
 
   ### C11. [An Efficient Training Framework for Reversible Neural Architectures](https://doi.org/10.1007/978-3-030-58583-9_17)
@@ -69,7 +69,7 @@ Conference Papers
    * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a>
    * Mario Miscuglio, Zibo Hu, Shurui Li, **Jiaqi Gu**, Aydin Babakhani, Puneet Gupta, Chee-Wei Wong, David Pan, Seth Bank, Hamed Dalir and Volker J. Sorger
    * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.<br>
-   <img src="../images/ONN_CLEO2020_4f_Gu_image.png" height="170" width="500">
+   <img src="../images/ONN_CLEO2020_4F_Gu_image.png" height="170" width="500">
 
 
   ### C8. [Integrated WDM-based Optical Comparator for High-speed Computing](https://doi.org/10.1364/CLEO_SI.2020.SM3O.1)
