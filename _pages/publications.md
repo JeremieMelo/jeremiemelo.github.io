@@ -88,7 +88,7 @@ Conference Papers
    * <a href="/publications/papers/ONN_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DATE2020_Gu_slides.pdf" style="color:#3793ae">slides</a> \| <a href="/publications/papers/ONN_DATE2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Grenoble, France, Mar. 09-13, 2020.<br>
-   <img src="../images/ONN_DATE2020_Gu_image.png" height="170" width="460">
+   <img src="../images/ONN_DATE2020_Gu_image.png" height="170" width="460"><img src="../images/ONN_DATE2020_Gu_image2.png" height="170" width="220">
 
   ### C5. [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://doi.org/10.23919/DATE48585.2020.9116330)
    * <a href="/publications/papers/ANALOG_DATE2020_Gu.pdf" style="color:#3793ae">preprint</a>
@@ -106,7 +106,7 @@ Conference Papers
    * <a href="/publications/papers/ONN_ASPDAC2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_ASPDAC2020_Gu_slides.pdf" style="color:#3793ae">slides</a> \| <a href="/publications/papers/ONN_ASPDAC2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Mingjie Liu, Ray T. Chen and David Z. Pan
    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Beijing, China, Jan. 13-16, 2020. (**Best Paper Award**)<br>
-   <img src="../images/ONN_ASPDAC2020_Gu_image.png" height="170" width="600">
+   <img src="../images/ONN_ASPDAC2020_Gu_image.png" height="150" width="520"><img src="../images/ONN_ASPDAC2020_Gu_image2.png" height="150" width="320">
 
 * 2019
 
@@ -138,7 +138,7 @@ Journal Papers
    * <a href="/publications/papers/ONN_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sept., 2020.<br>
-   <img src="../images/ONN_TCAD2020_Gu_image.png" height="170" width="560">
+   <img src="../images/ONN_TCAD2020_Gu_image.png" height="170" width="520"><img src="../images/ONN_TCAD2020_Gu_image2.png" height="170" width="320">
 
   ### J6. [Wavelength-division-multiplexing (WDM)-based integrated electronic–photonic switching network (EPSN) for high-speed data processing and transportation](https://doi.org/10.1515/nanoph-2020-0356)
    * <a href="/publications/papers/ONN_Nanophotonics2020_Gu.pdf" style="color:#3793ae">preprint</a>
