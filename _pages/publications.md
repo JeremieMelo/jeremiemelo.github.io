@@ -144,7 +144,7 @@ Journal Papers
    * <a href="/publications/papers/ONN_Nanophotonics2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * Nanophotonics, Sept., 2020.<br>
-   <img src="../images/ONN_Nanophotonics2020_Gu_image2.png" height="160" width="470"><img src="../images/ONN_Nanophotonics2020_Gu_image.png" height="160" width="470">
+   <img src="../images/ONN_Nanophotonics2020_Gu_image2.png" height="160" width="440"><img src="../images/ONN_Nanophotonics2020_Gu_image.png" height="160" width="440">
 
   ### J5. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843)
    * <a href="/publications/papers/PD_TCAD2020_DREAMPlace_Gu.pdf" style="color:#3793ae">preprint</a>
@@ -169,7 +169,7 @@ Journal Papers
    * <a href="/publications/papers/ML_EURASIP2019_Gu.pdf" style="color:#3793ae">preprint</a>
    * Ruoyao Wang, Zhenghan Fang, **Jiaqi Gu**, Yi Guo, Shicong Zhou, Yuanyuan Wang, Cai Chang and Jinhua Yu
    * EURASIP Journal on Advances in Signal Processing, Dec., 2019.<br>
-   <img src="../images/ML_EURASIP2019_Gu_image.png" height="170" width="330">
+   <img src="../images/ML_EURASIP2019_Gu_image.png" height="170" width="330"><img src="../images/ML_EURASIP2019_Gu_image2.png" height="170" width="400">
 
   ### J1. [Deep Generative Adversarial Networks for Thin-section Infant MR Image Reconstruction](https://doi.org/10.1109/ACCESS.2019.2918926)
    * <a href="/publications/papers/ML_IEEEACCESS2019_Gu.pdf" style="color:#3793ae">preprint</a>
