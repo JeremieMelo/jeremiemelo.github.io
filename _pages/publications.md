@@ -144,7 +144,7 @@ Journal Papers
    * <a href="/publications/papers/ONN_Nanophotonics2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * Nanophotonics, Sept., 2020.<br>
-   <img src="../images/ONN_Nanophotonics2020_Gu_image.png" height="170" width="520">
+   <img src="../images/ONN_Nanophotonics2020_Gu_image2.png" height="160" width="470"><img src="../images/ONN_Nanophotonics2020_Gu_image.png" height="160" width="470">
 
   ### J5. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843)
    * <a href="/publications/papers/PD_TCAD2020_DREAMPlace_Gu.pdf" style="color:#3793ae">preprint</a>
