@@ -33,18 +33,17 @@ Conference Papers
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
   <img src="../images/ONN_DATE2021_O2NN_Gu_image.png" height="170" width="300"><img src="../images/ONN_DATE2021_O2NN_Gu_image2.png" height="170" width="230">
 
-* 2020
-
   ### C14. Scalable fast-Fourier-transform-based (FFT-based) integrated optical neural network for compact and energy-efficient deep learning
    * accepted
    * Chenghao Feng, **Jiaqi Gu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
-   * SPIE Photonics West, Nov., 2020.
+   * SPIE Photonics West, Nov., 2021.
 
   ### C13. Wavelength-division-multiplexing-based electronic-photonic integrated circuits for high-performance data processing and transportation
    * accepted
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * SPIE Photonics West, Nov., 2020.
+   * SPIE Photonics West, Nov., 2021.
 
+* 2020
   ### C12. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)
    * <a href="/publications/papers/PD_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PD_ICCAD2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Zixuan Jiang, Yibo Lin and David Z. Pan
