@@ -36,12 +36,12 @@ Conference Papers
   ### C14. Scalable fast-Fourier-transform-based (FFT-based) integrated optical neural network for compact and energy-efficient deep learning
    * accepted
    * Chenghao Feng, **Jiaqi Gu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
-   * SPIE Photonics West, Nov., 2021.
+   * SPIE Photonics West, Mar. 06-11, 2021.
 
   ### C13. Wavelength-division-multiplexing-based electronic-photonic integrated circuits for high-performance data processing and transportation
    * accepted
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * SPIE Photonics West, Nov., 2021.
+   * SPIE Photonics West, Mar. 06-11, 2021.
 
 * 2020
   ### C12. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)
