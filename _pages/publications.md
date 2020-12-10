@@ -21,12 +21,11 @@ Conference Papers
    * Association for the Advancement of Artificial Intelligence (AAAI), Virtual Conference, Feb. 02-09, 2021. <br>
    <img src="../images/ONN_AAAI2021_Gu_image.png" height="220" width="600">
 
-  ### C17. Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization
-  * accepted \|
+  ### C17. [Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization](https://arxiv.org/pdf/2012.02530.pdf)
+   * accepted \| <a href="/publications/papers/IWLS_DATE2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Shubham Rai, Walter Lau Neto, Yukio Miyasaka, Xinpei Zhang, Mingfei Yu, Qingyang Yi Masahiro Fujita, Guilherme B. Manske, Matheus F. Pontes, Leomar S. da Rosa Junior, Marilton S. de Aguiar, Paulo F. Butzen, Po-Chun Chien, Yu-Shan Huang, Hoa-Ren Wang, Jie-Hong R. Jiang, **Jiaqi Gu**, Zheng Zhao, Zixuan Jiang, David Z. Pan, Brunno A. de Abreu, Isac de Souza Campos, Augusto Berndt, Cristina Meinhardt, Jonata T. Carvalho, Mateus Grellert, Sergio Bampi, Aditya Lohana, Akash Kumar, Wei Zeng, Azadeh Davoodi, Rasit O. Topaloglu, Yuan Zhou, Jordan Dotzel, Yichi Zhang, Hanyu Wang, Zhiru Zhang, Valerio Tenace, Pierre-Emmanuel Gaillardon, Alan Mishchenko and Satrajit Chatterjee
-   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.
-   <!-- <br> -->
-   <!-- <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="170" width="600"> -->
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
+   <img src="../images/IWLS_DATE2021_Gu_image.png" height="170" width="160"><img src="../images/IWLS_DATE2021_Gu_image2.png" height="170" width="360">
 
   ### C16. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
    * accepted
