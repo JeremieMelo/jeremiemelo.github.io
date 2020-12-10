@@ -43,6 +43,7 @@ Skills
 
 Awards and Honors
 ------
+* Best Poster Award, NSF Workshop on Machine Learning Hardware, Dec 2020.
 * 1st Place, ACM/SIGDA Student Research Competition, Nov 2020.
 * 7th Place, IWLS Programming Contest: Machine Learning + Logic Synthesis, Aug 2020.
 * Young Student Fellow, 57th IEEE/ACM Design Automation Conference (DAC)

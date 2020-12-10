@@ -15,11 +15,18 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 ======
 * 2021
-  ### C17. Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization
+  ### C18. Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization
    * accepted
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Ray T. Chen and David Z. Pan
    * Association for the Advancement of Artificial Intelligence (AAAI), Virtual Conference, Feb. 02-09, 2021. <br>
    <img src="../images/ONN_AAAI2021_Gu_image.png" height="220" width="600">
+
+  ### C17. Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization
+  * accepted \|
+   * Shubham Rai, Walter Lau Neto, Yukio Miyasaka, Xinpei Zhang, Mingfei Yu, Qingyang Yi Masahiro Fujita, Guilherme B. Manske, Matheus F. Pontes, Leomar S. da Rosa Junior, Marilton S. de Aguiar, Paulo F. Butzen, Po-Chun Chien, Yu-Shan Huang, Hoa-Ren Wang, Jie-Hong R. Jiang, **Jiaqi Gu**, Zheng Zhao, Zixuan Jiang, David Z. Pan, Brunno A. de Abreu, Isac de Souza Campos, Augusto Berndt, Cristina Meinhardt, Jonata T. Carvalho, Mateus Grellert, Sergio Bampi, Aditya Lohana, Akash Kumar, Wei Zeng, Azadeh Davoodi, Rasit O. Topaloglu, Yuan Zhou, Jordan Dotzel, Yichi Zhang, Hanyu Wang, Zhiru Zhang, Valerio Tenace, Pierre-Emmanuel Gaillardon, Alan Mishchenko and Satrajit Chatterjee
+   * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.
+   <!-- <br> -->
+   <!-- <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="170" width="600"> -->
 
   ### C16. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
    * accepted
