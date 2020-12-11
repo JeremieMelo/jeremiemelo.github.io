@@ -31,13 +31,13 @@ Conference Papers
    * accepted
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
-   <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="170" width="600">
+   <!-- <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="170" width="600"> -->
 
   ### C15. O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands
    * accepted
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
-  <img src="../images/ONN_DATE2021_O2NN_Gu_image.png" height="170" width="300"><img src="../images/ONN_DATE2021_O2NN_Gu_image2.png" height="170" width="230">
+  <!-- <img src="../images/ONN_DATE2021_O2NN_Gu_image.png" height="170" width="300"><img src="../images/ONN_DATE2021_O2NN_Gu_image2.png" height="170" width="230"> -->
 
   ### C14. Scalable fast-Fourier-transform-based (FFT-based) integrated optical neural network for compact and energy-efficient deep learning
    * accepted
