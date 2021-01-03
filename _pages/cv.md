@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF format EN](/files/Resume_Jiaqi Gu_v6.pdf){: .btn}
+[PDF format EN](/files/Resume_Jiaqi Gu_v7.pdf){: .btn}
 
 ## JIAQI GU
 {: .text-center}
@@ -28,7 +28,7 @@ Work experience
 ------
 * University of Texas at Austin (Aug 2018 - Present)
   * ECE Department, University of Texas at Austin, Austin, TX
-  * Advisors: David Z. Pan and Ray T. Chen
+  * Advisors: David Z. Pan; Co-advisor: Ray T. Chen
 
 
 Skills
@@ -66,6 +66,8 @@ Related Courses
   * Dr. George Biros
 * CS394R: Reinforcement Learning: Theory and Practice
   * Dr. Peter Stone and Dr. Scott Niekum
+* EE382M: VLSI I
+  * Dr. Jacob A. Abraham
 * EE382M: VLSI Physical Design Automation
   * Dr. David Z. Pan
 * EE382V: Cross-layer Machine Learning Algorithm/Hardware Co-design
