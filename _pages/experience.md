@@ -12,6 +12,7 @@ author_profile: true
   * Research Assistant, ECE department, University of Texas at Austin, Jan 2019 - Present, Austin, TX
   * **Efficient  Neural  Arch.  Design, NN Pruning**:   Designed  novel  frequency-domain  photonic  neuromorphic  computing architecture for area-efficient optical neural network; achieved 3-4× area reduction by using block-circulant matrices and structured pruning compared with previous ONN architectures
   * **NN Quantization and Robustness**:  Developed differentiable quantization-aware training scheme in the unitary manifold to enable robust optical neural networks with low-precision voltage controls; achieved better accuracy and robustness with limited control resolution and device-level variations
+  * **Photonics CNN and RNN Design**: Collaborated on designing high-throughput and low-power photonic CNN architectures; helped design and fabricate high-speed silicon-photonic RNN
   * **NN On-chip Learning**: Developed customized CUDA extension for ONN simulation acceleration; proposed efficienton-chip learning algorithm for optical neural networks with stochastic zeroth-order optimization; achieved 3-4× higher learning efficiency, 10× better scalability, and better robustness than previous methods
   * **NN Efficient Training Framework**:  Collaborated on developing efficient training framework for reversible neural architectures via constrained optimization; our dynamic programming based scheduling achieves 5-20% speedup with comparable memory efficiency when training reversible NNs
   * **Photonics Neural Chip Tapeout**:  Worked on photonic neural chip tapeout for novel ONN architectures using Advanced Micro Foundry (AMF); collaborated on the full-stack schematic design, layout, validation, tape-out, and measurement of photonic neural chips using PyTorch, Lumerical toolkits, and Synopsys optodesigner
@@ -28,9 +29,9 @@ author_profile: true
 * **Fudan University, Shanghai, China**
   * Research Assistant, EE department, Fudan University, Aug 2017 - July 2018, Shanghai, China
   * **Medical Imaging Dataset**: Modified infant brain atlas offered by UNC and created complete tissue probability maps
-  * **MRI Reconstruction**: Developed two-stage reconstruction framework for infant thin-section MR image reconstruction by using GANs and CNN
-  * **Ultra-sonic Image Processing**: Research is developing brand new method to improve reconstruction performance by fusing multi-planar MR images, and improving PSNR, SSIM, and NMI by 26.2%, 93.4%, and 25.3% respectively compared to bicubic interpolation
-  * Wrote a research paper on proposed reconstruction method that was published at IEEE Access, May 2019.
+  * **MRI Reconstruction**: Developed two-stage reconstruction framework for infant thin-section MR image reconstruction by using GANs and CNN; research is developing brand new method to improve reconstruction performance by fusing multi-planar MR images, and improving PSNR, SSIM, and NMI by 26.2%, 93.4%, and 25.3% respectively compared to bicubic interpolation
+  * **Ultra-sonic Image Processing**: Collaborated on super-resolution reconstruction of ultra-sonic imaging using U-Net and GANs; improved the full width at half maximum (FWHM) of point targets by 3.23%
+
 
 <!-- * **Fudan University, Shanghai, China**
   * Research Assistant, Microelectronics department, Fudan University, Sep 2016 - July 2017, Shanghai, China
