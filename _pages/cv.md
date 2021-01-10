@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF format EN](/files/Resume_JiaqiGu_v7.pdf){: .btn}
+[PDF format EN](/files/Jiaqi_Gu_CV_EN.pdf){: .btn}
 
 ## JIAQI GU
 {: .text-center}
