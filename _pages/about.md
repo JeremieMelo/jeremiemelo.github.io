@@ -12,10 +12,10 @@ I am currently a Ph.D. student at the Department of Electrical and Computer Engi
 Previously, I received the B.E. degree in microelectronic science and engineering from [Fudan University](http://www.fudan.edu.cn/en/), in 2018.
 
 My current research interests include
- * Machine Learning
+ * Machine Learning and Optimization
  * Efficient Algorithm and Architecture Design for Next-generation AI
  * Software/Hardware Co-design for Emerging Neuromorphic Computing
- * GPU Acceleration for VLSI Design Automation
+ * Parallel Computing and GPU Acceleration for VLSI Design Automation
 <!-- My current research interests include machine learning, algorithm and architecture design, software/hardware co-design for neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 <!-- My current research interests include machine learning, algorithm and architecture design for AI acceleration, software/hardware co-design for optical neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 
