@@ -13,8 +13,8 @@ Previously, I received the B.E. degree in microelectronic science and engineerin
 
 My current research interests include
  * Machine Learning and Optimization
- * Algorithm and Architecture Design for Next-generation AI
- * Software/Hardware Co-design, Efficient Neuromorphic Computing with Emerging Technology
+ * Efficient Algorithm and Architecture Design for Next-generation AI
+ * Software/Hardware Co-design, High-Performance AI Computing with Emerging Technology
  * Parallel Computing and GPU Acceleration for VLSI Design Automation
 <!-- My current research interests include machine learning, algorithm and architecture design, software/hardware co-design for neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 <!-- My current research interests include machine learning, algorithm and architecture design for AI acceleration, software/hardware co-design for optical neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
