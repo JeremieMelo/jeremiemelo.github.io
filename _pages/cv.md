@@ -76,4 +76,6 @@ Related Courses
   * Dr. David Z. Pan
 * EE381V: Combinatorial Optimization
   * Dr. Constantine Caramanis
+* EE381V: Advanced Topics in Computer Vision (in progress)
+  * Dr. Zhangyang (Atlas) Wang
 
