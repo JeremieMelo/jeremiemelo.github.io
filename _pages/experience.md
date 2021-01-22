@@ -10,7 +10,7 @@ author_profile: true
 
 * **University of Texas at Austin, USA**
   * Research Assistant, ECE department, University of Texas at Austin, Jan 2019 - Present, Austin, TX
-  * **Efficient  Neural  Arch.  Design, NN Pruning**:   Designed  novel  frequency-domain  photonic  neuromorphic  computing architecture for area-efficient optical neural network; achieved 3-4× area reduction by using block-circulant matrices and structured pruning compared with previous ONN architectures
+  * **Efficient  Neural  Arch.  Design, NN Structured Pruning**:   Designed  novel  frequency-domain  photonic  neuromorphic  computing architecture for area-efficient optical neural network; achieved 3-4× area reduction by using block-circulant matrices and structured pruning compared with previous ONN architectures
   * **NN Quantization and Robustness**:  Developed differentiable quantization-aware training scheme in the unitary manifold to enable robust optical neural networks with low-precision voltage controls; achieved better accuracy and robustness with limited control resolution and device-level variations
   * **Photonics CNN and RNN Design**: Collaborated on designing high-throughput and low-power photonic CNN architectures; helped design and fabricate high-speed silicon-photonic RNN
   * **NN On-Chip/On-Device Learning**: Developed customized CUDA extension for ONN simulation acceleration; proposed efficienton-chip learning algorithm for optical neural networks with stochastic zeroth-order optimization; achieved 3-4× higher learning efficiency, 10× better scalability, and better robustness than previous methods
