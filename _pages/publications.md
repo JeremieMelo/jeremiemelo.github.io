@@ -28,7 +28,7 @@ Conference Papers
    <img src="../images/IWLS_DATE2021_Gu_image.png" height="170" width="160"><img src="../images/IWLS_DATE2021_Gu_image2.png" height="170" width="360">
 
   ### C16. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
-   * accepted
+   * accepted \| <a href="/publications/papers/ONN_DATE2021_SqueezeLight_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
    <!-- <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="170" width="600"> -->
