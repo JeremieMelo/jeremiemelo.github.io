@@ -15,6 +15,12 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 ======
 * 2021
+  ### C19. Integrated  Photonicsfor Computing, Interconnects and Sensing
+   * *Invited Paper*
+   * Jason Midkiff, Ali Rostamian, Kyoung Min Yoo, Aref Asghari, Chao Wang, Chenghao Feng, Zhoufeng Ying, **Jiaqi Gu**, Haixia Mei, Ching-Wen Chang, James Fang, Alan Huang, Jong-Dug Shin, Xiaochuan Xu, Michael Bukshtab, David  Z. Pan, and Ray T. Chen
+   * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
+   <!-- <img src="../images/ONN_AAAI2021_Gu_image.png" height="220" width="600"> -->
+
   ### C18. [Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization](https://arxiv.org/abs/2012.11148)
    * accepted \| <a href="/publications/papers/ONN_AAAI2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Ray T. Chen and David Z. Pan
