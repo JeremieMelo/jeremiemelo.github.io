@@ -15,6 +15,11 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 ======
 * 2021
+  ### C21. Optimizer Fusion: Efficient Training with Better Locality and Parallelism
+   * accepted
+   * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu, Keren Zhu, and David  Z. Pan
+   * International Conference on Learning Representations (ICLR) Workshop, Hardware Aware Efficient Training (HAET), May. 07, 2021. <br>
+
   ### C20. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
    * accepted
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, David  Z. Pan, and Ray T. Chen

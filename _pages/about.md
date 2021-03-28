@@ -15,7 +15,7 @@ My current research interests include
  * Machine Learning and Optimization
  * Efficient Algorithm and Architecture Design for High-Performance AI
  * Software/Hardware Co-design
- * Next-Generation AI Computing with Emerging Technology
+ * 1Next-Generation AI Computing with Emerging Technology
  * Parallel Computing and GPU Acceleration for VLSI Design Automation
 <!-- My current research interests include machine learning, algorithm and architecture design, software/hardware co-design for neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 <!-- My current research interests include machine learning, algorithm and architecture design for AI acceleration, software/hardware co-design for optical neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
@@ -26,6 +26,8 @@ News
 | :-----------------------------: | :-----------------------------: |
 | <img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br>12/2020: Our recent work, _Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization_, is accepted by AAAI 2021. Cheers!| <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers!|
 |<img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers! -->
+* 03/2021: One co-authored paper, _Optimizer Fusion: Efficient Training with Better Locality and Parallelism_, is accepted by ICLR Workshop, HAET 2021. Cheers !
+
 * 12/2020: Our work, _FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization_, won the **Best Poster Award at [NSF Workshop on Machine Learning Hardware 2020](https://sites.google.com/rice.edu/ml-hw-greenai-on-deviceai/posters?authuser=0)**. Cheers!
 
 * 12/2020: Our recent work, _Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization_, is accepted by AAAI 2021. Cheers!
