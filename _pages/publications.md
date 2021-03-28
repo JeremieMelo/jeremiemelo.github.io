@@ -16,7 +16,7 @@ Conference Papers
 ======
 * 2021
   ### C21. Optimizer Fusion: Efficient Training with Better Locality and Parallelism
-   * accepted
+   * accepted \| <a href="/publications/papers/ML_ICLRW2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu, Keren Zhu, and David  Z. Pan
    * International Conference on Learning Representations (ICLR) Workshop, Hardware Aware Efficient Training (HAET), May. 07, 2021. <br>
 
