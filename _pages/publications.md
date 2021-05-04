@@ -147,6 +147,12 @@ Conference Papers
 
 Journal Papers
 ======
+* 2021
+  ### J9. Towards high-speed and energy-efficient computing: A WDM-based scalable on-chip silicon integrated optical comparator
+   * accepted
+   * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
+   * Laser & Photonics Reviews, May., 2021.<br>
+   <!-- <img src="../images/ONN_IEEEPJ2020_Gu_image.png" height="170" width="600"> -->
 
 * 2020
   ### J8. [Sequential logic and pipelining in chip-based electronic-photonic digital computing](https://doi.org/10.1109/JPHOT.2020.3031641)
