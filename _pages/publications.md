@@ -15,83 +15,88 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 ======
 * 2021
-  ### C21. Optimizer Fusion: Efficient Training with Better Locality and Parallelism
+  ### C22. Optimizer Fusion: Efficient Training with Better Locality and Parallelism
    * accepted \| <a href="/publications/papers/ML_ICLRW2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu, Keren Zhu, and David  Z. Pan
    * International Conference on Learning Representations (ICLR) Workshop, Hardware Aware Efficient Training (HAET), May. 07, 2021. <br>
 
-  ### C20. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
+  ### C21. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
    * accepted
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
 
-  ### C19. Integrated  Photonicsfor Computing, Interconnects and Sensing
-   * *Invited Paper*
+  ### C20. [Integrated  Photonicsfor Computing, Interconnects and Sensing](https://www.youtube.com/watch?v=HqR3YVC2CUI)
+   * *Invited Paper* \| <a href="/publications/papers/ONN_CLEO2021_Gu_Invited.pdf" style="color:#3793ae">preprint</a>
    * Jason Midkiff, Ali Rostamian, Kyoung Min Yoo, Aref Asghari, Chao Wang, Chenghao Feng, Zhoufeng Ying, **Jiaqi Gu**, Haixia Mei, Ching-Wen Chang, James Fang, Alan Huang, Jong-Dug Shin, Xiaochuan Xu, Michael Bukshtab, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
-   <!-- <img src="../images/ONN_AAAI2021_Gu_image.png" height="220" width="600"> -->
+   <img src="../images/ONN_CLEO2021_Gu_Invited_image.png" height="220" width="600">
 
-  ### C18. [Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization](https://arxiv.org/abs/2012.11148)
+  ### C19. [Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization](https://arxiv.org/abs/2012.11148)
    * accepted \| <a href="/publications/papers/ONN_AAAI2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Ray T. Chen and David Z. Pan
    * Association for the Advancement of Artificial Intelligence (AAAI), Virtual Conference, Feb. 02-09, 2021. <br>
    <img src="../images/ONN_AAAI2021_Gu_image.png" height="220" width="600">
 
-  ### C17. [Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization](https://arxiv.org/pdf/2012.02530)
+  ### C18. [Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization](https://arxiv.org/pdf/2012.02530)
    * accepted \| <a href="/publications/papers/IWLS_DATE2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Shubham Rai, Walter Lau Neto, Yukio Miyasaka, Xinpei Zhang, Mingfei Yu, Qingyang Yi, Masahiro Fujita, Guilherme B. Manske, Matheus F. Pontes, Leomar S. da Rosa Junior, Marilton S. de Aguiar, Paulo F. Butzen, Po-Chun Chien, Yu-Shan Huang, Hoa-Ren Wang, Jie-Hong R. Jiang, **Jiaqi Gu**, Zheng Zhao, Zixuan Jiang, David Z. Pan, Brunno A. de Abreu, Isac de Souza Campos, Augusto Berndt, Cristina Meinhardt, Jonata T. Carvalho, Mateus Grellert, Sergio Bampi, Aditya Lohana, Akash Kumar, Wei Zeng, Azadeh Davoodi, Rasit O. Topaloglu, Yuan Zhou, Jordan Dotzel, Yichi Zhang, Hanyu Wang, Zhiru Zhang, Valerio Tenace, Pierre-Emmanuel Gaillardon, Alan Mishchenko and Satrajit Chatterjee
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
    <img src="../images/IWLS_DATE2021_Gu_image.png" height="170" width="160"><img src="../images/IWLS_DATE2021_Gu_image2.png" height="170" width="360">
 
-  ### C16. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
+  ### C17. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
    * accepted \| <a href="/publications/papers/ONN_DATE2021_SqueezeLight_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DATE2021_SqueezeLight_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
    <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="170" width="600">
 
-  ### C15. O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands
+  ### C16. O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands
    * accepted \| <a href="/publications/papers/ONN_DATE2021_O2NN_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DATE2021_O2NN_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
   <img src="../images/ONN_DATE2021_O2NN_Gu_image.png" height="170" width="300"><img src="../images/ONN_DATE2021_O2NN_Gu_image2.png" height="170" width="230">
 
-  ### C14. Scalable fast-Fourier-transform-based (FFT-based) integrated optical neural network for compact and energy-efficient deep learning
+  ### C15. Scalable fast-Fourier-transform-based (FFT-based) integrated optical neural network for compact and energy-efficient deep learning
    * accepted
    * Chenghao Feng, **Jiaqi Gu**, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
    * SPIE Photonics West, Mar. 06-11, 2021.
 
-  ### C13. Wavelength-division-multiplexing-based electronic-photonic integrated circuits for high-performance data processing and transportation
+  ### C14. Wavelength-division-multiplexing-based electronic-photonic integrated circuits for high-performance data processing and transportation
    * accepted
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
    * SPIE Photonics West, Mar. 06-11, 2021.
 
 * 2020
-  ### C12. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)
+  ### C13. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)
    * <a href="/publications/papers/PD_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PD_ICCAD2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Zixuan Jiang, Yibo Lin and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 02-05, 2020.<br>
    <img src="../images/PD_ICCAD2020_Gu_image2.png" height="310" width="500"><img src="../images/PD_ICCAD2020_Gu_image.gif" height="310" width="260">
 
 
-  ### C11. [An Efficient Training Framework for Reversible Neural Architectures](https://doi.org/10.1007/978-3-030-58583-9_17)
+  ### C12. [An Efficient Training Framework for Reversible Neural Architectures](https://doi.org/10.1007/978-3-030-58583-9_17)
    * <a href="/publications/papers/ML_ECCV2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ECCV2020_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * Zixuan Jiang, Keren Zhu, Mingjie Liu, **Jiaqi Gu** and David Z. Pan
    * European Conference on Computer Vision (ECCV), Aug. 23-28, 2020.<br>
    <img src="../images/ML_ECCV2020_Gu_image.png" height="170" width="250"><img src="../images/ML_ECCV2020_Gu_image2.png" height="170" width="290">
 
 
-  ### C10. [FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization](https://doi.org/10.1109/DAC18072.2020.9218593)
+  ### C11. [FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization](https://doi.org/10.1109/DAC18072.2020.9218593)
    * <a href="/publications/papers/ONN_DAC2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DAC2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (**Best Paper Finalist**)<br>
    <img src="../images/ONN_DAC2020_Gu_image.png" height="170" width="780">
+
+  ### C10. [Massive parallelism Fourier-optic convolutional processor](https://doi.org/10.1364/SPPCOM.2020.SpTh3I.7)
+   <!-- * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a> -->
+   * Mario Miscuglio, Zibo Hu, Shurui Li, **Jiaqi Gu**, Aydin Babakhani, Puneet Gupta, Chee-Wei Wong, David Pan, Seth Bank, Hamed Dalir, and Volker J. Sorger
+   * OSA Advanced Photonics Congress (AP) Signal Processing in Photonic Communications (SPPCom), Washington, DC, Jul. 13–16, 2020.<br>
+   <!-- <img src="../images/ONN_CLEO2020_4F_Gu_image.png" height="170" width="450"><img src="../images/ONN_CLEO2020_4F_Gu_image2.png" height="170" width="300"> -->
 
   ### C9. [Million-channel parallelism Fourier-optic convolutional filter and neural network processor](https://doi.org/10.1364/CLEO_AT.2020.JF3A.4)
    * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a>
    * Mario Miscuglio, Zibo Hu, Shurui Li, **Jiaqi Gu**, Aydin Babakhani, Puneet Gupta, Chee-Wei Wong, David Pan, Seth Bank, Hamed Dalir and Volker J. Sorger
    * CLEO: Science and Innovations, San Jose, CA, May 10-15, 2020.<br>
    <img src="../images/ONN_CLEO2020_4F_Gu_image.png" height="170" width="450"><img src="../images/ONN_CLEO2020_4F_Gu_image2.png" height="170" width="300">
-
 
   ### C8. [Integrated WDM-based Optical Comparator for High-speed Computing](https://doi.org/10.1364/CLEO_SI.2020.SM3O.1)
    * <a href="/publications/papers/ONN_CLEO2020_Gu_WDM.pdf" style="color:#3793ae">preprint</a>
