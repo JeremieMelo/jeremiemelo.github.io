@@ -19,6 +19,7 @@ Conference Papers
    * accepted \| <a href="/publications/papers/ML_ICLRW2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu, Keren Zhu, and David  Z. Pan
    * International Conference on Learning Representations (ICLR) Workshop, Hardware Aware Efficient Training (HAET), May. 07, 2021. <br>
+   <img src="../images/ML_ICLRW2021_Gu_image.png" height="150" width="600">
 
   ### C21. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
    * accepted
@@ -87,10 +88,10 @@ Conference Papers
    <img src="../images/ONN_DAC2020_Gu_image.png" height="170" width="780">
 
   ### C10. [Massive parallelism Fourier-optic convolutional processor](https://doi.org/10.1364/SPPCOM.2020.SpTh3I.7)
-   <!-- * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a> -->
+   * <a href="/publications/papers/ONN_SPPCom2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * Mario Miscuglio, Zibo Hu, Shurui Li, **Jiaqi Gu**, Aydin Babakhani, Puneet Gupta, Chee-Wei Wong, David Pan, Seth Bank, Hamed Dalir, and Volker J. Sorger
    * OSA Advanced Photonics Congress (AP) Signal Processing in Photonic Communications (SPPCom), Washington, DC, Jul. 13–16, 2020.<br>
-   <!-- <img src="../images/ONN_CLEO2020_4F_Gu_image.png" height="170" width="450"><img src="../images/ONN_CLEO2020_4F_Gu_image2.png" height="170" width="300"> -->
+   <img src="../images/ONN_SPPCom2020_Gu_image.png" height="170" width="780">
 
   ### C9. [Million-channel parallelism Fourier-optic convolutional filter and neural network processor](https://doi.org/10.1364/CLEO_AT.2020.JF3A.4)
    * <a href="/publications/papers/ONN_CLEO2020_Gu_FOCNN.pdf" style="color:#3793ae">preprint</a>
