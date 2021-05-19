@@ -40,7 +40,7 @@ News
 
 * 11/2020: Our recent work, _O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands_, is accepted by DATE 2021. Cheers!
 
-* 11/2020: Our research project _Light in Artificial Intelligence: Efficient Neuromorphic Computing with Optical Neural Networks_ won the **Gold Medal (1st Place) in ACM/SIGDA Student Research Competition 2020**. Cheers! Please check the [UT ECE News](https://www.ece.utexas.edu/news/phd-student-jiaqi-gu-wins-gold-medal-acmsigda-student-research-competition)!
+* 11/2020: Our research project _Light in Artificial Intelligence: Efficient Neuromorphic Computing with Optical Neural Networks_ won the **Gold Medal (1st Place) in ACM/SIGDA Student Research Competition 2020**. Cheers! Please check the [UT ECE News](https://www.ece.utexas.edu/news/phd-student-jiaqi-gu-wins-gold-medal-acmsigda-student-research-competition) and [ACM SRC website](https://src.acm.org/winners/2021)!
 
 * 10/2020: One co-authored paper, _Sequential logic and pipelining in chip-based electronic-photonic digital computing_, is accepted by IEEE Photonics Journal. Cheers!
 
