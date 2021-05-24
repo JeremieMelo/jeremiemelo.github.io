@@ -43,8 +43,9 @@ author_profile: true
   * Wrote a research paper that was published at IEEE 12th International Conference on ASIC, 2017 -->
 
 * **Awards and Honors**
+  * **First Place**, ACM Student Research Competition Grand Finals, May 2021.
   * **Best Poster Award**, NSF Workshop on Machine Learning Hardware, Dec 2020.
-  * **Gold Medal** (1st Place), ACM/SIGDA Student Research Competition, Nov 2020.
+  * **First Place**, ACM/SIGDA Student Research Competition, Nov 2020.
   * 7th Place, IWLS Programming Contest: Machine Learning + Logic Synthesis, Aug 2020.
   * DAC Young Fellow, 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
   * **Best Paper Award Finalist** (1 out of 6), 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
