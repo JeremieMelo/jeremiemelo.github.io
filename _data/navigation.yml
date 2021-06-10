@@ -7,10 +7,13 @@ main:
     url: /publications/
 
   - title: "EXPERIENCE"
-    url: /experience/    
-    
+    url: /experience/
+
+  - title: "SOFTWAREs"
+    url: /softwares/
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "UTDA"
     url: http://www.cerc.utexas.edu/utda/
