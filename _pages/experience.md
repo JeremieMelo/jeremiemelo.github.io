@@ -7,7 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+## **Awards and Honors**
+  * **First Place**, ACM Student Research Competition Grand Finals, May 2021.
+  * **Best Poster Award**, NSF Workshop on Machine Learning Hardware, Dec 2020.
+  * **First Place**, ACM/SIGDA Student Research Competition, Nov 2020.
+  * 7th Place, IWLS Programming Contest: Machine Learning + Logic Synthesis, Aug 2020.
+  * DAC Young Fellow, 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
+  * **Best Paper Award Finalist** (1 out of 6), 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
+  * **Best Paper Award**, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan 2020
+  * 4th Place, 2019 DAC System Design Contest on Low Power Object Detection, May 2019
+  * First Prize Scholarship, Fudan University, 2017 - 2018
+  * Top 5, 2018 FUTURELAB AI Contest (CV Group), 2018
+  * Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide), 2017
 
+## **Research Experience**
 * **University of Texas at Austin, USA**
   * Research Assistant, ECE department, University of Texas at Austin, Jan 2019 - Present, Austin, TX
   * **Efficient  Neural  Arch.  Design, NN Structured Pruning**: Designed  hardware-efficient frequency-domain photonic neural network architecture; achieved 3-4× area reduction by using block-circulant matrices and structured pruning compared with previous ONN architectures; further improved the area and power by 2x and 10x by joint optimization and fine-grained structured pruning
@@ -42,16 +55,5 @@ author_profile: true
   * Scheduled user access to on-chip FPGA resources by adopting distributed task queue
   * Wrote a research paper that was published at IEEE 12th International Conference on ASIC, 2017 -->
 
-* **Awards and Honors**
-  * **First Place**, ACM Student Research Competition Grand Finals, May 2021.
-  * **Best Poster Award**, NSF Workshop on Machine Learning Hardware, Dec 2020.
-  * **First Place**, ACM/SIGDA Student Research Competition, Nov 2020.
-  * 7th Place, IWLS Programming Contest: Machine Learning + Logic Synthesis, Aug 2020.
-  * DAC Young Fellow, 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
-  * **Best Paper Award Finalist** (1 out of 6), 57th IEEE/ACM Design Automation Conference (DAC), Jul 2020
-  * **Best Paper Award**, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan 2020
-  * 4th Place, 2019 DAC System Design Contest on Low Power Object Detection, May 2019
-  * First Prize Scholarship, Fudan University, 2017 - 2018
-  * Top 5, 2018 FUTURELAB AI Contest (CV Group), 2018
-  * Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide), 2017
+
 

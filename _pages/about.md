@@ -28,7 +28,7 @@ News
 |<img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers! -->
 * 06/2021:  A PyTorch-centric Optical Neural Network library [**pytorch-onn**](https://github.com/JeremieMelo/pytorch-onn/tree/develop) that supports fast development and training for ONNs is released!
 
-* 05/2021:  Our research project _Light in Artificial Intelligence: Efficient Neurocomputing with Optical Neural Networks_ won the **First Place in ACM Student Research Competition (SRC) 2021 Grand Finals**. Cheers!
+* 05/2021:  Our research project _Light in Artificial Intelligence: Efficient Neurocomputing with Optical Neural Networks_ won the **First Place in ACM Student Research Competition (SRC) 2021 Grand Finals**. Cheers! Please check [ACM SRC](https://src.acm.org) website and find our work at this [link](https://src.acm.org/binaries/content/assets/src/2021/jiaqi-gu.pdf).
 
 * 05/2021: One co-authored paper, _Towards high-speed and energy-efficient computing: A WDM-based scalable on-chip silicon integrated optical comparator_, is accepted by Laser & Photonics Reviews (IF: 9.6). Cheers!
 
