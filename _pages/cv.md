@@ -43,9 +43,10 @@ Skills
 
 Awards and Honors
 ------
-* Best Poster Award, NSF Workshop on Machine Learning Hardware, Dec 2020.
-* 1st Place, ACM/SIGDA Student Research Competition, Nov 2020.
-* 7th Place, IWLS Programming Contest: Machine Learning + Logic Synthesis, Aug 2020.
+* Cockrell School Graduate Student Fellowship, University of Texas at Austin, Jun 2021
+* Best Poster Award, NSF Workshop on Machine Learning Hardware, Dec 2020
+* 1st Place, ACM/SIGDA Student Research Competition, Nov 2020
+* 7th Place, IWLS Programming Contest: Machine Learning + Logic Synthesis, Aug 2020
 * Young Student Fellow, 57th IEEE/ACM Design Automation Conference (DAC)
 * Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC)
 * 4th Place, 2019 DAC System Design Contest on Low Power Object Detection
