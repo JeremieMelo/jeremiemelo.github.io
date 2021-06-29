@@ -22,7 +22,7 @@ Conference Papers
    <img src="../images/ML_ICLRW2021_Gu_image.png" height="150" width="600">
 
   ### C21. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
-   * accepted
+   * <a href="/publications/papers/ONN_CLEO2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
 
