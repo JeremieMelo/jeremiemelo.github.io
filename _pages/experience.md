@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## **Awards and Honors**
+  * Cockrell School Graduate Student Fellowship, UT Austin, Jun 2021.
   * **First Place**, ACM Student Research Competition Grand Finals, May 2021.
   * **Best Poster Award**, NSF Workshop on Machine Learning Hardware, Dec 2020.
   * **First Place**, ACM/SIGDA Student Research Competition, Nov 2020.
@@ -19,6 +20,11 @@ author_profile: true
   * First Prize Scholarship, Fudan University, 2017 - 2018
   * Top 5, 2018 FUTURELAB AI Contest (CV Group), 2018
   * Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide), 2017
+
+## **Work Experience**
+* **Facebook, USA**
+  * Research Summer Intern, Facebook reality lab, FAST AI team, May 2021 - Present, Austin, TX
+  * Hardware-aware model design for efficient on-device vision inference.
 
 ## **Research Experience**
 * **University of Texas at Austin, USA**
