@@ -15,6 +15,11 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Conference Papers
 ======
 * 2021
+  ### C23. Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation
+   * accepted
+   * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
+   * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
+
   ### C22. Optimizer Fusion: Efficient Training with Better Locality and Parallelism
    * accepted \| <a href="/publications/papers/ML_ICLRW2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu, Keren Zhu, and David  Z. Pan
