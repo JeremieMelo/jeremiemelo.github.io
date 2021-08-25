@@ -16,7 +16,7 @@ Conference Papers
 ======
 * 2021
   ### C23. Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation
-   * accepted
+   * accepted \| <a href="/publications/papers/ML_ICCV2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
 
@@ -31,7 +31,7 @@ Conference Papers
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
 
-  ### C20. [Integrated  Photonicsfor Computing, Interconnects and Sensing](https://www.youtube.com/watch?v=HqR3YVC2CUI)
+  ### C20. [Integrated  Photonics for Computing, Interconnects and Sensing](https://www.youtube.com/watch?v=HqR3YVC2CUI)
    * *Invited Paper* \| <a href="/publications/papers/ONN_CLEO2021_Gu_Invited.pdf" style="color:#3793ae">preprint</a>
    * Jason Midkiff, Ali Rostamian, Kyoung Min Yoo, Aref Asghari, Chao Wang, Chenghao Feng, Zhoufeng Ying, **Jiaqi Gu**, Haixia Mei, Ching-Wen Chang, James Fang, Alan Huang, Jong-Dug Shin, Xiaochuan Xu, Michael Bukshtab, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
