@@ -12,6 +12,14 @@ author_profile: true
 You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a> and <a href="{{author.researchgate}}">my ResearchGate profile</a>.
 {: .notice--info}
 
+Preprint
+======
+* 2021
+  ### P1. Light in Artificial Intelligence: Efficient Neurocomputing with Optical Neural Networks
+   * <a href="/publications/papers/ONN_ACMSRC2021_Gu.pdf" style="color:#3793ae">preprint</a>
+   * **Jiaqi Gu** and David  Z. Pan
+   * ACM Student Research Competition Grand Finals, 2021. (First Place in Graduate Category) <br>
+
 Conference Papers
 ======
 * 2022
@@ -27,12 +35,13 @@ Conference Papers
    * Conference on Neural Information Processing Systems (NeurIPS), Dec. 7-10, 2021. <br>
 
   ### C23. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://arxiv.org/abs/2108.11430)
-   * accepted \| <a href="/publications/papers/ML_ICCV2021_Gu.pdf" style="color:#3793ae">preprint</a>
+   * accepted \| <a href="/publications/papers/ML_ICCV2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ICCV2021_Gu_poster.pdf" style="color:#3793ae">poster</a> \| <a href="/publications/papers/ML_ICCV2021_Gu_poster.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
+   <img src="../images/ML_ICCV2021_Gu_image.png" height="200" width="600">
 
   ### C22. Optimizer Fusion: Efficient Training with Better Locality and Parallelism
-   * accepted \| <a href="/publications/papers/ML_ICLRW2021_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ML_ICLRW2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu, Keren Zhu, and David  Z. Pan
    * International Conference on Learning Representations (ICLR) Workshop, Hardware Aware Efficient Training (HAET), May. 07, 2021. <br>
    <img src="../images/ML_ICLRW2021_Gu_image.png" height="150" width="600">
