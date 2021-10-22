@@ -217,7 +217,7 @@ Journal Papers
   ### J5. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843)
    * <a href="/publications/papers/PD_TCAD2020_DREAMPlace_Gu.pdf" style="color:#3793ae">preprint</a>
    * Yibo Lin, Zixuan Jiang, **Jiaqi Gu**, Wuxi Li, Shounak Dhar, Haoxing Ren, Brucek Khailany and David Z. Pan
-   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun., 2020.<br>
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun., 2020. (**Best Paper Award**)<br>
    <img src="../images/PD_TCAD2020_Gu_image.png" height="170" width="340"><img src="../images/PD_TCAD2020_Gu_image2.png" height="170" width="320">
 
   ### J4. [Electronic-photonic Arithmetic Logic Unit for High-speed Computing](https://doi.org/10.1038/s41467-020-16057-3)
