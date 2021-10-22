@@ -44,6 +44,7 @@ Skills
 Awards and Honors
 ------
 * **Best Paper Award**, IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct 2021
+* Young Student Fellow, 58th IEEE/ACM Design Automation Conference (DAC), Oct 2021
 * Cockrell School Graduate Student Fellowship, University of Texas at Austin, Jun 2021
 * **First Place**, ACM Student Research Competition Grand Finals, May 2021
 * Best Poster Award, NSF Workshop on Machine Learning Hardware, Dec 2020
