@@ -26,6 +26,8 @@ News
 | :-----------------------------: | :-----------------------------: |
 | <img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br>12/2020: Our recent work, _Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization_, is accepted by AAAI 2021. Cheers!| <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers!|
 |<img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers! -->
+* 10/2021: One co-authored paper, _QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits_, is accepted by HPCA 2022. Cheers!
+
 * 10/2021: One co-authored paper, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, received the **Donald O. Pederson Best Paper Award at IEEE TCAD 2021**. Cheers!
 
 * 09/2021: Our recent work, _L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization_, is accepted by NeurIPS 2021. Cheers!
