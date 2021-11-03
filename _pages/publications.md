@@ -23,32 +23,44 @@ Preprint
 Conference Papers
 ======
 * 2022
-  ### C27. [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/abs/2107.10845)
+  ### C29. [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/abs/2107.10845)
    * preprint \| [Code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, Yongshan Ding, **Jiaqi Gu**, Yujun Lin, David Z. Pan, Frederic T. Chong, Song Han
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb. 12–16, 2022. <br>
+   <img src="../images/QUANT_HPCA2021_Gu_image.png" height="260" width="650">
 
-  ### C26. ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement
+  ### C28. ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement
    * accepted
    * Hanqing Zhu, **Jiaqi Gu**, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan. 17-20, 2022. <br>
 
 * 2021
-  ### C25. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](https://arxiv.org/abs/2110.14807)
+  ### C27. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](https://arxiv.org/abs/2110.14807)
    * accepted
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * Conference on Neural Information Processing Systems (NeurIPS), Dec. 7-10, 2021. <br>
+   <img src="../images/NP_NeurIPS2021_Gu_image.png" height="120" width="600">
 
-  ### C24. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://arxiv.org/abs/2108.11430)
+  ### C26. [HRViT: Multi-Scale High-Resolution Vision Transformer](https://arxiv.org/abs/2111.01236)
+   * preprint
+   * **Jiaqi Gu**, Hyoukjun Kwon, Dilin Wang, Wei Ye, Meng Li, Yu-Hsin Chen, Liangzhen Lai, Vikas Chandra, and David  Z. Pan
+   * arXiv preprint 2111.01236. <br>
+
+  ### C25. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://arxiv.org/abs/2108.11430)
    * accepted \| <a href="/publications/papers/ML_ICCV2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ICCV2021_Gu_poster.pdf" style="color:#3793ae">poster</a> \| <a href="/publications/papers/ML_ICCV2021_Gu_poster.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
    <img src="../images/ML_ICCV2021_Gu_image.png" height="200" width="600">
 
-  ### C23. [RoQNN: Noise-Aware Training for Robust Quantum Neural Networks](https://arxiv.org/abs/2110.11331)
+  ### C24. [RoQNN: Noise-Aware Training for Robust Quantum Neural Networks](https://arxiv.org/abs/2110.11331)
    * preprint
    * Hanrui Wang, **Jiaqi Gu**, Yongshan Ding, Zirui Li, Frederic T. Chong, David Z. Pan, Song Han
    * arXiv preprint 2110.11331. <br>
+
+  ### C23. [A New Acceleration Paradigm for Discrete CosineTransform and Other Fourier-Related Transforms](https://arxiv.org/abs/2110.01172)
+   * preprint
+   * Zixuan Jiang, **Jiaqi Gu**, David Z. Pan
+   * arXiv preprint 2110.01172. <br>
 
   ### C22. Optimizer Fusion: Efficient Training with Better Locality and Parallelism
    * <a href="/publications/papers/ML_ICLRW2021_Gu.pdf" style="color:#3793ae">preprint</a>
