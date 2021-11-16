@@ -201,6 +201,11 @@ Conference Papers
 Journal Papers
 ======
 * 2021
+  ### J10. [Silicon photonic subspace neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
+   * preprint
+   * Chenghao Feng*, **Jiaqi Gu***, Hanqing Zhu, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
+   * arXiv preprint 2111.06705. <br>
+
   ### J9. [Toward High‐Speed and Energy‐Efficient Computing: A WDM‐Based Scalable On‐Chip Silicon Integrated Optical Comparator](https://doi.org/10.1002/lpor.202000275)
    * <a href="/publications/papers/ONN_LPR2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
