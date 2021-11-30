@@ -41,7 +41,7 @@ Conference Papers
    * Conference on Neural Information Processing Systems (NeurIPS), Dec. 7-10, 2021. <br>
    <img src="../images/NP_NeurIPS2021_Gu_image.png" height="120" width="600">
 
-  ### C26. [HRViT: Multi-Scale High-Resolution Vision Transformer](https://arxiv.org/abs/2111.01236)
+  ### C26. [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/abs/2111.01236)
    * preprint
    * **Jiaqi Gu**, Hyoukjun Kwon, Dilin Wang, Wei Ye, Meng Li, Yu-Hsin Chen, Liangzhen Lai, Vikas Chandra, and David  Z. Pan
    * arXiv preprint 2111.01236. <br>
