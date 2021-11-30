@@ -15,7 +15,7 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Preprint
 ======
 * 2021
-  ### P1. Light in Artificial Intelligence: Efficient Neurocomputing with Optical Neural Networks
+  ### P1. [Light in Artificial Intelligence: Efficient Neurocomputing with Optical Neural Networks](https://src.acm.org/binaries/content/assets/src/2021/jiaqi-gu.pdf)
    * <a href="/publications/papers/ONN_ACMSRC2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu** and David  Z. Pan
    * ACM Student Research Competition Grand Finals, 2021. (First Place in Graduate Category) <br>
