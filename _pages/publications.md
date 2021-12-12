@@ -30,7 +30,7 @@ Conference Papers
    <img src="../images/QUANT_HPCA2021_Gu_image.png" height="260" width="650">
 
   ### C28. ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement
-   * accepted
+   * accepted \| <a href="/publications/papers/ONN_ASPDAC2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Hanqing Zhu, **Jiaqi Gu**, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan. 17-20, 2022. <br>
 
