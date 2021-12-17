@@ -24,7 +24,7 @@ Conference Papers
 ======
 * 2022
   ### C30. [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/abs/2107.10845)
-   * preprint \| [Code](https://github.com/mit-han-lab/pytorch-quantum)
+   * preprint \| [code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, Yongshan Ding, **Jiaqi Gu**, Yujun Lin, David Z. Pan, Frederic T. Chong, Song Han
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb. 12–16, 2022. <br>
    <img src="../images/QUANT_HPCA2021_Gu_image.png" height="260" width="650">
@@ -41,7 +41,7 @@ Conference Papers
    * arXiv preprint 2112.08703. <br>
 
   ### C27. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](https://arxiv.org/abs/2110.14807)
-   * <a href="/publications/papers/ONN_NeurIPS2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_NeurIPS2021_Gu_poster.pdf" style="color:#3793ae">poster</a> \| <a href="/publications/papers/ONN_NeurIPS2021_Gu_slides.pdf" style="color:#3793ae">slides</a>
+   * <a href="/publications/papers/ONN_NeurIPS2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_NeurIPS2021_Gu_poster.pdf" style="color:#3793ae">poster</a> \| <a href="/publications/papers/ONN_NeurIPS2021_Gu_slides.pdf" style="color:#3793ae">slides</a> \| [code](https://github.com/JeremieMelo/L2ight)
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * Conference on Neural Information Processing Systems (NeurIPS), Dec. 7-10, 2021. <br>
    <img src="../images/NP_NeurIPS2021_Gu_image.png" height="120" width="600">
@@ -63,17 +63,17 @@ Conference Papers
    * arXiv preprint 2110.11331. <br>
 
   ### C23. [A New Acceleration Paradigm for Discrete CosineTransform and Other Fourier-Related Transforms](https://arxiv.org/abs/2110.01172)
-   * preprint
+   * preprint \| [code](https://github.com/JeremieMelo/dct_cuda)
    * Zixuan Jiang, **Jiaqi Gu**, David Z. Pan
    * arXiv preprint 2110.01172. <br>
 
-  ### C22. Optimizer Fusion: Efficient Training with Better Locality and Parallelism
+  ### C22. [Optimizer Fusion: Efficient Training with Better Locality and Parallelism](https://arxiv.org/abs/2104.00237)
    * <a href="/publications/papers/ML_ICLRW2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu, Keren Zhu, and David  Z. Pan
    * International Conference on Learning Representations (ICLR) Workshop, Hardware Aware Efficient Training (HAET), May. 07, 2021. <br>
    <img src="../images/ML_ICLRW2021_Gu_image.png" height="150" width="600">
 
-  ### C21. Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing
+  ### C21. [Experimental Demonstration of a WDM-based Integrated Optical Decoder for Compact Optical Computing](https://doi.org/10.1364/CLEO_SI.2021.SW3C.3)
    * <a href="/publications/papers/ONN_CLEO2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
@@ -85,25 +85,25 @@ Conference Papers
    <img src="../images/ONN_CLEO2021_Gu_Invited_image.png" height="220" width="600">
 
   ### C19. [Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization](https://arxiv.org/abs/2012.11148)
-   * accepted \| <a href="/publications/papers/ONN_AAAI2021_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ONN_AAAI2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Ray T. Chen and David Z. Pan
    * Association for the Advancement of Artificial Intelligence (AAAI), Virtual Conference, Feb. 02-09, 2021. <br>
    <img src="../images/ONN_AAAI2021_Gu_image.png" height="220" width="600">
 
   ### C18. [Logic Synthesis Meets Machine Learning: Trading Exactness for Generalization](https://arxiv.org/pdf/2012.02530)
-   * accepted \| <a href="/publications/papers/IWLS_DATE2021_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/IWLS_DATE2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Shubham Rai, Walter Lau Neto, Yukio Miyasaka, Xinpei Zhang, Mingfei Yu, Qingyang Yi, Masahiro Fujita, Guilherme B. Manske, Matheus F. Pontes, Leomar S. da Rosa Junior, Marilton S. de Aguiar, Paulo F. Butzen, Po-Chun Chien, Yu-Shan Huang, Hoa-Ren Wang, Jie-Hong R. Jiang, **Jiaqi Gu**, Zheng Zhao, Zixuan Jiang, David Z. Pan, Brunno A. de Abreu, Isac de Souza Campos, Augusto Berndt, Cristina Meinhardt, Jonata T. Carvalho, Mateus Grellert, Sergio Bampi, Aditya Lohana, Akash Kumar, Wei Zeng, Azadeh Davoodi, Rasit O. Topaloglu, Yuan Zhou, Jordan Dotzel, Yichi Zhang, Hanyu Wang, Zhiru Zhang, Valerio Tenace, Pierre-Emmanuel Gaillardon, Alan Mishchenko and Satrajit Chatterjee
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
    <img src="../images/IWLS_DATE2021_Gu_image.png" height="170" width="160"><img src="../images/IWLS_DATE2021_Gu_image2.png" height="170" width="360">
 
-  ### C17. SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators
-   * accepted \| <a href="/publications/papers/ONN_DATE2021_SqueezeLight_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DATE2021_SqueezeLight_Gu_slides.pdf" style="color:#3793ae">slides</a>
+  ### C17. [SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators](https://doi.org/10.23919/DATE51398.2021.9474147)
+   * <a href="/publications/papers/ONN_DATE2021_SqueezeLight_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DATE2021_SqueezeLight_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Chenghao Feng, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
    <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="170" width="600">
 
-  ### C16. O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands
-   * accepted \| <a href="/publications/papers/ONN_DATE2021_O2NN_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DATE2021_O2NN_Gu_slides.pdf" style="color:#3793ae">slides</a>
+  ### C16. [O2NN: Optical Neural Networks with Differential Detection-Enabled Optical Operands](https://doi.org/10.23919/DATE51398.2021.9474203)
+   * <a href="/publications/papers/ONN_DATE2021_O2NN_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DATE2021_O2NN_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Zhoufeng Ying, Ray T. Chen and David Z. Pan
    * IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), Virtual Conference, Feb. 01-05, 2021.<br>
   <img src="../images/ONN_DATE2021_O2NN_Gu_image.png" height="170" width="300"><img src="../images/ONN_DATE2021_O2NN_Gu_image2.png" height="170" width="230">
