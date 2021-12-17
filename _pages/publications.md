@@ -23,18 +23,23 @@ Preprint
 Conference Papers
 ======
 * 2022
-  ### C29. [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/abs/2107.10845)
+  ### C30. [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/abs/2107.10845)
    * preprint \| [Code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, Yongshan Ding, **Jiaqi Gu**, Yujun Lin, David Z. Pan, Frederic T. Chong, Song Han
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb. 12–16, 2022. <br>
    <img src="../images/QUANT_HPCA2021_Gu_image.png" height="260" width="650">
 
-  ### C28. ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement
+  ### C29. ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement
    * accepted \| <a href="/publications/papers/ONN_ASPDAC2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Hanqing Zhu, **Jiaqi Gu**, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan. 17-20, 2022. <br>
 
 * 2021
+  ### C28. [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
+   * preprint
+   * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
+   * arXiv preprint 2112.08703. <br>
+
   ### C27. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](https://arxiv.org/abs/2110.14807)
    * accepted
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
