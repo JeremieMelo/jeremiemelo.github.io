@@ -41,7 +41,7 @@ Conference Papers
    * arXiv preprint 2112.08703. <br>
 
   ### C27. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](https://arxiv.org/abs/2110.14807)
-   * accepted
+   * <a href="/publications/papers/ONN_NeurIPS2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_NeurIPS2021_Gu_poster.pdf" style="color:#3793ae">poster</a> \| <a href="/publications/papers/ONN_NeurIPS2021_Gu_slides.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * Conference on Neural Information Processing Systems (NeurIPS), Dec. 7-10, 2021. <br>
    <img src="../images/NP_NeurIPS2021_Gu_image.png" height="120" width="600">
@@ -52,7 +52,7 @@ Conference Papers
    * arXiv preprint 2111.01236. <br>
 
   ### C25. [Towards Memory-Efficient Neural Networks via Multi-Level in situ Generation](https://arxiv.org/abs/2108.11430)
-   * accepted \| <a href="/publications/papers/ML_ICCV2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ICCV2021_Gu_poster.pdf" style="color:#3793ae">poster</a> \| <a href="/publications/papers/ML_ICCV2021_Gu_poster.pdf" style="color:#3793ae">slides</a>
+   * <a href="/publications/papers/ML_ICCV2021_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ML_ICCV2021_Gu_poster.pdf" style="color:#3793ae">poster</a> \| <a href="/publications/papers/ML_ICCV2021_Gu_poster.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
    <img src="../images/ML_ICCV2021_Gu_image.png" height="200" width="600">
