@@ -26,6 +26,10 @@ Education
 
 Work experience
 ------
+* Meta Reality Labs, FAST AI Team (May 2021 - Dec 2021)
+  * Internship
+  * FAST AI Team, Menlo Park, CA
+
 * University of Texas at Austin (Aug 2018 - Present)
   * ECE Department, University of Texas at Austin, Austin, TX
   * Advisors: David Z. Pan; Co-advisor: Ray T. Chen

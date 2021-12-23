@@ -24,8 +24,8 @@ author_profile: true
   * Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide), 2017
 
 ## **Work Experience**
-* **Facebook, USA**
-  * Research Summer Intern, Facebook reality lab, FAST AI team, May 2021 - Present, Austin, TX
+* **Meta Platforms, USA**
+  * Research Summer Intern, Meta reality labs, FAST AI team, May 2021 - Dec 2021, Austin, TX
   * Hardware-aware model design for efficient on-device vision inference.
 
 ## **Research Experience**
