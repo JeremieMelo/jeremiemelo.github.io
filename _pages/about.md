@@ -26,6 +26,14 @@ News
 | :-----------------------------: | :-----------------------------: |
 | <img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br>12/2020: Our recent work, _Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization_, is accepted by AAAI 2021. Cheers!| <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers!|
 |<img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers! -->
+* 02/2022: Our recent work, _ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores_, is accepted by DAC 2022. Cheers!
+
+* 02/2022: One co-authored paper, _On-Chip QNN: Towards Efficient On-Chip Training of Quantum Neural Networks_, is accepted by DAC 2022. Cheers!
+
+* 02/2022: One co-authored paper, _RobustQNN: Noise-Aware Training for Robust Quantum Neural Networks_, is accepted by DAC 2022. Cheers!
+
+* 02/2022: One co-authored paper, _A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction_, is accepted by DAC 2022. Cheers!
+
 * 10/2021: One co-authored paper, _QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits_, is accepted by HPCA 2022. Cheers!
 
 * 10/2021: One co-authored paper, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, received the **Donald O. Pederson Best Paper Award at IEEE TCAD 2021**. Cheers! Please check the [UT ECE News](https://www.ece.utexas.edu/news/david-z-pan-and-team-win-ieee-tcad-best-paper-award).
