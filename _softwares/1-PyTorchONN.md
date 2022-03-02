@@ -6,7 +6,7 @@ permalink: /softwares/1-PyTorchONN
 date: 2021-06-10
 ---
 
-We release **[pytorch-onn](https://github.com/JeremieMelo/pytorch-onn)**,
+We release **[TorchONN](https://github.com/JeremieMelo/pytorch-onn)**,
 an open-source PyTorch-centric optical neural network library.
 We support fast and scalable development, training, and optimization of customized ONN layers and models.
 The tool runs on both CPU and GPU.

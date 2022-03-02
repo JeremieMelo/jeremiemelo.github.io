@@ -33,7 +33,7 @@ Conference Papers
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
-  ### C30. On-Chip QNN: Towards Efficient On-Chip Training of Quantum Neural Networks
+  ### C30. [On-Chip QNN: Towards Efficient On-Chip Training of Quantum Neural Networks](https://arxiv.org/abs/2202.13239)
    * accepted
    * Hanrui Wang, Zirui Li, **Jiaqi Gu**, Yongshan Ding, David Z. Pan, and Song Han
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
