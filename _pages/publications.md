@@ -23,6 +23,16 @@ Preprint
 Conference Papers
 ======
 * 2022
+  ### C34. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
+   * preprint \| accepted
+   * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Zhoufeng Ying, Zheng Zhao, David Z. Pan, and Ray T. Chen
+   * SPIE PC12007, Optical Interconnects XXII, San Francisco, CA, Mar 5, 2022. <br>
+
+  ### C33. [Design and Experimental Demonstration of A Hardware-Efficient Integrated Optical Neural Network](https://doi.org/10.1117/12.2610255)
+   * preprint \| accepted
+   * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, David Z. Pan, and Ray T. Chen
+   * SPIE PC12005, Smart Photonic and Optoelectronic Integrated Circuits, San Francisco, CA, Mar 5, 2022. <br>
+
   ### C32. [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/abs/2111.01236)
    * preprint \| accepted
    * **Jiaqi Gu**, Hyoukjun Kwon, Dilin Wang, Wei Ye, Meng Li, Yu-Hsin Chen, Liangzhen Lai, Vikas Chandra, and David  Z. Pan
