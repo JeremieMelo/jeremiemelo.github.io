@@ -43,13 +43,13 @@ Conference Papers
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
-  ### C30. [On-Chip QNN: Towards Efficient On-Chip Training of Quantum Neural Networks](https://arxiv.org/abs/2202.13239)
-   * accepted
+  ### C30. [QOC: Quantum On-Chip Training with Parameter Shift and Gradient Pruning](https://arxiv.org/abs/2202.13239)
+   * accepted \| [code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, Zirui Li, **Jiaqi Gu**, Yongshan Ding, David Z. Pan, and Song Han
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
-  ### C29. [RobustQNN: Noise-Aware Training for Robust Quantum Neural Networks](https://arxiv.org/abs/2110.11331)
-   * accepted
+  ### C29. [QuantumNAT: Quantum Noise-Aware Training with Noise Injection, Quantization and Normalization](https://arxiv.org/abs/2110.11331)
+   * accepted \| [code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, **Jiaqi Gu**, Yongshan Ding, Zirui Li, Frederic T. Chong, David Z. Pan, and Song Han
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
