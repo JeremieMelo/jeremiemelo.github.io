@@ -39,33 +39,33 @@ Conference Papers
    * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, Louisiana, June 21-24, 2022. <br>
 
   ### C31. [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
-   * accepted \| [code](https://github.com/JeremieMelo/ADEPT)
+   * accepted \| <a href="/publications/papers/ONN_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/JeremieMelo/ADEPT)
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
   ### C30. [QOC: Quantum On-Chip Training with Parameter Shift and Gradient Pruning](https://arxiv.org/abs/2202.13239)
-   * accepted \| [code](https://github.com/mit-han-lab/pytorch-quantum)
+   * accepted \| <a href="/publications/papers/Quant_DAC2022_QOC_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, Zirui Li, **Jiaqi Gu**, Yongshan Ding, David Z. Pan, and Song Han
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
   ### C29. [QuantumNAT: Quantum Noise-Aware Training with Noise Injection, Quantization and Normalization](https://arxiv.org/abs/2110.11331)
-   * accepted \| [code](https://github.com/mit-han-lab/pytorch-quantum)
+   * accepted \| <a href="/publications/papers/Quant_DAC2022_QuantumNAT_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, **Jiaqi Gu**, Yongshan Ding, Zirui Li, Frederic T. Chong, David Z. Pan, and Song Han
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
   ### C28. A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction
-   * accepted
+   * accepted \| <a href="/publications/papers/PD_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zizheng Guo, Mingjie Liu, **Jiaqi Gu**, Shuhan Zhang, David Z. Pan, and Yibo Lin
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
   ### C27. [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/abs/2107.10845)
-   * preprint \| [code](https://github.com/mit-han-lab/pytorch-quantum)
+   * <a href="/publications/papers/Quant_HPCA2022_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/Quant_GTC2022_Gu_poster.pdf" style="color:#3793ae">poster</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, Yongshan Ding, **Jiaqi Gu**, Yujun Lin, David Z. Pan, Frederic T. Chong, and Song Han
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feb. 12–16, 2022. <br>
    <img src="../images/QUANT_HPCA2021_Gu_image.png" height="260" width="650">
 
   ### C26. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://arxiv.org/abs/2112.08512)
-   * accepted \| <a href="/publications/papers/ONN_ASPDAC2022_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ONN_ASPDAC2022_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/zhuhanqing/ELight)
    * Hanqing Zhu, **Jiaqi Gu**, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan. 17-20, 2022. <br>
 
