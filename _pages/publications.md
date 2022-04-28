@@ -226,6 +226,11 @@ Conference Papers
 Journal Papers
 ======
 * 2021
+  ### J11. [Light in AI: Toward Efficient Neurocomputing with Optical Neural Networks - A Tutorial](https://doi.org/10.1109/TCSII.2022.3171170)
+   * accepted
+   * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
+   * IEEE Transactions on Circuits and Systems--II: Express Briefs (TCAS-II), Apr. 26, 2022. <br>
+
   ### J10. [Silicon photonic subspace neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
    * preprint
    * Chenghao Feng\*, **Jiaqi Gu**\*, Hanqing Zhu, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
@@ -234,7 +239,7 @@ Journal Papers
   ### J9. [Toward High‐Speed and Energy‐Efficient Computing: A WDM‐Based Scalable On‐Chip Silicon Integrated Optical Comparator](https://doi.org/10.1002/lpor.202000275)
    * <a href="/publications/papers/ONN_LPR2021_Gu.pdf" style="color:#3793ae">preprint</a>
    * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * Laser & Photonics Reviews, May., 2021.<br>
+   * Laser & Photonics Reviews, May, 2021.<br>
    <img src="../images/ONN_LPR2021_Gu_image.png" height="370" width="500">
 
 * 2020

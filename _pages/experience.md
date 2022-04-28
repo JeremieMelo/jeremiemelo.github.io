@@ -24,6 +24,10 @@ author_profile: true
   * Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide), 2017
 
 ## **Work Experience**
+* **NVIDIA, USA**
+  * Research Summer Intern, VLSI team, May 2022 - Aug 2022, Austin, TX
+  * Efficient neural network compression and hardware acceleration.
+
 * **Meta Platforms, USA**
   * Research Summer Intern, Meta reality labs, FAST AI team, May 2021 - Dec 2021, Austin, TX
   * Hardware-aware model design for efficient on-device vision inference.
