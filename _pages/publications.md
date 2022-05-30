@@ -225,6 +225,12 @@ Conference Papers
 
 Journal Papers
 ======
+* 2022
+  ### J12. ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocomputing
+   * accepted
+   * Hanqing Zhu, **Jiaqi Gu**, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen and David Z. Pan
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2022.<br>
+
 * 2021
   ### J11. [Light in AI: Toward Efficient Neurocomputing with Optical Neural Networks - A Tutorial](https://doi.org/10.1109/TCSII.2022.3171170)
    * accepted
