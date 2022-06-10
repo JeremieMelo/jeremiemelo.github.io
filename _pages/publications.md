@@ -34,7 +34,7 @@ Conference Papers
    * SPIE PC12005, Smart Photonic and Optoelectronic Integrated Circuits, San Francisco, CA, Mar 5, 2022. <br>
 
   ### C32. [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/abs/2111.01236)
-   * preprint \| accepted
+   * preprint \| accepted \| [code](https://github.com/facebookresearch/HRViT)
    * **Jiaqi Gu**, Hyoukjun Kwon, Dilin Wang, Wei Ye, Meng Li, Yu-Hsin Chen, Liangzhen Lai, Vikas Chandra, and David  Z. Pan
    * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, Louisiana, June 21-24, 2022. <br>
 
