@@ -226,10 +226,15 @@ Conference Papers
 Journal Papers
 ======
 * 2022
-  ### J12. ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocomputing
+  ### J13. SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability
    * accepted
+   * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.<br>
+
+  ### J12. [ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocomputing](https://doi.org/10.1109/TCAD.2022.3180969)
+   * <a href="/publications/papers/ONN_TCAD2022_Gu_ELight.pdf" style="color:#3793ae">preprint</a>
    * Hanqing Zhu, **Jiaqi Gu**, Chenghao Feng, Mingjie Liu, Zixuan Jiang, Ray T. Chen and David Z. Pan
-   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2022.<br>
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2022.<br>
 
 * 2021
   ### J11. [Light in AI: Toward Efficient Neurocomputing with Optical Neural Networks - A Tutorial](https://doi.org/10.1109/TCSII.2022.3171170)
