@@ -82,7 +82,7 @@ Conference Papers
    * International Conference on Computer Vision (ICCV), Oct. 10-17, 2021. <br>
    <img src="../images/ML_ICCV2021_Gu_image.png" height="200" width="600">
 
-  ### C23. [A New Acceleration Paradigm for Discrete CosineTransform and Other Fourier-Related Transforms](https://arxiv.org/abs/2110.01172)
+  ### C23. [A New Acceleration Paradigm for Discrete Cosine Transform and Other Fourier-Related Transforms](https://arxiv.org/abs/2110.01172)
    * preprint \| [code](https://github.com/JeremieMelo/dct_cuda)
    * Zixuan Jiang, **Jiaqi Gu**, David Z. Pan
    * arXiv preprint 2110.01172. <br>
@@ -98,7 +98,7 @@ Conference Papers
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
 
-  ### C20. [Integrated  Photonics for Computing, Interconnects and Sensing](https://www.youtube.com/watch?v=HqR3YVC2CUI)
+  ### C20. [Integrated Photonics for Computing, Interconnects and Sensing](https://www.youtube.com/watch?v=HqR3YVC2CUI)
    * *Invited Paper* \| <a href="/publications/papers/ONN_CLEO2021_Gu_Invited.pdf" style="color:#3793ae">preprint</a>
    * Jason Midkiff, Ali Rostamian, Kyoung Min Yoo, Aref Asghari, Chao Wang, Chenghao Feng, Zhoufeng Ying, **Jiaqi Gu**, Haixia Mei, Ching-Wen Chang, James Fang, Alan Huang, Jong-Dug Shin, Xiaochuan Xu, Michael Bukshtab, David  Z. Pan, and Ray T. Chen
    * Conference on Lasers and Electro-Optics (CLEO), Virtual Conference, May. 11-13, 2021. <br>
