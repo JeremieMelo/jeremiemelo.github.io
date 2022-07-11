@@ -226,7 +226,7 @@ Conference Papers
 Journal Papers
 ======
 * 2022
-  ### J13. SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability
+  ### J13. [SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability](https://doi.org/10.1109/TCAD.2022.3189567)
    * accepted
    * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.<br>
