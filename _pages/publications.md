@@ -41,7 +41,7 @@ Conference Papers
   ### C31. [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
    * accepted \| <a href="/publications/papers/ONN_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/JeremieMelo/ADEPT)
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
-   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (**Best-in-Track Paper**) <br>
 
   ### C30. [QOC: Quantum On-Chip Training with Parameter Shift and Gradient Pruning](https://arxiv.org/abs/2202.13239)
    * accepted \| <a href="/publications/papers/Quant_DAC2022_QOC_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
@@ -56,7 +56,7 @@ Conference Papers
   ### C28. A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction
    * accepted \| <a href="/publications/papers/PD_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zizheng Guo, Mingjie Liu, **Jiaqi Gu**, Shuhan Zhang, David Z. Pan, and Yibo Lin
-   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
+   * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (**Best-in-Track Paper**) <br>
 
   ### C27. [QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits](https://arxiv.org/abs/2107.10845)
    * <a href="/publications/papers/Quant_HPCA2022_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/Quant_GTC2022_Gu_poster.pdf" style="color:#3793ae">poster</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
