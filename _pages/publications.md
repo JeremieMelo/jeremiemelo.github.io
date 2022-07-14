@@ -23,6 +23,11 @@ Preprint
 Conference Papers
 ======
 * 2022
+  ### C35. Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration
+   * accepted
+   * Hanqing Zhu, Keren Zhu, **Jiaqi Gu**, Harrison Jin, Ray T.Chen, Jean Anne Incorvia and David Z. Pan
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct 30 - Nov 03, 2022. <br>
+
   ### C34. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
    * preprint \| accepted
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Zhoufeng Ying, Zheng Zhao, David Z. Pan, and Ray T. Chen
