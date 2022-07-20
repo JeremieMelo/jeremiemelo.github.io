@@ -29,12 +29,12 @@ Conference Papers
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct 30 - Nov 03, 2022. <br>
 
   ### C34. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
-   * preprint \| accepted
+   * preprint
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Zhoufeng Ying, Zheng Zhao, David Z. Pan, and Ray T. Chen
    * SPIE PC12007, Optical Interconnects XXII, San Francisco, CA, Mar 5, 2022. <br>
 
   ### C33. [Design and Experimental Demonstration of A Hardware-Efficient Integrated Optical Neural Network](https://doi.org/10.1117/12.2610255)
-   * preprint \| accepted
+   * preprint
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, David Z. Pan, and Ray T. Chen
    * SPIE PC12005, Smart Photonic and Optoelectronic Integrated Circuits, San Francisco, CA, Mar 5, 2022. <br>
 
@@ -51,12 +51,12 @@ Conference Papers
    <img src="../images/ONN_DAC2022_Gu_image.png" height="260" width="650">
 
   ### C30. [QOC: Quantum On-Chip Training with Parameter Shift and Gradient Pruning](https://arxiv.org/abs/2202.13239)
-   * accepted \| <a href="/publications/papers/Quant_DAC2022_QOC_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
+   * <a href="/publications/papers/Quant_DAC2022_QOC_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, Zirui Li, **Jiaqi Gu**, Yongshan Ding, David Z. Pan, and Song Han
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
   ### C29. [QuantumNAT: Quantum Noise-Aware Training with Noise Injection, Quantization and Normalization](https://arxiv.org/abs/2110.11331)
-   * accepted \| <a href="/publications/papers/Quant_DAC2022_QuantumNAT_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
+   * <a href="/publications/papers/Quant_DAC2022_QuantumNAT_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
    * Hanrui Wang, **Jiaqi Gu**, Yongshan Ding, Zirui Li, Frederic T. Chong, David Z. Pan, and Song Han
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
