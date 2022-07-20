@@ -39,14 +39,16 @@ Conference Papers
    * SPIE PC12005, Smart Photonic and Optoelectronic Integrated Circuits, San Francisco, CA, Mar 5, 2022. <br>
 
   ### C32. [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/abs/2111.01236)
-   * preprint \| accepted \| [code](https://github.com/facebookresearch/HRViT)
+   * <a href="/publications/papers/ML_CVPR2022_Gu_poster.pdf" style="color:#3793ae">poster</a> \| <a href="/publications/papers/ML_CVPR2022_Gu_slides.pdf" style="color:#3793ae">slides</a> \| [code](https://github.com/facebookresearch/HRViT)
    * **Jiaqi Gu**, Hyoukjun Kwon, Dilin Wang, Wei Ye, Meng Li, Yu-Hsin Chen, Liangzhen Lai, Vikas Chandra, and David  Z. Pan
    * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, Louisiana, June 21-24, 2022. <br>
+   <img src="../images/ML_CVPR2022_Gu_image.png" height="200" width="650">
 
   ### C31. [ADEPT: Automatic Differentiable DEsign of Photonic Tensor Cores](https://arxiv.org/abs/2112.08703)
-   * accepted \| <a href="/publications/papers/ONN_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/JeremieMelo/ADEPT)
+   * <a href="/publications/papers/ONN_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DAC2022_Gu_slides.pdf" style="color:#3793ae">slides</a> \| [code](https://github.com/JeremieMelo/ADEPT)
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (**Best-in-Track Paper**) <br>
+   <img src="../images/ONN_DAC2022_Gu_image.png" height="260" width="650">
 
   ### C30. [QOC: Quantum On-Chip Training with Parameter Shift and Gradient Pruning](https://arxiv.org/abs/2202.13239)
    * accepted \| <a href="/publications/papers/Quant_DAC2022_QOC_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
@@ -232,9 +234,10 @@ Journal Papers
 ======
 * 2022
   ### J13. [SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability](https://doi.org/10.1109/TCAD.2022.3189567)
-   * accepted
+   * <a href="/publications/papers/ONN_TCAD2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Zheng Zhao, Zhoufeng Ying, Mingjie Liu, Ray T. Chen and David Z. Pan
    * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.<br>
+   <img src="../images/ONN_TCAD2022_Gu_image.jpg" height="400" width="500">
 
   ### J12. [ELight: Towards Efficient and Aging-Resilient Photonic In-Memory Neurocomputing](https://doi.org/10.1109/TCAD.2022.3180969)
    * <a href="/publications/papers/ONN_TCAD2022_Gu_ELight.pdf" style="color:#3793ae">preprint</a>
@@ -243,11 +246,11 @@ Journal Papers
 
 * 2021
   ### J11. [Light in AI: Toward Efficient Neurocomputing with Optical Neural Networks - A Tutorial](https://doi.org/10.1109/TCSII.2022.3171170)
-   * accepted
+   * <a href="/publications/papers/ONN_TCASII2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
    * IEEE Transactions on Circuits and Systems--II: Express Briefs (TCAS-II), Apr. 26, 2022. <br>
 
-  ### J10. [Silicon photonic subspace neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
+  ### J10. [A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
    * preprint
    * Chenghao Feng\*, **Jiaqi Gu**\*, Hanqing Zhu, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
    * arXiv preprint 2111.06705. <br>
