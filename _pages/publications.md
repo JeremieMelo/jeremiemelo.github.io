@@ -48,7 +48,7 @@ Conference Papers
    * <a href="/publications/papers/ONN_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ONN_DAC2022_Gu_slides.pdf" style="color:#3793ae">slides</a> \| [code](https://github.com/JeremieMelo/ADEPT)
    * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Mingjie Liu, Shuhan Zhang, Ray T. Chen, and David  Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (**Best-in-Track Paper**) <br>
-   <img src="../images/ONN_DAC2022_Gu_image.png" height="260" width="650">
+   <img src="../images/ONN_DAC2022_Gu_image.png" height="220" width="550">
 
   ### C30. [QOC: Quantum On-Chip Training with Parameter Shift and Gradient Pruning](https://arxiv.org/abs/2202.13239)
    * <a href="/publications/papers/Quant_DAC2022_QOC_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/mit-han-lab/pytorch-quantum)
