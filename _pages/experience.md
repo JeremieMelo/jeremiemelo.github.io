@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## **Awards and Honors**
+  * **Winner** at Robert S. Hilbert Memorial Optical Design Competition, Jul 2022
   * **Best Paper Award**, IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct 2021
   * DAC Young Fellow, 58th IEEE/ACM Design Automation Conference (DAC), Oct 2021
   * Cockrell School Graduate Student Fellowship, UT Austin, Jun 2021
@@ -68,4 +69,7 @@ author_profile: true
   * Wrote a research paper that was published at IEEE 12th International Conference on ASIC, 2017 -->
 
 
+## **Talk and Presentation**
 
+* **[ACCESS-CEDA Seminar](https://sites.google.com/view/ceda-hk/events/event-20220725-lightai)**, Jul 28 2022
+  * Light-AI Interaction: The Convergence of Photonic Deep Learning and Cross-Layer Design Automation
