@@ -23,6 +23,11 @@ Preprint
 Conference Papers
 ======
 * 2022
+  ### C36. [RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task RL](https://arxiv.org/abs/2207.06412)
+   * accepted
+   * Wei Shi, Hanrui Wang, **Jiaqi Gu**, Mingjie Liu, David Pan, Song Han and Nan Sun
+   * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sept 12 - 13, 2022.<br>
+
   ### C35. Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration
    * accepted
    * Hanqing Zhu, Keren Zhu, **Jiaqi Gu**, Harrison Jin, Ray T. Chen, Jean Anne Incorvia and David Z. Pan
