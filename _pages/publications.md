@@ -23,6 +23,11 @@ Preprint
 Conference Papers
 ======
 * 2022
+  ### C37. NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation
+   * accepted
+   * **Jiaqi Gu**, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray Chen, Duane S Boning and David Z. Pan
+   * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022.<br>
+
   ### C36. [RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task RL](https://arxiv.org/abs/2207.06412)
    * accepted
    * Wei Shi, Hanrui Wang, **Jiaqi Gu**, Mingjie Liu, David Pan, Song Han and Nan Sun
