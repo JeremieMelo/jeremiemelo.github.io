@@ -23,19 +23,24 @@ Preprint
 Conference Papers
 ======
 * 2022
-  ### C37. [NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation](http://arxiv.org/abs/2209.10098)
+  ### C38. [NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation](http://arxiv.org/abs/2209.10098)
    * accepted
    * **Jiaqi Gu**, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray Chen, Duane S Boning and David Z. Pan
    * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022.<br>
 
-  ### C36. [RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task RL](https://arxiv.org/abs/2207.06412)
+  ### C37. [RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task RL](https://arxiv.org/abs/2207.06412)
    * accepted
    * Wei Shi, Hanrui Wang, **Jiaqi Gu**, Mingjie Liu, David Pan, Song Han and Nan Sun
    * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sept 12 - 13, 2022.<br>
 
-  ### C35. Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration
+  ### C36. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://arxiv.org/abs/2208.08099)
    * accepted
    * Hanqing Zhu, Keren Zhu, **Jiaqi Gu**, Harrison Jin, Ray T. Chen, Jean Anne Incorvia and David Z. Pan
+   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct 30 - Nov 03, 2022. <br>
+  
+  ### C35. [Graph Transformer for Quantum Circuit Reliability Prediction](https://qmlsys.mit.edu/wp-content/uploads/2022/09/ICCAD2022_Transformer.pdf)
+   * accepted
+   * Hanrui Wang, Pengyu Liu, Jinglei Cheng, Zhiding Liang, **Jiaqi Gu**, Zirui Li, Yongshan Ding, Weiwen Jiang, Yiyu Shi, Xuehai Qian, David Z. Pan, Frederic T. Chong and Song Han
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct 30 - Nov 03, 2022. <br>
 
   ### C34. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
