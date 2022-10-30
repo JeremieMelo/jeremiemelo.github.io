@@ -26,11 +26,15 @@ Education
 
 Work experience
 ------
-* Meta Reality Labs, FAST AI Team (May 2021 - Dec 2021)
+* NVIDIA Research (Jun 2022 - Oct 2022)
+  * Internship
+  * ASIC/VLSI Team, Austin, TX
+
+* Meta Reality Labs (May 2021 - Dec 2021)
   * Internship
   * FAST AI Team, Menlo Park, CA
 
-* University of Texas at Austin (Aug 2018 - Present)
+* The University of Texas at Austin (Aug 2018 - Present)
   * ECE Department, University of Texas at Austin, Austin, TX
   * Advisors: David Z. Pan; Co-advisor: Ray T. Chen
 
@@ -47,6 +51,7 @@ Skills
 
 Awards and Honors
 ------
+* **Winner** at Robert S. Hilbert Memorial Optical Design Competition, Jul 2022
 * **Best Paper Award**, IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct 2021
 * Young Student Fellow, 58th IEEE/ACM Design Automation Conference (DAC), Oct 2021
 * Cockrell School Graduate Student Fellowship, University of Texas at Austin, Jun 2021
