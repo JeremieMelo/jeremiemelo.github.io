@@ -14,11 +14,13 @@ I am currently a Ph.D. candidate at the Department of Electrical and Computer En
 Previously, I received the B.E. degree in microelectronic science and engineering from [Fudan University](http://www.fudan.edu.cn/en/), in 2018.
 
 My current research interests include
- * Machine Learning and Optimization
- * Efficient Algorithm and Architecture Design for High-Performance AI
- * Software/Hardware Co-design
- * Next-Generation AI Computing with Emerging Technology
- * Parallel Computing and GPU Acceleration for VLSI Design Automation
+ * Emerging Hardware Design for Efficient Computing
+   * Electronic-photonic mixed-signal platform for high-performance, energy-efficient computing
+   * Neuromorphic hardware for efficient AI/ML
+ * Intelligent Co-Design and Design Automation
+   * Hardware-algorithm co-design for emerging hardware (photonics, post-CMOS electronics, quantum)
+   * Design automation for electronic-photonic heterogeneous platforms
+ * Parallel Computing and GPU Acceleration for VLSI Physical Design Automation
 <!-- My current research interests include machine learning, algorithm and architecture design, software/hardware co-design for neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 <!-- My current research interests include machine learning, algorithm and architecture design for AI acceleration, software/hardware co-design for optical neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 
@@ -28,6 +30,8 @@ News
 | :-----------------------------: | :-----------------------------: |
 | <img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br>12/2020: Our recent work, _Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization_, is accepted by AAAI 2021. Cheers!| <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers!|
 |<img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers! -->
+* 11/2022: Our recent work, _A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning_, is accepted by ACS Photonics. Cheers!
+
 * 10/2022: Our recent work, _HEAT: Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression_, is accepted by NeurIPS MLSys Workshop 2022 as a Spotlight paper. Cheers!
 
 * 09/2022: Our recent work, _NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation_, is accepted by NeurIPS 2022. Cheers!
