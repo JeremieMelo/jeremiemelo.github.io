@@ -70,6 +70,5 @@ author_profile: true
 
 
 ## **Talk and Presentation**
-
 * **[ACCESS-CEDA Seminar](https://sites.google.com/view/ceda-hk/events/event-20220725-lightai)**, Jul 28 2022
   * Light-AI Interaction: The Convergence of Photonic Deep Learning and Cross-Layer Design Automation

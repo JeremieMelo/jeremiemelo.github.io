@@ -26,7 +26,7 @@ Conference Papers
   ### C39. [NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation](http://arxiv.org/abs/2209.10098)
    * accepted
    * **Jiaqi Gu**, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray Chen, Duane S Boning and David Z. Pan
-   * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022.<br>
+   * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022. (**Spotlight**)<br>
 
   ### C38. HEAT: Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression
    * accepted

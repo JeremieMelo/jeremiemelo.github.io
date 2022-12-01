@@ -34,7 +34,7 @@ News
 
 * 10/2022: Our recent work, _HEAT: Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression_, is accepted by NeurIPS MLSys Workshop 2022 as a Spotlight paper. Cheers!
 
-* 09/2022: Our recent work, _NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation_, is accepted by NeurIPS 2022. Cheers!
+* 09/2022: Our recent work, _NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation_, is accepted by NeurIPS 2022 as a Spotlight paper. Cheers!
 
 * 07/2022: Prof. David Pan and I will give a talk at [ACCESS-CEDA seminar](https://sites.google.com/view/ceda-hk/events/event-20220725-lightai), _Light-AI Interaction: The Convergence of Photonic Deep Learning and Cross-Layer Design Automation_.
 
