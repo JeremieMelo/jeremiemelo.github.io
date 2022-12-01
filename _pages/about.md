@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<mark style="background-color: #FFFFC0">I am currently on the 2022-2023 academic job market and looking for tenure-track assistant professor position openings.
+<mark style="background-color: #FFFFC0">I am currently on the 2022-2023 academic job market and looking for tenure-track assistant professor position openings.</mark>
 * [CV](/files/Jiaqi_Gu_CV_EN.pdf)
 * [Research Statement](/files/Jiaqi_Gu_ResearchStatement.pdf)
 * [Teaching Statement](/files/Jiaqi_Gu_TeachingStatement.pdf)
 * [List of References](/files/Jiaqi_Gu_ListofReference.pdf)
-</mark>  
+  
 
 I am currently a Ph.D. candidate at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and co-advised by Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen).
 Previously, I received the B.E. degree in microelectronic science and engineering from [Fudan University](http://www.fudan.edu.cn/en/), in 2018.
