@@ -8,19 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-<mark style="background-color: #FFFFC0">I am currently on the 2022-2023 academic job market and looking for tenure-track assistant professor position openings.</mark>  
-\
-I am currently a Ph.D. candidate at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and co-advised by Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen).
+<mark style="background-color: #FFFFC0">I am currently on the 2022-2023 academic job market and looking for tenure-track assistant professor position openings.
+* [CV](/files/Jiaqi_Gu_CV_EN.pdf)
+* [Research Statement](/files/Jiaqi_Gu_ResearchStatement.pdf)
+* [Teaching Statement](/files/Jiaqi_Gu_TeachingStatement.pdf)
+* [List of References](/files/Jiaqi_Gu_ListofReference.pdf)
+</mark>  
+
+I am currently a Ph.D. candidate at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and co-advised by Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen).
 Previously, I received the B.E. degree in microelectronic science and engineering from [Fudan University](http://www.fudan.edu.cn/en/), in 2018.
 
 My current research interests include
  * Emerging Hardware Design for Efficient Computing
+   * Efficient AI hardware design
    * Electronic-photonic mixed-signal platform for high-performance, energy-efficient computing
-   * Neuromorphic hardware for efficient AI/ML
- * Intelligent Co-Design and Design Automation
+ * Efficient Algorithm, Co-Design & Automation
    * Hardware-algorithm co-design for emerging hardware (photonics, post-CMOS electronics, quantum)
+   * Efficient ML model/algorithm
    * Design automation for electronic-photonic heterogeneous platforms
  * Parallel Computing and GPU Acceleration for VLSI Physical Design Automation
+
+I have received the Best Paper Award at ASP-DAC 2020, the Best Paper Finalist at DAC 2020, the Best Poster Award at NSF Workshop on Machine Learning Hardware (2020), and the Best Paper Award at IEEE TCAD 2021. I have won the ACM/SIGDA Student Research Competition First Place (2020), the ACM Student Research Competition Grand Finals First Place (2021), and the Robert S. Hilbert Memorial Optical Design Competition 2022.
 <!-- My current research interests include machine learning, algorithm and architecture design, software/hardware co-design for neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 <!-- My current research interests include machine learning, algorithm and architecture design for AI acceleration, software/hardware co-design for optical neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 
