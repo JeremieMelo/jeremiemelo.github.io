@@ -253,9 +253,10 @@ Conference Papers
 Journal Papers
 ======
 * 2022
-  ### J13. [A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://arxiv.org/abs/2111.06705)
+  ### J13. [A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01188)
+   * [arXiv preprint](https://arxiv.org/abs/2111.06705)
    * Chenghao Feng\*, **Jiaqi Gu**\*, Hanqing Zhu, Zhoufeng Ying, Zheng Zhao, David Z. Pan and Ray T. Chen
-   * ACS Photonics, Dec, 2022. (*Equal Contribution)<br>
+   * ACS Photonics, Nov 30, 2022. (*Equal Contribution)<br>
    <img src="../images/ONN_ACS_Photonics2022_OSNN_Gu_image.png" height="330" width="500">
 
   ### J12. [SqueezeLight: A Multi-Operand Ring-Based Optical Neural Network with Cross-Layer Scalability](https://doi.org/10.1109/TCAD.2022.3189567)
