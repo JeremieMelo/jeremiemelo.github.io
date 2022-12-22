@@ -70,5 +70,12 @@ author_profile: true
 
 
 ## **Talk and Presentation**
-* **[ACCESS-CEDA Seminar](https://sites.google.com/view/ceda-hk/events/event-20220725-lightai)**, Jul 28 2022
+* **LSIP Tech Talk**, Hewlett Packard Labs, Dec, 16 2022
+  * Light-AI Interaction: Bridging Photonics and Artificial Intelligence via Cross-Layer Circuit-Architecture-
+Algorithm Co-Design
+* **[ACCESS and CEDA Joint Seminar](https://sites.google.com/view/ceda-hk/events/event-20220725-lightai)**, Hong Kong, Jul 29 2022
   * Light-AI Interaction: The Convergence of Photonic Deep Learning and Cross-Layer Design Automation
+* **Invited Talk**, Nvidia AI Research, Oct 12, 2022
+  * NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation
+* **Invited Talk**, Cornell Univ., Jan 19, 2022
+  * L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization
