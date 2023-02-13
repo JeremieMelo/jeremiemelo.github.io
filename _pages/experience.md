@@ -70,6 +70,8 @@ author_profile: true
 
 
 ## **Talk and Presentation**
+* **Invited Talk**, SPIE Photonics West, San Francisco, Feb, 1 2023
+  * Light-AI Interaction: The Convergence of Photonic AI and Cross-layer Circuit-Architecture-Algorithm Co-design
 * **LSIP Tech Talk**, Hewlett Packard Labs, Dec, 16 2022
   * Light-AI Interaction: Bridging Photonics and Artificial Intelligence via Cross-Layer Circuit-Architecture-
 Algorithm Co-Design

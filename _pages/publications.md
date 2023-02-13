@@ -22,10 +22,21 @@ Preprint
 
 Conference Papers
 ======
+* 2023
+  ### C41. [Light-AI Interaction: The Convergence of Photonic AI and Cross-layer Circuit-Architecture-Algorithm Co-design](https://spie.org/photonics-west/presentation/Light-AI-interaction--the-convergence-of-photonic-AI-and/12427-2?SSO=1)
+   * *Invited Paper*
+   * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
+   * SPIE Photonics West (OPTO), Jan 28 - Feb 2, 2023. <br>
+  
+  ### C40. [Optically-Interconnected, Hardware-Efficient, Electronic-Photonic Neural Network using Compact Multi-Operand Photonic Devices](https://spie.org/photonics-west/presentation/Optically-interconnected-hardware-efficient-electronic-photonic-neural-network-using-compact/12427-3)
+   * accepted
+   * Chenghao Feng, Rongxing Tang, **Jiaqi Gu**, Hanqing Zhu, David Z. Pan, and Ray T. Chen
+   * SPIE Photonics West (OPTO), Jan 28 - Feb 2, 2023. <br>
+
 * 2022
   ### C39. [NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation](http://arxiv.org/abs/2209.10098)
    * accepted
-   * **Jiaqi Gu**, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray Chen, Duane S Boning and David Z. Pan
+   * **Jiaqi Gu**, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray T. Chen, Duane S Boning and David Z. Pan
    * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022. (**Spotlight**)<br>
 
   ### C38. HEAT: Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression
@@ -39,13 +50,13 @@ Conference Papers
    * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sept 12 - 13, 2022.<br>
 
   ### C36. [Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration](https://arxiv.org/abs/2208.08099)
-   * accepted
+   * preprint
    * Hanqing Zhu, Keren Zhu, **Jiaqi Gu**, Harrison Jin, Ray T. Chen, Jean Anne Incorvia and David Z. Pan
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct 30 - Nov 03, 2022. <br>
   
-  ### C35. [Graph Transformer for Quantum Circuit Reliability Prediction](https://qmlsys.mit.edu/wp-content/uploads/2022/09/ICCAD2022_Transformer.pdf)
-   * accepted
-   * Hanrui Wang, Pengyu Liu, Jinglei Cheng, Zhiding Liang, **Jiaqi Gu**, Zirui Li, Yongshan Ding, Weiwen Jiang, Yiyu Shi, Xuehai Qian, David Z. Pan, Frederic T. Chong and Song Han
+  ### C35. [TorchQuantum Case Study for Robust Quantum Circuits](https://qmlsys.mit.edu/wp-content/uploads/2022/09/ICCAD2022_Transformer.pdf)
+   * *Invited Paper*
+   * HHanrui Wang, Zhiding Liang, **Jiaqi Gu**, Zirui Li, Yongshan Ding, Weiwen Jiang, Yiyu Shi, David Z. Pan, Frederic T. Chong and Song Han
    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Oct 30 - Nov 03, 2022. <br>
 
   ### C34. [Optoelectronically Interconnected Hardware-Efficient Deep Learning using Silicon Photonic Chips](https://doi.org/10.1117/12.2616217)
