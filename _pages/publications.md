@@ -26,26 +26,26 @@ Conference Papers
   ### C41. [Light-AI Interaction: The Convergence of Photonic AI and Cross-layer Circuit-Architecture-Algorithm Co-design](https://spie.org/photonics-west/presentation/Light-AI-interaction--the-convergence-of-photonic-AI-and/12427-2?SSO=1)
    * *Invited Paper*
    * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
-   * SPIE Photonics West (OPTO), Jan 28 - Feb 2, 2023. <br>
+   * SPIE Photonics West (OPTO), San Francisco, CA, Jan 28 - Feb 2, 2023. <br>
   
   ### C40. [Optically-Interconnected, Hardware-Efficient, Electronic-Photonic Neural Network using Compact Multi-Operand Photonic Devices](https://spie.org/photonics-west/presentation/Optically-interconnected-hardware-efficient-electronic-photonic-neural-network-using-compact/12427-3)
    * accepted
    * Chenghao Feng, Rongxing Tang, **Jiaqi Gu**, Hanqing Zhu, David Z. Pan, and Ray T. Chen
-   * SPIE Photonics West (OPTO), Jan 28 - Feb 2, 2023. <br>
+   * SPIE Photonics West (OPTO), San Francisco, CA, Jan 28 - Feb 2, 2023. <br>
 
 * 2022
   ### C39. [NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation](http://arxiv.org/abs/2209.10098)
-   * accepted
+   * preprint
    * **Jiaqi Gu**, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray T. Chen, Duane S Boning and David Z. Pan
-   * Conference on Neural Information Processing Systems (NeurIPS), Nov 26 - Dec 4, 2022. (**Spotlight**)<br>
+   * Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, Nov 26 - Dec 4, 2022. (**Spotlight**)<br>
 
-  ### C38. HEAT: Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression
-   * accepted
+  ### C38. [HEAT: Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression](https://arxiv.org/abs/2211.16749)
+   * preprint
    * **Jiaqi Gu**, Ben Keller, Jean Kossaifi, Anima Anandkumar, Brucek Khailany, David Z. Pan
-   * Conference on Neural Information Processing Systems (NeurIPS), ML for System Workshop, Nov 26 - Dec 4, 2022. (**Spotlight**)<br>
+   * Conference on Neural Information Processing Systems (NeurIPS), ML for System Workshop, New Orleans, Louisiana, Nov 26 - Dec 4, 2022. (**Spotlight**)<br>
 
   ### C37. [RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task RL](https://arxiv.org/abs/2207.06412)
-   * accepted
+   * preprint
    * Wei Shi, Hanrui Wang, **Jiaqi Gu**, Mingjie Liu, David Pan, Song Han and Nan Sun
    * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sept 12 - 13, 2022.<br>
 
