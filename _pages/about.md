@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<mark style="background-color: #FFFFC0">I am currently on the 2022-2023 academic job market and looking for tenure-track assistant professor position openings.</mark>
+<mark style="background-color: #FFFFC0">I am starting a new position as an assistant professor in the School of Electrical, Computer and Energy Engineering at Arizona State University in August 2023.</mark>
 * [CV](/files/Jiaqi_Gu_CV_EN.pdf)
   
 
-I am currently a Ph.D. candidate at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and co-advised by Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen).
+I am a Ph.D. at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and co-advised by Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen).
 Previously, I received the B.E. degree in microelectronic science and engineering from [Fudan University](http://www.fudan.edu.cn/en/), in 2018.
 
 My current research interests include
@@ -25,7 +25,7 @@ My current research interests include
    * Design automation for electronic-photonic heterogeneous platforms
  * Parallel Computing and GPU Acceleration for VLSI Physical Design Automation
 
-I have received the Best Paper Award at ASP-DAC 2020, the Best Paper Finalist at DAC 2020, the Best Poster Award at NSF Workshop on Machine Learning Hardware (2020), and the Best Paper Award at IEEE TCAD 2021. I have won the ACM/SIGDA Student Research Competition First Place (2020), the ACM Student Research Competition Grand Finals First Place (2021), and the Robert S. Hilbert Memorial Optical Design Competition 2022.
+I have received the Best Paper Award at ASP-DAC 2020, the Best Paper Finalist at DAC 2020, the Best Poster Award at NSF Workshop on Machine Learning Hardware (2020), and the Best Paper Award at IEEE TCAD 2021. I have won the ACM/SIGDA Student Research Competition First Place (2020), the ACM Student Research Competition Grand Finals First Place (2021), the Robert S. Hilbert Memorial Optical Design Competition 2022, and Margarida Jacome Dissertation Prize at UT Austin ECE (2023).
 <!-- My current research interests include machine learning, algorithm and architecture design, software/hardware co-design for neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 <!-- My current research interests include machine learning, algorithm and architecture design for AI acceleration, software/hardware co-design for optical neuromorphic computing,  and GPU acceleration for VLSI physical design automation. -->
 

@@ -13,14 +13,14 @@ redirect_from:
 
 ## JIAQI GU
 {: .text-center}
-Ph.D. Student,  Department of Electrical and Computer Engineering
+Ph.D.,  Department of Electrical and Computer Engineering
 {: .text-center}
 University of Texas at Austin,  Austin, TX 78712
 {: .text-center}
 
 Education
 ------
-* Ph.D. in University of Texas at Austin (GPA: 4.00/4.00), Texas, US, 2023 (expected)
+* Ph.D. in University of Texas at Austin (GPA: 4.00/4.00), Texas, US, 2023
 * B.E. in Fudan University (Elite Engineering Program, GPA: 3.91/4.00, Rank: 2/71), Shanghai, China, 2018
 
 
@@ -51,6 +51,7 @@ Skills
 
 Awards and Honors
 ------
+* Margarida Jacome Dissertation Prize, Apr 2023
 * **Winner** at Robert S. Hilbert Memorial Optical Design Competition, Jul 2022
 * **Best Paper Award**, IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct 2021
 * Young Student Fellow, 58th IEEE/ACM Design Automation Conference (DAC), Oct 2021
