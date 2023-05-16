@@ -51,6 +51,7 @@ Skills
 
 Awards and Honors
 ------
+* MLSys Student Travel Award, May 2023
 * Margarida Jacome Dissertation Prize, Apr 2023
 * **Winner** at Robert S. Hilbert Memorial Optical Design Competition, Jul 2022
 * **Best Paper Award**, IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct 2021

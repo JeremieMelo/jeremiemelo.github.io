@@ -23,6 +23,16 @@ Preprint
 Conference Papers
 ======
 * 2023
+  ### C43. DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator
+   * Accepted
+   * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
+   * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
+
+  ### C42. Light-AI Interaction: Bridging Photonics and AI with Cross-Layer Hardware-Software Co-Design
+   * Accepted
+   * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
+   * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
+
   ### C41. [Light-AI Interaction: The Convergence of Photonic AI and Cross-layer Circuit-Architecture-Algorithm Co-design](https://spie.org/photonics-west/presentation/Light-AI-interaction--the-convergence-of-photonic-AI-and/12427-2?SSO=1)
    * *Invited Paper*
    * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
