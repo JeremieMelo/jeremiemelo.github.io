@@ -23,6 +23,16 @@ Preprint
 Conference Papers
 ======
 * 2023
+  ### C45. NormSoftmax: Normalizing the Input of Softmax to Accelerate and Stabilize Training	
+   * Accepted
+   * Zixuan Jiang, **Jiaqi Gu** and David Pan
+   * 2023 IEEE International Conference on Omni Layer Intelligent Systems (COINS), Jul 23 - Jul 25, 2023.  <br>
+  
+  ### C44. [Delving into Effective Gradient Matching for Dataset Condensation](https://arxiv.org/abs/2208.00311)
+   * Accepted
+   * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu and David Pan
+   * 2023 IEEE International Conference on Omni Layer Intelligent Systems (COINS), Jul 23 - Jul 25, 2023. <br>
+
   ### C43. DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator
    * Accepted
    * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
