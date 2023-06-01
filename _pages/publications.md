@@ -23,29 +23,25 @@ Preprint
 Conference Papers
 ======
 * 2023
-  ### C48. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
+  ### C47. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
     * [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
     * arXiv preprint, Jun 2023.
 
-  ### C47. [NormSoftmax: Normalizing the Input of Softmax to Accelerate and Stabilize Training](https://openreview.net/pdf?id=4g7nCbpjNwd)	
+  ### C46. [NormSoftmax: Normalizing the Input of Softmax to Accelerate and Stabilize Training](https://openreview.net/pdf?id=4g7nCbpjNwd)	
    * Accepted
    * Zixuan Jiang, **Jiaqi Gu** and David Pan
    * 2023 IEEE International Conference on Omni Layer Intelligent Systems (COINS), Jul 23 - Jul 25, 2023.  <br>
   
-  ### C46. [Delving into Effective Gradient Matching for Dataset Condensation](https://arxiv.org/abs/2208.00311)
+  ### C45. [Delving into Effective Gradient Matching for Dataset Condensation](https://arxiv.org/abs/2208.00311)
    * Accepted
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu and David Pan
    * 2023 IEEE International Conference on Omni Layer Intelligent Systems (COINS), Jul 23 - Jul 25, 2023. <br>
 
-  ### C45. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator](https://arxiv.org/abs/2305.19533)
+  ### C44. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator](https://arxiv.org/abs/2305.19533)
    * Accepted
    * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
-
-  ### C44. [Integrated Multi-Operand Optical Neurons for Scalable and Hardware-Efficient Deep Learning](https://arxiv.org/abs/2305.19592)
-   * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Rongxing Tang, Shupeng Ning, May Hlaing, Jason Midkiff, Sourabh Jain, David Z. Pan and Ray T. Chen
-   * arXiv preprint arXiv:2305.19592 <br>
 
   ### C43. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
     * Zixuan Jiang, **Jiaqi Gu**, Hanqing Zhu and David Z. Pan<br>
@@ -295,6 +291,11 @@ Conference Papers
 
 Journal Papers
 ======
+* 2023
+  ### J14. [Integrated Multi-Operand Optical Neurons for Scalable and Hardware-Efficient Deep Learning](https://arxiv.org/abs/2305.19592)
+   * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Rongxing Tang, Shupeng Ning, May Hlaing, Jason Midkiff, Sourabh Jain, David Z. Pan and Ray T. Chen
+   * arXiv preprint arXiv:2305.19592 <br>
+
 * 2022
   ### J13. [A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01188)
    * [arXiv preprint](https://arxiv.org/abs/2111.06705)
