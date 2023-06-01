@@ -23,7 +23,8 @@ Preprint
 Conference Papers
 ======
 * 2023
-  ### C47. M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference
+  ### C47. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
+    * [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
     * arXiv preprint, Jun 2023.
 
