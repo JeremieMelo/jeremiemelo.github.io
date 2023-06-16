@@ -44,7 +44,7 @@ Conference Papers
    * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
 
   ### C43. [Light-AI Interaction: Bridging Photonics and AI with Cross-Layer Hardware-Software Co-Design]()
-   * <a href="/publications/papers/ONN_MLSys_SNAP2023_Gu.pdf" style="color:#3793ae">preprint</a>
+   * <a href="/publications/papers/ONN_MLSys_SNAP2023_Gu.pdf" style="color:#3793ae">preprint</a> | <a href="/publications/papers/ONN_MLSys_SNAP2023_slides_Gu.pdf" style="color:#3793ae">slides</a>
    * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
    * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
 
