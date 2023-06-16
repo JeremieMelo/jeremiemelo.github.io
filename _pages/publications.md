@@ -23,29 +23,35 @@ Preprint
 Conference Papers
 ======
 * 2023
-  ### C46. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
+  ### C47. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
     * [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
     * arXiv preprint, Jun 2023.
 
-  ### C45. [NormSoftmax: Normalizing the Input of Softmax to Accelerate and Stabilize Training](https://openreview.net/pdf?id=4g7nCbpjNwd)	
+  ### C46. [NormSoftmax: Normalizing the Input of Softmax to Accelerate and Stabilize Training](https://openreview.net/pdf?id=4g7nCbpjNwd)	
    * Accepted
    * Zixuan Jiang, **Jiaqi Gu** and David Pan
    * 2023 IEEE International Conference on Omni Layer Intelligent Systems (COINS), Jul 23 - Jul 25, 2023.  <br>
   
-  ### C44. [Delving into Effective Gradient Matching for Dataset Condensation](https://arxiv.org/abs/2208.00311)
+  ### C45. [Delving into Effective Gradient Matching for Dataset Condensation](https://arxiv.org/abs/2208.00311)
    * Accepted
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu and David Pan
    * 2023 IEEE International Conference on Omni Layer Intelligent Systems (COINS), Jul 23 - Jul 25, 2023. <br>
 
-  ### C43. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator](https://arxiv.org/abs/2305.19533)
-   * Accepted
+  ### C44. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator](https://arxiv.org/abs/2305.19533)
+   * preprint
    * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
 
+  ### C43. [Light-AI Interaction: Bridging Photonics and AI with Cross-Layer Hardware-Software Co-Design]()
+   * <a href="/publications/papers/ONN_MLSys_SNAP2023_Gu.pdf" style="color:#3793ae">preprint</a>
+   * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
+   * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
+
   ### C42. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
+    * [preprint](https://arxiv.org/abs/2305.14858)
     * Zixuan Jiang, **Jiaqi Gu**, Hanqing Zhu and David Z. Pan<br>
-    * arXiv preprint, May 2023.
+    * arXiv preprint arXiv:2305.14858, May 2023.
 
   ### C41. [Light-AI Interaction: The Convergence of Photonic AI and Cross-layer Circuit-Architecture-Algorithm Co-design](https://spie.org/photonics-west/presentation/Light-AI-interaction--the-convergence-of-photonic-AI-and/12427-2?SSO=1)
    * *Invited Paper*
@@ -115,7 +121,7 @@ Conference Papers
    * Hanrui Wang, **Jiaqi Gu**, Yongshan Ding, Zirui Li, Frederic T. Chong, David Z. Pan, and Song Han
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. <br>
 
-  ### C28. A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction
+  ### C28. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction]()
    * accepted \| <a href="/publications/papers/PD_DAC2022_Gu.pdf" style="color:#3793ae">preprint</a>
    * Zizheng Guo, Mingjie Liu, **Jiaqi Gu**, Shuhan Zhang, David Z. Pan, and Yibo Lin
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (**Best-in-Track Paper**) <br>
@@ -289,6 +295,7 @@ Journal Papers
 ======
 * 2023
   ### J14. [Integrated Multi-Operand Optical Neurons for Scalable and Hardware-Efficient Deep Learning](https://arxiv.org/abs/2305.19592)
+   * [arXiv preprint](https://arxiv.org/abs/2305.19592)
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Rongxing Tang, Shupeng Ning, May Hlaing, Jason Midkiff, Sourabh Jain, David Z. Pan and Ray T. Chen
    * arXiv preprint arXiv:2305.19592 <br>
 
