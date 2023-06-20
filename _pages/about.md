@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<mark style="background-color: #FFFFC0">I am starting a new position as an assistant professor in the School of Electrical, Computer and Energy Engineering at Arizona State University in August 2023.</mark>
+<mark style="background-color: #FFFFC0">I am starting a new position as an assistant professor in the School of Electrical, Computer and Energy Engineering at Arizona State University in August 2023.
+Please visit our Lab ([ScopeX](https://scopex-asu.github.io)) homepage for more information and openings</mark>
 * [CV](/files/Jiaqi_Gu_CV_EN.pdf)
   
 

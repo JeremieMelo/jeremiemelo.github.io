@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "JIAQI GU"
 title_separator          : "-"
 name                     : &name "Jiaqi Gu"
-description              : &description "PhD Student at The University of Texas at Austin"
+description              : &description "Assistant Professor in School of Electrical, Computer and Energy Engineering, Arizona State University"
 url                      : https://jeremiemelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeremiemelo.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jiaqi Gu"
-  avatar           : "JiaqiGu_20221026_resize.jpg"
-  bio              : "PhD Student at <a href='https://www.cerc.utexas.edu/utda/'>UTDA, the University of Texas at Austin</a>"
-  location         : "Austin, Texas"
+  avatar           : "JiaqiGu_2x2.jpg"
+  bio              : "Assistant Professor in School of Electrical, Computer and Energy Engineering, Arizona State University</a>"
+  location         : "Tempe, AZ"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=FeIV12MAAAAJ&hl=en&authuser=1"
