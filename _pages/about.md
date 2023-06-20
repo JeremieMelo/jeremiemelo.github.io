@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<mark style="background-color: #FFFFC0">I am starting a new position as an assistant professor in the School of Electrical, Computer and Energy Engineering at Arizona State University in August 2023.
-Please visit our Lab ([ScopeX](https://scopex-asu.github.io)) homepage for more information and openings</mark>
+<mark style="background-color: #FFFFC0">I am starting a new position as an assistant professor in the School of Electrical, Computer and Energy Engineering at Arizona State University in August 2023.</mark>
 * [CV](/files/Jiaqi_Gu_CV_EN.pdf)
+* Please visit our Lab [ScopeX](https://scopex-asu.github.io) homepage for more information and openings
   
 
 I am a Ph.D. at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and co-advised by Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen).
