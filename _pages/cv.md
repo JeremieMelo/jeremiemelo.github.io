@@ -13,14 +13,14 @@ redirect_from:
 
 ## JIAQI GU
 {: .text-center}
-Ph.D.,  Department of Electrical and Computer Engineering
+Assistant Professor,  School of Electrical, Computer and Energy Engineering
 {: .text-center}
-University of Texas at Austin,  Austin, TX 78712
+Arizona State University, Tempe, AZ 85287
 {: .text-center}
 
 Education
 ------
-* Ph.D. in University of Texas at Austin (GPA: 4.00/4.00), Texas, US, 2023
+* Ph.D. in University of Texas at Austin (GPA: 4.00/4.00), Austin, TX, USA, 2023
 * B.E. in Fudan University (Elite Engineering Program, GPA: 3.91/4.00, Rank: 2/71), Shanghai, China, 2018
 
 
@@ -51,6 +51,7 @@ Skills
 
 Awards and Honors
 ------
+* Third Place, 60th IEEE/ACM Design Automation Conference (DAC) Ph.D. Forum, Jul 2023
 * MLSys Student Travel Award, May 2023
 * Margarida Jacome Dissertation Prize, Apr 2023
 * **Winner** at Robert S. Hilbert Memorial Optical Design Competition, Jul 2022
