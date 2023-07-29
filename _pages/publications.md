@@ -49,7 +49,7 @@ Conference Papers
    * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
 
   ### C43. [Evaluation of a compact butterfly-style photonic-electronic neural chip on complicated deep learning tasks](https://doi.org/10.1364/CLEO_SI.2023.SM2P.6)
-    * preprint
+    * <a href="/publications/papers/ONN_CLEO2023_Gu.pdf" style="color:#3793ae">preprint</a>
     * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Rongxing Tang, David Z. Pan, and Ray T. Chen
     * Conference on Lasers and Electro-Optics (CLEO), San Jose, CA, May. 07-12, 2023.<br>
 
