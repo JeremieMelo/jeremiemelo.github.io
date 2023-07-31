@@ -23,6 +23,11 @@ Preprint
 Conference Papers
 ======
 * 2023
+  ### C49. QuantumSEA: In-Time Sparse Exploration for Noise Adaptive Quantum Circuits
+    * <a href="/publications/papers/Quant_QCE2023_Gu.pdf" style="color:#3793ae">preprint</a>
+    * Tianlong Chen, Zhenyu Zhang, Hanrui Wang, **Jiaqi Gu**, Zirui Li, David Z. Pan, Frederic Chong, Song Han and Zhangyang Wang
+    * International Conference on Quantum Computing and Engineering (QCE), Sep 17 - Sep 22 2023.
+
   ### C48. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
     * [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
