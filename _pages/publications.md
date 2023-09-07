@@ -14,6 +14,12 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 
 Preprint
 ======
+* 2023
+  ### P2. Light-AI Interaction: Bridging Photonics and Artificial Intelligence via Cross-Layer Hardware/Software Co-Design
+   * <a href="/publications/papers/Dissertation_JiaqiGu_final.pdf" style="color:#3793ae">preprint</a>
+   * **Jiaqi Gu**
+   * Ph.D. Dissertation, May 2023. <br>
+
 * 2021
   ### P1. [Light in Artificial Intelligence: Efficient Neurocomputing with Optical Neural Networks](https://src.acm.org/binaries/content/assets/src/2021/jiaqi-gu.pdf)
    * <a href="/publications/papers/ONN_ACMSRC2021_Gu.pdf" style="color:#3793ae">preprint</a>
