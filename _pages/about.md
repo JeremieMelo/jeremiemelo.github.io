@@ -39,6 +39,8 @@ News
 
 * 09/2023: One co-authored paper, _Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers_, is accepted by NeurIPS 2023 and selected as **Spotlight** paper. Cheers!
 
+* 09/2023: Our recent work, <i>Domain-Specific Optimization for Quantized Optical AI Computing Systems</i>, is accepted by ICCV LBQNN workshop 2023. Cheers!
+
 * 07/2023: We have organized a tutorial at DAC 2023: _A Journey to Optical Computing: From Physics Fundamentals to Hardware-Software Co-Design, Automation, and Application_. Please check out our [slides](https://lnkd.in/giid-B_7).
 
 * 06/2023： Our recent work, _DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator_, is accepted to MLSys SNAP 2023. Cheers!
