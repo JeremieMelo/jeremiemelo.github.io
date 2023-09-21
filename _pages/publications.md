@@ -30,7 +30,7 @@ Conference Papers
 ======
 * 2023
   ### C50. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
-    * [preprint](https://arxiv.org/abs/2305.14858)
+    * [preprint](https://arxiv.org/abs/2305.14858) | [code](https://github.com/ZixuanJiang/pre-rmsnorm-transformer)
     * Zixuan Jiang, **Jiaqi Gu**, Hanqing Zhu and David Z. Pan<br>
     * Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, Dec 10 - Dec 16, 2023. (**Spotlight**).
 
