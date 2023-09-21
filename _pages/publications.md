@@ -29,51 +29,52 @@ Preprint
 Conference Papers
 ======
 * 2023
-  ### C50. QuantumSEA: In-Time Sparse Exploration for Noise Adaptive Quantum Circuits
+  ### C50. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
+    * [preprint](https://arxiv.org/abs/2305.14858)
+    * Zixuan Jiang, **Jiaqi Gu**, Hanqing Zhu and David Z. Pan<br>
+    * Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, Dec 10 - Dec 16, 2023. (**Spotlight**).
+
+  ### C49. QuantumSEA: In-Time Sparse Exploration for Noise Adaptive Quantum Circuits
     * <a href="/publications/papers/Quant_QCE2023_Gu.pdf" style="color:#3793ae">preprint</a>
     * Tianlong Chen, Zhenyu Zhang, Hanrui Wang, **Jiaqi Gu**, Zirui Li, David Z. Pan, Frederic Chong, Song Han and Zhangyang Wang
     * International Conference on Quantum Computing and Engineering (QCE), Sep 17 - Sep 22 2023.
 
-  ### C49. [Integrated Photonics for Computing and Artificial Intelligence](https://doi.org/10.1109/SUM57928.2023.10224461)
+  ### C48. [Integrated Photonics for Computing and Artificial Intelligence](https://doi.org/10.1109/SUM57928.2023.10224461)
     * <a href="/publications/papers/ONN_IEEESUM2023_Gu.pdf" style="color:#3793ae">preprint</a>
     * Chenghao Feng, Shupeng Ning, **Jiaqi Gu**, Hanqing Zhu, David Z. Pan and Ray T. Chen
     * IEEE Photonics Society Summer Topicals Meeting Series (SUM), Sicily, Italy, 17-19 July 2023.
-    
 
-  ### C48. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
+  ### C47. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
     * [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
     * arXiv preprint, Jun 2023.
 
-  ### C47. [NormSoftmax: Normalizing the Input of Softmax to Accelerate and Stabilize Training](https://openreview.net/pdf?id=4g7nCbpjNwd)	
+  ### C46. [NormSoftmax: Normalizing the Input of Softmax to Accelerate and Stabilize Training](https://openreview.net/pdf?id=4g7nCbpjNwd)	
    * Accepted
    * Zixuan Jiang, **Jiaqi Gu** and David Pan
    * 2023 IEEE International Conference on Omni Layer Intelligent Systems (COINS), Jul 23 - Jul 25, 2023.  <br>
   
-  ### C46. [Delving into Effective Gradient Matching for Dataset Condensation](https://arxiv.org/abs/2208.00311)
+  ### C45. [Delving into Effective Gradient Matching for Dataset Condensation](https://arxiv.org/abs/2208.00311)
    * Accepted
    * Zixuan Jiang, **Jiaqi Gu**, Mingjie Liu and David Pan
    * 2023 IEEE International Conference on Omni Layer Intelligent Systems (COINS), Jul 23 - Jul 25, 2023. <br>
 
-  ### C45. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator](https://arxiv.org/abs/2305.19533)
+  ### C44. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Transformer Accelerator](https://arxiv.org/abs/2305.19533)
    * preprint
    * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
 
-  ### C44. [Light-AI Interaction: Bridging Photonics and AI with Cross-Layer Hardware-Software Co-Design]()
+  ### C43. [Light-AI Interaction: Bridging Photonics and AI with Cross-Layer Hardware-Software Co-Design]()
    * <a href="/publications/papers/ONN_MLSys_SNAP2023_Gu.pdf" style="color:#3793ae">preprint</a> <a href="/publications/papers/ONN_MLSys_SNAP2023_Gu_slides.pdf" style="color:#3793ae">| slides</a>
    * **Jiaqi Gu**, Chenghao Feng, Hanqing Zhu, Ray T. Chen and David Z. Pan
    * Conference on Machine Learning and Systems (MLSys) Systems for Next-Gen AI Paradigms (SNAP) Workshop, Miami, OL, Jun 4 - Jun 8, 2023. <br>
 
-  ### C43. [Evaluation of a compact butterfly-style photonic-electronic neural chip on complicated deep learning tasks](https://doi.org/10.1364/CLEO_SI.2023.SM2P.6)
+  ### C42. [Evaluation of a compact butterfly-style photonic-electronic neural chip on complicated deep learning tasks](https://doi.org/10.1364/CLEO_SI.2023.SM2P.6)
     * <a href="/publications/papers/ONN_CLEO2023_Gu.pdf" style="color:#3793ae">preprint</a>
     * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Rongxing Tang, David Z. Pan, and Ray T. Chen
     * Conference on Lasers and Electro-Optics (CLEO), San Jose, CA, May. 07-12, 2023.<br>
 
-  ### C42. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
-    * [preprint](https://arxiv.org/abs/2305.14858)
-    * Zixuan Jiang, **Jiaqi Gu**, Hanqing Zhu and David Z. Pan<br>
-    * arXiv preprint arXiv:2305.14858, May 2023.
+  
 
   ### C41. [Light-AI Interaction: The Convergence of Photonic AI and Cross-layer Circuit-Architecture-Algorithm Co-design](https://spie.org/photonics-west/presentation/Light-AI-interaction--the-convergence-of-photonic-AI-and/12427-2?SSO=1)
    * *Invited Paper*
