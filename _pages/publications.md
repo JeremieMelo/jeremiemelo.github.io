@@ -28,12 +28,13 @@ Preprint
 
 Conference Papers
 ======
-* 2023
+* 2024
   ### C52. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Large Language Model Accelerator](https://arxiv.org/abs/2305.19533)
    * Accepted
    * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024. <br>
 
+* 2023
   ### C51. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
     * [preprint](https://arxiv.org/abs/2305.14858) | [code](https://github.com/ZixuanJiang/pre-rmsnorm-transformer)
     * Zixuan Jiang, **Jiaqi Gu**, Hanqing Zhu and David Z. Pan<br>
