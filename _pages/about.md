@@ -37,6 +37,8 @@ News
 | <img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br>12/2020: Our recent work, _Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization_, is accepted by AAAI 2021. Cheers!| <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers!|
 |<img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers! -->
 
+* 10/2023: One co-authored paper, _DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Large Language Model Accelerator_, is accepted by HPCA 2023. Cheers!
+
 * 09/2023: One co-authored paper, _Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers_, is accepted by NeurIPS 2023 and selected as **Spotlight** paper. Cheers!
 
 * 09/2023: Our recent work, <i>Domain-Specific Optimization for Quantized Optical AI Computing Systems</i>, is accepted by ICCV LBQNN workshop 2023. Cheers!
