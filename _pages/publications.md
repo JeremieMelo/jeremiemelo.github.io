@@ -23,7 +23,7 @@ Preprint
 * 2021
   ### P1. [Light in Artificial Intelligence: Efficient Neurocomputing with Optical Neural Networks](https://src.acm.org/binaries/content/assets/src/2021/jiaqi-gu.pdf)
    * <a href="/publications/papers/ONN_ACMSRC2021_Gu.pdf" style="color:#3793ae">preprint</a>
-   * **Jiaqi Gu** and David  Z. Pan
+   * **Jiaqi Gu** and David Z.Pan
    * ACM Student Research Competition Grand Finals, 2021. (First Place in Graduate Category) <br>
 
 Conference Papers
@@ -36,7 +36,7 @@ Conference Papers
 
 * 2023
   ### C51. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
-    * [preprint](https://arxiv.org/abs/2305.14858) | [code](https://github.com/ZixuanJiang/pre-rmsnorm-transformer)
+    * [preprint](https://arxiv.org/abs/2305.14858) \| [code](https://github.com/ZixuanJiang/pre-rmsnorm-transformer)
     * Zixuan Jiang, **Jiaqi Gu**, Hanqing Zhu and David Z. Pan<br>
     * Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, Dec 10 - Dec 16, 2023. (**Spotlight**).
   
