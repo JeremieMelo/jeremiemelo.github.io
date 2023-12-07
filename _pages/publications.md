@@ -29,7 +29,7 @@ Preprint
 Conference Papers
 ======
 * 2024
-  ### C52. [DOTA: A Dynamically-Operated Photonic Tensor Core for Energy-Efficient Large Language Model Accelerator](https://arxiv.org/abs/2305.19533)
+  ### C52. [Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator](https://arxiv.org/abs/2305.19533)
    * Accepted
    * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024. <br>
