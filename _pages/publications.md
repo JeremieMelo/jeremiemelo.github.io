@@ -348,16 +348,16 @@ Conference Papers
 
 Journal Papers
 ======
-* 2023
-  ### J15. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](http://arxiv.org/abs/2305.19505)
-    * [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
+* 2024
+  ### J15. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](https://doi.org/10.1063/5.0170965)
+    * <a href="/publications/papers/ONN_aplml2024_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
-    * arXiv preprint, Jun 2023.
+    * APL Machine Learning, Jan. 24, 2024.
 
   ### J14. [Integrated Multi-Operand Optical Neurons for Scalable and Hardware-Efficient Deep Learning](https://arxiv.org/abs/2305.19592)
    * [arXiv preprint](https://arxiv.org/abs/2305.19592)
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Rongxing Tang, Shupeng Ning, May Hlaing, Jason Midkiff, Sourabh Jain, David Z. Pan and Ray T. Chen
-   * arXiv preprint arXiv:2305.19592 <br>
+   * Nanophotonics, Jan. 05, 2024. <br>
 
 * 2022
   ### J13. [A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01188)

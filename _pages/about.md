@@ -36,6 +36,8 @@ News
 | <img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br>12/2020: Our recent work, _Efficient On-Chip Learning for Optical Neural Networks Through Power-Aware Sparse Zeroth-Order Optimization_, is accepted by AAAI 2021. Cheers!| <img src="../images/ONN_DATE2021_SqueezeLight_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers!|
 |<img src="../images/ONN_AAAI2021_Gu_image.png" height="100" width="320"> <br> 11/2020: Our recent work, _SqueezeLight: Towards Scalable Optical Neural Networks with Multi-Operand Ring Resonators_, is accepted by DATE 2021. Cheers! -->
 
+* 01/2024: Our recent work, _M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference_, is accepted by APL Machine Learning 2024. Cheers!
+
 * 12/2023: One co-authored paper, _Integrated Multi-Operand Optical Neurons for Scalable and Hardware-Efficient Deep Learning_, is accepted by Nanophotonics 2023. Cheers!
 
 * 10/2023: One co-authored paper, _Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator_, is accepted by HPCA 2023. Cheers!
