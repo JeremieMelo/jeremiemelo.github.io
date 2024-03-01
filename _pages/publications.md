@@ -37,7 +37,7 @@ Conference Papers
   ### C57. Foundry Manufactured 6-bit Resolution, 150um Long SlowLight Electro-Optic Modulator for On-Chip Photonic Tensor Computing
     * <a href="/publications/papers/ONN_CLEO2024_Gu.pdf" style="color:#3793ae">preprint</a> | Accepted
     * Meng Zhang, Amir Begović, Dennis Yin, Nicholas Gangi, **Jiaqi Gu** and Rena Huang<br>
-    * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05-10, 2023.
+    * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05-10, 2024.
 
   ### C56. [Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator](https://arxiv.org/abs/2305.19533)
    * Accepted
