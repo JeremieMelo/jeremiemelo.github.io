@@ -29,40 +29,45 @@ Preprint
 Conference Papers
 ======
 * 2024
-  ### C57. [Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator](https://arxiv.org/abs/2305.19533)
+  ### C58. [Q-Pilot: Field Programmable Quantum Array Compilation with Flying Ancillas](https://arxiv.org/pdf/2311.16190)
+    * [preprint](https://arxiv.org/pdf/2311.16190) | Accepted
+    * Hanrui Wang, Bochen Tan, Pengyu Liu, Yilian Liu, **Jiaqi Gu**, Jason Cong and Song Han<br>
+    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23 - Jun 27, 2024.
+  
+  ### C57. Foundry Manufactured 6-bit Resolution, 150um Long SlowLight Electro-Optic Modulator for On-Chip Photonic Tensor Computing
+    * <a href="/publications/papers/ONN_CLEO2024_Gu.pdf" style="color:#3793ae">preprint</a> | Accepted
+    * Meng Zhang, Amir Begović, Dennis Yin, Nicholas Gangi, **Jiaqi Gu** and Rena Huang<br>
+    * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05-10, 2023.
+
+  ### C56. [Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator](https://arxiv.org/abs/2305.19533)
    * Accepted
    * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024. <br>
 
 * 2023
-  ### C56. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
+  ### C55. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
     * [preprint](https://arxiv.org/abs/2305.14858) \| [code](https://github.com/ZixuanJiang/pre-rmsnorm-transformer)
     * Zixuan Jiang, **Jiaqi Gu**, Hanqing Zhu and David Z. Pan<br>
     * Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, Dec 10 - Dec 16, 2023. (**Spotlight**).
   
-  ### C55. [Deep Learning for Neutron Lifetime Measurement](https://meetings.aps.org/Meeting/HAW23/Session/D06.8)
+  ### C54. [Deep Learning for Neutron Lifetime Measurement](https://meetings.aps.org/Meeting/HAW23/Session/D06.8)
     * Shanny Lin, Steven Clayton, Chenghao Feng, **Jiaqi Gu**, Christopher Morris, Maninder Singh, Hanqing Zhu, David Z. Pan, Ray T. Chen and Zhehui Wang<br>
     * 6th Joint Meeting of the APS Division of Nuclear Physics and the Physical Society of Japan, Hawaii, the Big Island, Nov 26 – Dec 1, 2023.
   
-  ### C54. [DGR: Tackling Drifted and Correlated Noise in Quantum Error Correction via Decoding Graph Re-weighting](https://arxiv.org/pdf/2311.16214)
+  ### C53. [DGR: Tackling Drifted and Correlated Noise in Quantum Error Correction via Decoding Graph Re-weighting](https://arxiv.org/pdf/2311.16214)
     * [preprint](https://arxiv.org/pdf/2311.16214)
     * Hanrui Wang, Pengyu Liu, Yilian Liu, **Jiaqi Gu**, Jonathan Baker, Frederic T Chong and Song Han<br>
     * arXiv preprint arXiv:2311.16214.
 
-  ### C53. [Robuststate: Boosting fidelity of quantum state preparation via noise-aware variational training](https://arxiv.org/pdf/2311.16035)
+  ### C52. [Robuststate: Boosting fidelity of quantum state preparation via noise-aware variational training](https://arxiv.org/pdf/2311.16035)
     * [preprint](https://arxiv.org/pdf/2311.16035)
     * Hanrui Wang, Yilian Liu, Pengyu Liu, **Jiaqi Gu**, Zirui Li, Zhiding Liang, Jinglei Cheng, Yongshan Ding, Xuehai Qian, Yiyu Shi, David Z Pan, Frederic T Chong and Song Han<br>
     * arXiv preprint arXiv:2311.16035.
 
-  ### C52. [Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers](https://arxiv.org/pdf/2311.16082)
+  ### C51. [Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers](https://arxiv.org/pdf/2311.16082)
     * [preprint](https://arxiv.org/pdf/2311.16082)
     * Hanrui Wang, Pengyu Liu, Kevin Shao, Dantong Li, **Jiaqi Gu**, David Z Pan, Yongshan Ding, Song Han<br>
     * arXiv preprint arXiv:2311.16082.
-  
-  ### C51. [Q-Pilot: Field Programmable Quantum Array Compilation with Flying Ancillas](https://arxiv.org/pdf/2311.16190)
-    * [preprint](https://arxiv.org/pdf/2311.16190)
-    * Hanrui Wang, Bochen Tan, Pengyu Liu, Yilian Liu, **Jiaqi Gu**, Jason Cong and Song Han<br>
-    * arXiv preprint arXiv:2311.16190.
 
   ### C50. [FPQA-C: A Compilation Framework for Field Programmable Qubit Array](https://arxiv.org/pdf/2311.15123)
     * [preprint](https://arxiv.org/pdf/2311.15123)
@@ -349,6 +354,11 @@ Conference Papers
 Journal Papers
 ======
 * 2024
+  ### J16. [TeMPO: Efficient Time-Multiplexed Dynamic Photonic Tensor Core for Edge AI with Compact Slow-Light Electro-Optic Modulator](https://arxiv.org/abs/2402.07393)
+    * [arXiv preprint](https://arxiv.org/abs/2402.07393)
+    * Meng Zhang, Dennis Yin, Nicholas Gangi, Amir Begović, Alexander Chen, Zhaoran Rena Huang and **Jiaqi Gu**
+    * arXiv preprint arXiv:2402.07393, Feb. 12, 2024.
+
   ### J15. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](https://doi.org/10.1063/5.0170965)
     * <a href="/publications/papers/ONN_aplml2024_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
