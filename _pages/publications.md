@@ -30,12 +30,12 @@ Conference Papers
 ======
 * 2024
   ### C58. [Q-Pilot: Field Programmable Quantum Array Compilation with Flying Ancillas](https://arxiv.org/pdf/2311.16190)
-    * [preprint](https://arxiv.org/pdf/2311.16190) | Accepted
+    * [preprint](https://arxiv.org/pdf/2311.16190) \| Accepted
     * Hanrui Wang, Bochen Tan, Pengyu Liu, Yilian Liu, **Jiaqi Gu**, Jason Cong and Song Han<br>
     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23 - Jun 27, 2024.
   
   ### C57. Foundry Manufactured 6-bit Resolution, 150um Long SlowLight Electro-Optic Modulator for On-Chip Photonic Tensor Computing
-    * <a href="/publications/papers/ONN_CLEO2024_Gu.pdf" style="color:#3793ae">preprint</a> | Accepted
+    * <a href="/publications/papers/ONN_CLEO2024_Gu.pdf" style="color:#3793ae">preprint</a> \| Accepted
     * Meng Zhang, Amir Begović, Dennis Yin, Nicholas Gangi, **Jiaqi Gu** and Rena Huang<br>
     * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05-10, 2024.
 
@@ -356,23 +356,27 @@ Journal Papers
 * 2024
   ### J17. [DOCTOR: Dynamic On-Chip Remediation Against Temporally-Drifting Thermal Variations Toward Self-Corrected Photonic Tensor Accelerators](https://arxiv.org/abs/2403.02688)
   * [arXiv preprint](https://arxiv.org/abs/2403.02688)
-    * Haotian Lu, Sanmitra Banerjee and **Jiaqi Gu**
-    * arXiv preprint arXiv:2403.02688, Mar. 05, 2024.
+  * Haotian Lu, Sanmitra Banerjee and **Jiaqi Gu**
+  * arXiv preprint arXiv:2403.02688, Mar. 05, 2024.
+  <img src="../images/ONN_arXiv2024_Gu_DOCTOR_image.png" height="280" width="600">
 
   ### J16. [TeMPO: Efficient Time-Multiplexed Dynamic Photonic Tensor Core for Edge AI with Compact Slow-Light Electro-Optic Modulator](https://arxiv.org/abs/2402.07393)
     * [arXiv preprint](https://arxiv.org/abs/2402.07393)
     * Meng Zhang, Dennis Yin, Nicholas Gangi, Amir Begović, Alexander Chen, Zhaoran Rena Huang and **Jiaqi Gu**
     * arXiv preprint arXiv:2402.07393, Feb. 12, 2024.
+    <img src="../images/ONN_arXiv2024_Gu_TeMPO_image.png" height="300" width="600">
 
   ### J15. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](https://doi.org/10.1063/5.0170965)
     * <a href="/publications/papers/ONN_aplml2024_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
     * APL Machine Learning, Jan. 24, 2024.
+    <img src="../images/ONN_APLML2023_Gu_M3ICRO_image.png" height="400" width="600">
 
-  ### J14. [Integrated Multi-Operand Optical Neurons for Scalable and Hardware-Efficient Deep Learning](https://arxiv.org/abs/2305.19592)
+  ### J14. [Integrated Multi-Operand Optical Neurons for Scalable and Hardware-Efficient Deep Learning](https://doi.org/10.1515/nanoph-2023-0554)
    * [arXiv preprint](https://arxiv.org/abs/2305.19592)
    * Chenghao Feng, **Jiaqi Gu**, Hanqing Zhu, Rongxing Tang, Shupeng Ning, May Hlaing, Jason Midkiff, Sourabh Jain, David Z. Pan and Ray T. Chen
    * Nanophotonics, Jan. 05, 2024. <br>
+   <img src="../images/ONN_Nanophotonics2023_Gu_image.jpeg" height="380" width="600">
 
 * 2022
   ### J13. [A compact butterfly-style silicon photonic-electronic neural chip for hardware-efficient deep learning](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c01188)
