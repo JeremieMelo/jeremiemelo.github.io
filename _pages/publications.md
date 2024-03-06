@@ -354,6 +354,11 @@ Conference Papers
 Journal Papers
 ======
 * 2024
+  ### J17. [DOCTOR: Dynamic On-Chip Remediation Against Temporally-Drifting Thermal Variations Toward Self-Corrected Photonic Tensor Accelerators](https://arxiv.org/abs/2403.02688)
+  * [arXiv preprint](https://arxiv.org/abs/2403.02688)
+    * Haotian Lu, Sanmitra Banerjee and **Jiaqi Gu**
+    * arXiv preprint arXiv:2403.02688, Mar. 05, 2024.
+
   ### J16. [TeMPO: Efficient Time-Multiplexed Dynamic Photonic Tensor Core for Edge AI with Compact Slow-Light Electro-Optic Modulator](https://arxiv.org/abs/2402.07393)
     * [arXiv preprint](https://arxiv.org/abs/2402.07393)
     * Meng Zhang, Dennis Yin, Nicholas Gangi, Amir Begović, Alexander Chen, Zhaoran Rena Huang and **Jiaqi Gu**
