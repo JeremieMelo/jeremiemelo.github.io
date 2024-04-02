@@ -29,25 +29,35 @@ Preprint
 Conference Papers
 ======
 * 2024
-  ### C58. [FPQA-C: A Compilation Framework for Field Programmable Qubit Array](https://arxiv.org/pdf/2311.15123)
+  ### C60. [FPQA-C: A Compilation Framework for Field Programmable Qubit Array](https://arxiv.org/pdf/2311.15123)
     * Accepted \| [preprint](https://arxiv.org/pdf/2311.15123)
     * Hanrui Wang, Pengyu Liu, Bochen Tan, Yilian Liu, **Jiaqi Gu**, David Z Pan, Jason Cong, Umut Acar and Song Han<br>
     * The International Symposium on Computer Architecture (ISCA), Buenos Aires, Argentina, Jun 29 - Jul 03, 2024.
 
-  ### C57. [Q-Pilot: Field Programmable Quantum Array Compilation with Flying Ancillas](https://arxiv.org/pdf/2311.16190)
+  ### C59. [Q-Pilot: Field Programmable Quantum Array Compilation with Flying Ancillas](https://arxiv.org/pdf/2311.16190)
     * [preprint](https://arxiv.org/pdf/2311.16190) \| Accepted
     * Hanrui Wang, Bochen Tan, Pengyu Liu, Yilian Liu, **Jiaqi Gu**, Jason Cong and Song Han<br>
     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23 - Jun 27, 2024.
   
-  ### C56. Foundry Manufactured 6-bit Resolution, 150um Long SlowLight Electro-Optic Modulator for On-Chip Photonic Tensor Computing
+  ### C58. Foundry Manufactured 6-bit Resolution, 150um Long SlowLight Electro-Optic Modulator for On-Chip Photonic Tensor Computing
     * <a href="/publications/papers/ONN_CLEO2024_Gu.pdf" style="color:#3793ae">preprint</a> \| Accepted
     * Meng Zhang, Amir Begović, Dennis Yin, Nicholas Gangi, **Jiaqi Gu** and Rena Huang<br>
-    * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05-10, 2024.
+    * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05 - May 10, 2024.
+  
+  ### C57. Realization of a Compact Photoelectric Platform for Optical Convolution Processing
+    * <a href="/publications/papers/ONN_CLEO2024_Gu2.pdf" style="color:#3793ae">preprint</a> \| Accepted
+    * Shupeng Ning, Hanqing Zhu, Chenghao Feng, Christian Uselton, **Jiaqi Gu**, Rongxing Tang, David Z. Pan and R. T. Chen<br>
+    * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05 - May 10, 2024.
 
-  ### C55. [Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator](https://arxiv.org/abs/2305.19533)
+  ### C56. [Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator](https://arxiv.org/abs/2305.19533)
    * Accepted
    * Hanqing Zhu, **Jiaqi Gu**, Hanrui Wang, Rongxing Tang, Zhekai Zhang, Chenghao Feng, Song Han, Ray T. Chen and David Z. Pan
    * IEEE International Symposium on High-Performance Computer Architecture (HPCA), Edinburgh, Scotland, UK, Mar 2 - Mar 6, 2024. <br>
+  
+  ### C55. [A Hardware-Efficient Silicon Electronic-Photonic Chip for Optical Structured Neural Networks](https://spie.org/photonics-west/presentation/A-hardware-efficient-silicon-electronic-photonic-chip-for-optical-structured/12892-3)
+    * <a href="/publications/papers/ONN_PW2024_Gu.pdf" style="color:#3793ae">preprint</a>
+    * Shupeng Ning, **Jiaqi Gu**, Chenghao Feng, Rongxing Tang, Hanqing Zhu, David Z. Pan and Ray T. Chen<br>
+    * SPIE Photonics West, San Francisco, CA, Jan 30 - Feb 1, 2024.
 
 * 2023
   ### C54. [Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
