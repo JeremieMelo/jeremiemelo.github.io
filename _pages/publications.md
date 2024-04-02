@@ -50,7 +50,7 @@ Conference Papers
     * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05 - May 10, 2024.
   
   ### C57. Deep Learning Enhanced Early Detection of Pancreatic Cancer Using Integrated Photonic Chip Based Optical Neural Networks
-    * <a href="/publications/papers/ONN_CLEO2024_Gu2.pdf" style="color:#3793ae">preprint</a> \| Accepted
+    * <a href="/publications/papers/ONN_CLEO2024_Gu3.pdf" style="color:#3793ae">preprint</a> \| Accepted
     * Chun-Ju Yang, Hanqing Zhu, Shupeng Ning, Chenghao Feng, **Jiaqi Gu**, David Z. Pan and Ray T. Chen<br>
     * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05 - May 10, 2024.
 
