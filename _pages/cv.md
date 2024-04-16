@@ -51,6 +51,7 @@ Skills
 
 Awards and Honors
 ------
+* UT Austin Graduate School Outstanding Dissertation Award, April 2024
 * Third Place, 60th IEEE/ACM Design Automation Conference (DAC) Ph.D. Forum, Jul 2023
 * MLSys Student Travel Award, May 2023
 * Margarida Jacome Dissertation Prize, Apr 2023
