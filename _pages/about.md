@@ -13,7 +13,7 @@ redirect_from:
 * Please visit our Lab [ScopeX](https://scopex-asu.github.io) homepage for more information and openings
   
 
-I received my Ph.D. degree at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), in 2023, advisored by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and co-advised by Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen), and received the B.E. degree in microelectronic science and engineering from [Fudan University](http://www.fudan.edu.cn/en/), in 2018.
+I received my Ph.D. degree at the Department of Electrical and Computer Engineering, [The University of Texas at Austin](https://www.utexas.edu/), in 2023, advised by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) and co-advised by Prof. [Ray T. Chen](http://www.mrc.utexas.edu/people/faculty/ray-chen), and received the B.E. degree in microelectronic science and engineering from [Fudan University](http://www.fudan.edu.cn/en/), in 2018.
 
 My current research interests include
  * Emerging Hardware Design for Efficient Computing
