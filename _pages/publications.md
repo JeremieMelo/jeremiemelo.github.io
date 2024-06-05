@@ -374,7 +374,7 @@ Journal Papers
   ### J18. [Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerator](https://arxiv.org/abs/2403.14806)
   * [arXiv preprint](https://arxiv.org/abs/2403.14806)
   * Shupeng Ning, Hanqing Zhu, Chenghao Feng, **Jiaqi Gu**, Zhixing Jiang, Zhoufeng Ying, Jason Midkiff, Sourabh Jain, May H. Hlaing, David Z. Pan and Ray T. Chen
-  * IEEE Journal of Lightwave Technology (JLT), Jun. 2024. (Invited Review)
+  * arXiv Preprint arXiv:2403.02688, Mar. 21, 2024. (Invited Review)
 
   ### J17. [DOCTOR: Dynamic On-Chip Remediation Against Temporally-Drifting Thermal Variations Toward Self-Corrected Photonic Tensor Accelerators](https://arxiv.org/abs/2403.02688)
   * [arXiv preprint](https://arxiv.org/abs/2403.02688)
@@ -384,8 +384,8 @@ Journal Papers
 
   ### J16. [TeMPO: Efficient Time-Multiplexed Dynamic Photonic Tensor Core for Edge AI with Compact Slow-Light Electro-Optic Modulator](https://arxiv.org/abs/2402.07393)
     * [arXiv preprint](https://arxiv.org/abs/2402.07393)
-    * Meng Zhang, Dennis Yin, Nicholas Gangi, Amir Begović, Alexander Chen, Zhaoran Rena Huang and **Jiaqi Gu**
-    * AIP Journal of Applied Physics (JAP), Jun. 04, 2024.
+    * Meng Zhang*, Dennis Yin*, Nicholas Gangi, Amir Begović, Alexander Chen, Zhaoran Rena Huang and **Jiaqi Gu**
+    * AIP Journal of Applied Physics (JAP), Jun. 04, 2024. (*Equal Contribution)
     <img src="../images/ONN_arXiv2024_Gu_TeMPO_image.png" height="300" width="600">
 
   ### J15. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](https://doi.org/10.1063/5.0170965)
