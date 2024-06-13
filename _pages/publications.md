@@ -382,7 +382,7 @@ Journal Papers
   * IEEE Journal of Lightwave Technology (JLT), Jun. 2024.
   <img src="../images/ONN_arXiv2024_Gu_DOCTOR_image.png" height="280" width="600">
 
-  ### J16. [TeMPO: Efficient Time-Multiplexed Dynamic Photonic Tensor Core for Edge AI with Compact Slow-Light Electro-Optic Modulator](https://arxiv.org/abs/2402.07393)
+  ### J16. [TeMPO: Efficient Time-Multiplexed Dynamic Photonic Tensor Core for Edge AI with Compact Slow-Light Electro-Optic Modulator](https://doi.org/10.1063/5.0203036)
     * [arXiv preprint](https://arxiv.org/abs/2402.07393)
     * Meng Zhang*, Dennis Yin*, Nicholas Gangi, Amir Begović, Alexander Chen, Zhaoran Rena Huang and **Jiaqi Gu**
     * AIP Journal of Applied Physics (JAP), Jun. 04, 2024. (*Equal Contribution)
