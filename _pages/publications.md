@@ -30,19 +30,51 @@ Preprint
 
 Conference Papers
 ======
+* 2025
+  ### C67. [BOSON−1: Understanding and Enabling Physically-Robust Photonic Inverse Design with  Adaptive Variation-Aware Subspace Optimization](https://arxiv.org/abs/2411.08210)
+    * <a href="/publications/papers/ONN_DATE2025_Gu.pdf" style="color:#3793ae">preprint</a>
+    * Pingchuan Ma, Zhengqi Gao, Amir Begovic, Meng Zhang, Haoyu Yang, Haoxing Ren, Rena Huang, Duane S. Boning and **Jiaqi Gu**<br>
+    * Design, Automation and Test in Europe Conference (DATE), Lyon, France, Mar. 31 -  Apr. 02, 2025.
+  
+  ### C66. [qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers](https://arxiv.org/abs/2411.02447)
+    * <a href="/publications/papers/Quant_DATE2025_Gu.pdf" style="color:#3793ae">preprint</a>
+    * Junyao Zhang, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, **Jiaqi Gu**, Hanrui Wang, Hai (Helen) Li and Yiran Chen<br>
+    * Design, Automation and Test in Europe Conference (DATE), Lyon, France, Mar. 31 -  Apr. 02, 2025. (**Best Paper Candidate**)
+
+  ### C65. [LiDAR: Automated Curvy Waveguide Detailed Routing for Large-Scale Photonic Integrated Circuit](https://arxiv.org/abs/2410.01260)
+    * <a href="/publications/papers/ONN_ISPD2025_Gu.pdf" style="color:#3793ae">preprint</a>
+    * Hongjian Zhou, Keren Zhu and **Jiaqi Gu**<br>
+    * ACM International Symposium on Physical Design (ISPD), Austin, TX, USA, Mar. 16-19, 2025.
+
+  ### C64. [The Unlikely Hero: Nonidealities in Analog Photonic Neural Networks as Built-in Adversarial Defenders](https://arxiv.org/abs/2410.01289)
+    * <a href="/publications/papers/ONN_ASPDAC2025_Gu2.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/ScopeX-ASU/Unlikely_Hero)
+    * Ziyang Jiang, Pingchuan Ma, Meng Zhang, Rena Huang and **Jiaqi Gu**<br>
+    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, Jan. 20-23, 2025.
+
+  ### C63. [ADEPT-Z: Zero-Shot Automated Circuit Topology Search for Pareto-Optimal Photonic Tensor Cores](https://arxiv.org/abs/2407.05510)
+    * <a href="/publications/papers/ONN_ASPDAC2025_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/ScopeX-ASU/ADEPT-Z)
+    * Ziyang Jiang, Pingchuan Ma, Meng Zhang, Rena Huang and **Jiaqi Gu**<br>
+    * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, Jan. 20-23, 2025.
+
+======
 * 2024
-  ### C61. [FPQA-C: A Compilation Framework for Field Programmable Qubit Array](https://arxiv.org/pdf/2311.15123)
-    * Accepted \| [preprint](https://arxiv.org/pdf/2311.15123)
+  ### C62. [SCATTER: Algorithm-Circuit Co-Sparse Photonic Accelerator with Thermal-Tolerant, Power-Efficient In-situ Light Redistribution](https://arxiv.org/abs/2407.05510)
+    * <a href="/publications/papers/ONN_ICCAD2024_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/ScopeX-ASU/SCATTER)
+    * Ziang Yin, Nicholas Gangi, Meng Zhang, Jeff Zhang, Rena Huang and **Jiaqi Gu**<br>
+    * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, NY, Oct 27 - Oct 31, 2024.
+
+  ### C61. [Atomique: A Quantum Compiler for Reconfigurable Neutral Atom Arrays](https://doi.ieeecomputersociety.org/10.1109/ISCA59077.2024.00030)
+    * [preprint](https://arxiv.org/pdf/2311.15123)
     * Hanrui Wang, Pengyu Liu, Bochen Tan, Yilian Liu, **Jiaqi Gu**, David Z Pan, Jason Cong, Umut Acar and Song Han<br>
     * The International Symposium on Computer Architecture (ISCA), Buenos Aires, Argentina, Jun 29 - Jul 03, 2024.
 
   ### C60. [Q-Pilot: Field Programmable Quantum Array Compilation with Flying Ancillas](https://arxiv.org/pdf/2311.16190)
-    * [preprint](https://arxiv.org/pdf/2311.16190) \| Accepted
+    * [preprint](https://arxiv.org/pdf/2311.16190)
     * Hanrui Wang, Bochen Tan, Pengyu Liu, Yilian Liu, **Jiaqi Gu**, Jason Cong and Song Han<br>
     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23 - Jun 27, 2024.
   
   ### C59. Foundry Manufactured 6-bit Resolution, 150um Long SlowLight Electro-Optic Modulator for On-Chip Photonic Tensor Computing
-    * <a href="/publications/papers/ONN_CLEO2024_Gu.pdf" style="color:#3793ae">preprint</a> \| Accepted
+    * <a href="/publications/papers/ONN_CLEO2024_Gu.pdf" style="color:#3793ae">preprint</a>
     * Meng Zhang, Amir Begović, Dennis Yin, Nicholas Gangi, **Jiaqi Gu** and Rena Huang<br>
     * Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC, May 05 - May 10, 2024.
   
@@ -371,10 +403,15 @@ Conference Papers
 Journal Papers
 ======
 * 2024
-  ### J18. [Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerator](https://arxiv.org/abs/2403.14806)
+  ### J19. [Selecting robust silicon photonic designs after Bayesian optimization without extra simulations](https://doi.org/10.1364/OE.531213)
+  * <a href="/publications/papers/ONN_OE2024_Gu.pdf" style="color:#3793ae">preprint</a>
+  * Zhengqi Gao, **Jiaqi Gu**, Zhengxing Zhang, David Z. Pan and Duane S. Boning
+  * Optics Express (OE), Sep. 26 2024. (**Editor's Pick**)
+
+  ### J18. [Photonic-Electronic Integrated Circuits for High-Performance Computing and AI Accelerator](https://doi.org/10.1109/JLT.2024.3427716)
   * [arXiv preprint](https://arxiv.org/abs/2403.14806)
   * Shupeng Ning, Hanqing Zhu, Chenghao Feng, **Jiaqi Gu**, Zhixing Jiang, Zhoufeng Ying, Jason Midkiff, Sourabh Jain, May H. Hlaing, David Z. Pan and Ray T. Chen
-  * arXiv Preprint arXiv:2403.02688, Mar. 21, 2024. (Invited Review)
+  * IEEE Journal of Lightwave Technology (JLT), Jul. 10 2024. (Invited Review)
 
   ### J17. [DOCTOR: Dynamic On-Chip Remediation Against Temporally-Drifting Thermal Variations Toward Self-Corrected Photonic Tensor Accelerators](https://arxiv.org/abs/2403.02688)
   * [arXiv preprint](https://arxiv.org/abs/2403.02688)
@@ -389,7 +426,7 @@ Journal Papers
     <img src="../images/ONN_arXiv2024_Gu_TeMPO_image.png" height="300" width="600">
 
   ### J15. [M3ICRO: Machine Learning-Enabled Compact Photonic Tensor Core based on PRogrammable Multi-Operand Multimode Interference](https://doi.org/10.1063/5.0170965)
-    * <a href="/publications/papers/ONN_aplml2024_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
+    * <a href="/publications/papers/ONN_APLML2024_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/JeremieMelo/M3ICRO-MOMMI)
     * **Jiaqi Gu**, Hanqing Zhu, Chenghao Feng, Zixuan Jiang, Ray T. Chen and David Pan
     * APL Machine Learning, Jan. 24, 2024.
     <img src="../images/ONN_APLML2023_Gu_M3ICRO_image.png" height="400" width="600">
