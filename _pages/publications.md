@@ -31,33 +31,38 @@ Preprint
 Conference Papers
 ======
 * 2025
-  ### C67. [BOSON−1: Understanding and Enabling Physically-Robust Photonic Inverse Design with  Adaptive Variation-Aware Subspace Optimization](https://arxiv.org/abs/2411.08210)
+  ### C68. [BOSON−1: Understanding and Enabling Physically-Robust Photonic Inverse Design with  Adaptive Variation-Aware Subspace Optimization](https://arxiv.org/abs/2411.08210)
     * <a href="/publications/papers/ONN_DATE2025_Gu.pdf" style="color:#3793ae">preprint</a>
     * Pingchuan Ma, Zhengqi Gao, Amir Begovic, Meng Zhang, Haoyu Yang, Haoxing Ren, Rena Huang, Duane S. Boning and **Jiaqi Gu**<br>
     * Design, Automation and Test in Europe Conference (DATE), Lyon, France, Mar. 31 -  Apr. 02, 2025.
   
-  ### C66. [qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers](https://arxiv.org/abs/2411.02447)
+  ### C67. [qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers](https://arxiv.org/abs/2411.02447)
     * <a href="/publications/papers/Quant_DATE2025_Gu.pdf" style="color:#3793ae">preprint</a>
     * Junyao Zhang, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, **Jiaqi Gu**, Hanrui Wang, Hai (Helen) Li and Yiran Chen<br>
     * Design, Automation and Test in Europe Conference (DATE), Lyon, France, Mar. 31 -  Apr. 02, 2025. (**Best Paper Candidate**)
 
-  ### C65. [LiDAR: Automated Curvy Waveguide Detailed Routing for Large-Scale Photonic Integrated Circuit](https://arxiv.org/abs/2410.01260)
+  ### C66. [LiDAR: Automated Curvy Waveguide Detailed Routing for Large-Scale Photonic Integrated Circuit](https://arxiv.org/abs/2410.01260)
     * <a href="/publications/papers/ONN_ISPD2025_Gu.pdf" style="color:#3793ae">preprint</a>
     * Hongjian Zhou, Keren Zhu and **Jiaqi Gu**<br>
     * ACM International Symposium on Physical Design (ISPD), Austin, TX, USA, Mar. 16-19, 2025.
 
-  ### C64. [The Unlikely Hero: Nonidealities in Analog Photonic Neural Networks as Built-in Adversarial Defenders](https://arxiv.org/abs/2410.01289)
+  ### C65. [The Unlikely Hero: Nonidealities in Analog Photonic Neural Networks as Built-in Adversarial Defenders](https://arxiv.org/abs/2410.01289)
     * <a href="/publications/papers/ONN_ASPDAC2025_Gu2.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/ScopeX-ASU/Unlikely_Hero)
     * Ziyang Jiang, Pingchuan Ma, Meng Zhang, Rena Huang and **Jiaqi Gu**<br>
     * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, Jan. 20-23, 2025.
 
-  ### C63. [ADEPT-Z: Zero-Shot Automated Circuit Topology Search for Pareto-Optimal Photonic Tensor Cores](https://arxiv.org/abs/2407.05510)
+  ### C64. [ADEPT-Z: Zero-Shot Automated Circuit Topology Search for Pareto-Optimal Photonic Tensor Cores](https://arxiv.org/abs/2407.05510)
     * <a href="/publications/papers/ONN_ASPDAC2025_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/ScopeX-ASU/ADEPT-Z)
     * Ziyang Jiang, Pingchuan Ma, Meng Zhang, Rena Huang and **Jiaqi Gu**<br>
     * ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, Jan. 20-23, 2025.
 
 ======
 * 2024
+  ### C63. [PACE: Pacing Operator Learning to Accurate Optical Field Simulation for Complicated Photonic Devices](https://arxiv.org/abs/2411.03527)
+    * <a href="/publications/papers/ML_NeurIPS2024_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/zhuhanqing/PACE-Light)
+    * Hanqing Zhu, Wenyan Cong, Guojin Chen, Shupeng Ning, Ray T. Chen, **Jiaqi Gu**, and David Z. Pan<br>
+    * Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Dec 10 - Dec 15, 2024.
+  
   ### C62. [SCATTER: Algorithm-Circuit Co-Sparse Photonic Accelerator with Thermal-Tolerant, Power-Efficient In-situ Light Redistribution](https://arxiv.org/abs/2407.05510)
     * <a href="/publications/papers/ONN_ICCAD2024_Gu.pdf" style="color:#3793ae">preprint</a> \| [code](https://github.com/ScopeX-ASU/SCATTER)
     * Ziang Yin, Nicholas Gangi, Meng Zhang, Jeff Zhang, Rena Huang and **Jiaqi Gu**<br>
@@ -402,6 +407,12 @@ Conference Papers
 
 Journal Papers
 ======
+* 2025
+  ### J20. [PIC2O-Sim: A Physics-Inspired Causality-Aware Dynamic Convolutional Neural Operator for Ultra-Fast Photonic Device FDTD Simulation](https://arxiv.org/abs/2406.17810)
+  * [preprint](https://arxiv.org/abs/2406.17810)</a>
+  * Pingchuan Ma, Haoyu Yang, Zhengqi Gao, Duane S. Boning and **Jiaqi Gu**
+  * APL Photonics, Feb. 11 2025. 
+
 * 2024
   ### J19. [Selecting robust silicon photonic designs after Bayesian optimization without extra simulations](https://doi.org/10.1364/OE.531213)
   * <a href="/publications/papers/ONN_OE2024_Gu.pdf" style="color:#3793ae">preprint</a>
